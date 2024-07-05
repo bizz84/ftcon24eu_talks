@@ -1,4 +1,9 @@
+# FTCON24EU
+
+
+Contribute by filling the talks/_template.text file following the instructions inside. Save with talk name as .json file. Huge Thank you :)
 # Talks
+
 
 | Title | Speakers | Resources | Recommendations |
 | ----- | -------- | --------- | --------------- |

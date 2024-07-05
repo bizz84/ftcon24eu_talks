@@ -48,7 +48,14 @@ Future<void> parseJsons(List<Talk> talks, List<Speaker> uniqueSpeakers,
 }
 
 void writeReadme(List<Talk> talks) async {
-  final readmeContent = StringBuffer('# Talks\n\n');
+  final readmeContent = StringBuffer();
+
+  readmeContent.writeln('# FTCON24EU\n\n');
+
+  readmeContent.writeln(
+      'Contribute by filling the talks/_template.text file following the instructions inside. Save with talk name as .json file. Huge Thank you :)');
+
+  readmeContent.writeln('# Talks\n\n');
 
   // Generate table headers
   readmeContent.writeln('| Title | Speakers | Resources | Recommendations |');

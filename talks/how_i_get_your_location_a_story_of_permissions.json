@@ -1,0 +1,55 @@
+{
+    "speakers": [
+      {
+        "name": "Thomas Coumau",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "How I get your location: A story of permissions",
+    "description": "In many mobile applications, it is essential to track the user's location in order to provide a unique and personalised experience. However, gaining access to this sensitive information requires explicit permissions, especially when the goal is to track user locations even when the application is not actively running.\r\n\r\nThis was the challenge I faced when working on my geofencing integration project, and I must admit that my initial expectations were not met. What I thought I could do in one day turned out to be a much more complicated task.\r\n\r\nHere are some of the topics I will cover during the talk:\r\n\r\n- An exploration of different types of permissions and best practices for requesting them\r\n- How to ask for foreground location permission with clean cross-platform code\r\n- How to ask for background permissions with clean cross-platform code\r\n- A discussion of Flutter's limitations when it comes to requesting such permissions\r\n\r\nIn the end, you will be able to access your users' location no matter what the circumstances - or at least be able to ask for it.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "12:10 PM",
+    "room": "Dart Den",
+    "format": "Lightning talk"
+  }
+  

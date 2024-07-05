@@ -1,0 +1,55 @@
+{
+    "speakers": [
+      {
+        "name": "Anton Borries",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Adding HomeScreenWidgets to your Flutter App",
+    "description": "After iOS 17 introduced Interactive Widgets, HomeScreen Widgets have become increasingly popular. In this talk, we will explore what HomeScreen Widgets are and the benefits they can bring to your users and your product. Most importantly, the session will cover all the necessary steps to add them to your Flutter apps on iOS and Android using home_widget.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "5:20 PM",
+    "room": "Flutter Forest",
+    "format": "Session"
+  }
+  

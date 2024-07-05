@@ -1,0 +1,55 @@
+{
+    "speakers": [
+      {
+        "name": "Chris Swan",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Showing that you care about security - OpenSSF Scorecards for Dart and Flutter projects",
+    "description": "Have you noticed the OpenSSF Scorecard badges on the official Dart and Flutter repos? It's Google's way of showing that they care about security. Practices such as pinning dependencies, branch protection, required reviews, continuous integration tests etc. are measured to provide a score and accompanying badge.\r\n\r\nYou can do the same for your projects, and this presentation will show you how, with an emphasis on the unique challenges that come up when working with Dart and Flutter.\r\n\r\nThe session will provide a walkthrough of the steps involved in securing a first repository, and then what it takes to repeat that process across an organization with multiple repos. It will also look at the ongoing maintenance involved once scorecards have been implemented, and how aspects of that maintenance can be better automated to minimize toil.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "11:15 AM",
+    "room": "Async Area",
+    "format": "Session"
+  }
+  

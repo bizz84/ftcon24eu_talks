@@ -50,10 +50,18 @@ Future<void> parseJsons(List<Talk> talks, List<Speaker> uniqueSpeakers,
 void writeReadme(List<Talk> talks) async {
   final readmeContent = StringBuffer();
 
-  readmeContent.writeln('# FTCON24EU\n\n');
+  readmeContent.writeln('# FlutterCon Europe 2024\n\n');
 
   readmeContent.writeln(
-      'Contribute by filling the talks/_template.text file following the instructions inside. Save with talk name as .json file. Huge Thank you :)');
+      'There is a talks/_template.text file with instructions inside. Save as talk_title.json into talks/. You can [edit and add file directly in GitHub](https://github.com/martin-bertele/ftcon24eu/tree/main/talks) or clone the repo and push changes.');
+
+  readmeContent.writeln(
+      'This repo provides .json files. A script generates markdown files triggered via a GitHub Action whenever changes are pushed to .json files within the talks/ directory.');
+  readmeContent.writeln(
+      'Please contribute by filling missing information and fixing things :) Big thank you!');
+
+  readmeContent.writeln(
+      'Current status: talks from Wednesday are prepared. Fill any info there :) Conference days Thursday and Friday follow until Sunday 8.7. You can go ahead an be faster.');
 
   readmeContent.writeln('# Talks\n\n');
 

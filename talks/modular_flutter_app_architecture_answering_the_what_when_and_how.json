@@ -1,0 +1,54 @@
+{
+    "speakers": [
+        {
+            "name": "Salih Guler",
+            "bio": "About",
+            "companyName": "",
+            "companyUrl": "",
+            "githubUrlOrHandle": "",
+            "xUrlOrHandle": "",
+            "linkedinUrlOrHandle": "",
+            "webUrl": ""
+        }
+    ],
+    "title": "Modular Flutter App Architecture: Answering the What, When and How",
+    "videoUrl": "",
+    "description": "As Flutter apps grow in complexity, adopting a modular architecture becomes a critical practice to manage codebases and enable efficient feature development. It brings better code organization, team independence for feature development and testing, and separation of concerns.\n\nFor Flutter applications, there are times to follow modular application architecture and times to avoid it. In this talk, we will explore what modular architecture means for Flutter, when to implement it in your apps and when not to, and how to structure your code into logical modules with concrete strategies and examples by dividing code into feature, layer, and core modules. Last but not least, you will learn best practices for module communication, state management across modules, and module-specific testing.",
+    "resources": [
+        {
+            "label": "Slides/Blog/...",
+            "url": ""
+        }
+    ],
+    "recommendations": [
+        {
+            "tool": "",
+            "url": "",
+            "comment": ""
+        }
+    ],
+    "day": "Wednesday",
+    "time": "10:20 AM",
+    "room": "Widget Way",
+    "format": "Session",
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+        "Accessibility",
+        "Animations",
+        "Application Architecture - Navigation",
+        "Custom Painting - Render Objects - Rendering",
+        "Dart 3 Language Features",
+        "Dart on the server",
+        "Enterprise - Tech Leadership",
+        "Firebase & Flutter",
+        "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+        "Flutter Widgets & Layouts",
+        "Game Development",
+        "Networking (GraphQl, APIs, etc.)",
+        "Package & Plugin Development",
+        "Security",
+        "State Management",
+        "Testing",
+        "Third Party Libraries"
+    ]
+}

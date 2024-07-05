@@ -1,0 +1,55 @@
+{
+    "speakers": [
+      {
+        "name": "André Schmidt Di Salvo",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Please wait... : The perception of time in user Interfaces",
+    "description": "Waiting is an essential part of everything: sometimes things just take a while. Apps are no different, the network and other factors are causing inevitable delays, resulting in a waiting user. In this talk, we have a look at the perception of time and identify what a delay is made of. On the technical side, we learn how to creatively use Flutter widgets and futures to improve the user's experience, working with his expectation and (im)patience.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "1:40 PM",
+    "room": "Flutter Forest",
+    "format": "Session"
+  }
+  

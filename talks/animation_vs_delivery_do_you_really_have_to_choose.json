@@ -1,0 +1,65 @@
+{
+    "speakers": [
+      {
+        "name": "Thomas Coumau",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      },
+      {
+        "name": "Maxime Rougieux",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Animation vs delivery, do you really have to choose ?",
+    "description": "We love Flutter, primarily because of its seamless and captivating animations. These animations don't just add visual appeal—they instill identity and authenticity into an application. Yet, persuading stakeholders or even fellow team members of their worth can be challenging. Mainly because we couldn't always estimate precisely how long a particular animation would take to implement.\r\n\r\nWith this in mind, we decided to dive deep. We wanted to understand Flutter animations inside out and make them efficient, without wasting hours.\r\n\r\nFor over a year now, we (Thomas and Maxime) have led company-wide Flutter animation challenges called “UI & Animations Dojos”. Our objective? To collaboratively enhance our skills and guide fellow developers in seamlessly integrating animations.\r\n\r\nHere are some of the topics we’ll tackle during the talk:\r\n\r\n- The different ways to animate Flutter recommends and how to use them in real life cases.\r\n- How to figure out if adding that fancy animation is going to blow your project timeline.\r\n- Tips to code animations faster and smarter based on a live coding session.\r\n- By the end, you'll gain a better grasp on estimating the time required to implement a specific animation, aiding in prioritizing what's most essential for your application.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "1:40 PM",
+    "room": "Async Area",
+    "format": "Session"
+  }
+  

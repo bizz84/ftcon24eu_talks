@@ -1,0 +1,55 @@
+{
+    "speakers": [
+      {
+        "name": "Manuela Sakura Rommel",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games",
+    "description": "With Flutter we have a great tool to create games that can be enjoyed by our users. Now is the time to also talk about how to make games inclusive.\r\nLet's walk through my experiment of making my game \"Dash’s adventure\" inclusive, meaning thinking of people with various disabilities and creating a game that is enjoyable by everyone.\r\nWe will check what is possible and what is currently done by the bigger gaming studios to make games accessible. We will talk about accessibility guidelines in gaming and their different levels of accessibility.\r\nFurthermore, we are going to check how to implement some of the talked about accessibility guidelines in Flutter.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "1:40 PM",
+    "room": "Dart Den",
+    "format": "Session"
+  }
+  

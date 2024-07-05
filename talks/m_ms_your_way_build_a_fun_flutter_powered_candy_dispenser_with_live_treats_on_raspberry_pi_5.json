@@ -1,0 +1,65 @@
+{
+    "speakers": [
+      {
+        "name": "Moritz Theis",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      },
+      {
+        "name": "Payam Zahedi",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5",
+    "description": "Tired of boring M&M mixes? Take control with Flutter! This talk dives into building a custom M&M dispenser you control with code, powered by the mighty Raspberry Pi 5.\r\n\r\nWe'll ditch the screens and get our hands dirty (well, maybe not that dirty) as we:\r\n\r\n– Craft a sweet user interface to pick your perfect M&M color combo.\r\n– Unlock the secrets of connecting Flutter to real-world hardware (cue the M&M rain!).\r\n– Learn how to make your own interactive Flutter projects beyond the phone, leveraging the power of Raspberry Pi 5.\r\n\r\nGet ready for a sugar rush of knowledge (and maybe some real M&Ms)! This session features a live demo of the M&M dispenser on stage, so you can create your own custom mix.\r\n\r\nCalling all curious coders! This talk is perfect if you want to see Flutter in action on Raspberry Pi 5 and build something fun - with a delicious reward.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "4:20 PM",
+    "room": "Flutter Forest",
+    "format": "Session"
+  }
+  

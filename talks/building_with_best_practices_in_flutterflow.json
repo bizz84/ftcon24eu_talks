@@ -1,0 +1,55 @@
+{
+    "speakers": [
+      {
+        "name": "Leigha Reid",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Building with best practices in FlutterFlow",
+    "description": "In this session, we'll walk through an overview of FlutterFlow. We'll start with the product mission, talk through the architecture of a FlutterFlow app, walk through the generated code, and talk through best practices when building in FlutterFlow.\r\n\r\nYou'll walk away from this session with a better understanding of how FlutterFlow generates Flutter code, and how you can leverage new FlutterFlow features.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "2:35 PM",
+    "room": "Dart Den",
+    "format": "Session"
+  }
+  

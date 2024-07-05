@@ -1,0 +1,55 @@
+{
+    "speakers": [
+      {
+        "name": "Pavel Sulimau",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Code Quality Gates for Large-Scale Flutter Apps",
+    "description": "I'll share insights on guidelines and tools to maintain the quality of a Flutter app.\r\n\r\nThe talk will cover code quality aspects: \r\n- structural, like code reviews and various static code analysis techniques including architecture tests\r\n- functional, such as automated testing.\r\n\r\nCode quality is important for projects of any size, but it's crucial for large-scale ones where tens of Flutter developers may work for years.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "3:45 PM",
+    "room": "Flutter Forest",
+    "format": "Lightning talk"
+  }
+  

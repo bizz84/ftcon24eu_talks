@@ -1,0 +1,55 @@
+{
+    "speakers": [
+      {
+        "name": "Norbert Kozsir",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Compilers, Virtual Machines and Code Analysis - What makes Dart and Flutter run",
+    "description": "This advanced session takes a look at what powers Flutter under the hood. This will include everything but the typical code you write day to day.\r\n\r\nKey topics:\r\n\r\n- The Dart compiler\r\n- The DartVM\r\n- The Dart Analyzer\r\n- The Engine\r\n\r\nEach topic will consist of some high-level overview & fun examples of things you can do.\r\n\r\nAfter the talk, you should have gained a general understanding of how Flutter and Dart work under the hood and be equipped with basic knowledge to start building tools for the Dart and Flutter ecosystem.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "4:20 PM",
+    "room": "Dart Den",
+    "format": "Session"
+  }
+  

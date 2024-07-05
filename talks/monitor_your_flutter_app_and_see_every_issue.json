@@ -1,0 +1,55 @@
+{
+    "speakers": [
+      {
+        "name": "Jonas Uekötter",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Monitor your Flutter app and see every issue!",
+    "description": "Error and performance monitoring is essential for assessing your application's health while in use by customers. After this talk, you'll gain the skills to analyze various production issues effectively and swiftly. This includes application crashes up to general system sluggishness.\r\n\r\nThe first part aims to teach you a fundamental understanding of error monitoring. Starting with the obvious question of \"What is error monitoring, and why do I need it?\" all the way to \"Which hooks do I need to use to observe uncaught exceptions?\".\r\nAdditionally, we'll explore what makes exceptions actionable and useful, so that you're able to fix them in no time.\r\n\r\nIn the second half of the talk, I'm going to explain the fundamental concepts of performance monitoring,\r\nand how it differs from error monitoring. \r\nBased on an example with Flutter for the app and dart_frog for the backend, we'll explore how to trace performance across the network boundary to identify and fix general system sluggishness.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "5:20 PM",
+    "room": "Async Area",
+    "format": "Session"
+  }
+  

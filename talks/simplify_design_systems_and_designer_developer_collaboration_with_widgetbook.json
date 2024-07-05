@@ -1,0 +1,55 @@
+{
+    "speakers": [
+      {
+        "name": "Lucas Josefiak",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Simplify Design Systems and Designer/Developer Collaboration with Widgetbook",
+    "description": "Creating beautiful UI has never been easier with Flutter. However, managing and organizing widgets effectively can pose challenges for developers, particularly when it comes to organizing them, testing them in all their different use cases, and maintaining design-code consistency. This is where Widgetbook comes in.\r\n\r\nIn this talk, we will see examples of Flutter companies benefiting from Widgetbook. You can use the open-source Flutter package Widgetbook to build your own design system/widget library. By using the CI/CD integration with Widgetbook Cloud, you can automatically test your widgets across different devices, themes, and languages (managed Golden Tests). In addition, you can connect your Figma designs directly to our Flutter widgets which simplifies the review process with designers. Thereby, you will keep design and code in sync.\r\n\r\nKey takeaways:\r\n\r\n- How to build your own design system/widget library\r\n- How to automatically test your widgets on different device sizes, themes, languages, etc.\r\n- How to use Golden Tests without limitations\r\n- How to collaborate effectively with designers and product managers to keep design and code sync\r\n- How to use Widgetbook in your processes by seeing real-life examples from existing Widgetbook users",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "2:35 PM",
+    "room": "Async Area",
+    "format": "Session"
+  }
+  

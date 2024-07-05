@@ -1,0 +1,55 @@
+{
+    "speakers": [
+      {
+        "name": "Simon Lightfoot",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Realtime Communications with Flutter",
+    "description": "Have you been finding the limitations with Firebase/Firestore in your Flutter projects? Here is a solution that might be for you!\r\n\r\nWhat if I told you that you could switch from Firestore to Pure Dart and still achieve your project goals?\r\n\r\nIn this session learn how to write a backend in Dart and have it communicate in real-time with your users on Mobile/Desktop/Web and Embedded using Flutter!",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "1:40 PM",
+    "room": "Widget Way",
+    "format": "Session"
+  }
+  

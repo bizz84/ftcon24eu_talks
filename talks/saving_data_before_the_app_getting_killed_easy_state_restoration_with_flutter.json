@@ -1,0 +1,55 @@
+{
+    "speakers": [
+      {
+        "name": "Lucas Goldner",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Saving data before the app getting killed! Easy state restoration with Flutter",
+    "description": "Imagine this scenario as a user: You are writing a long text in an app, keep switching between various apps, and return to the app, but notice the OS killed it! Now, all your written text is gone. What a terrible UX! How can we, as developers, help the user avoid running into this worst-case scenario? Simply keep and restore the app’s state! We always discuss state management but forget about restoration. For my newest app, \"Japanana,\" I needed to include this feature. So, I will explain the implementation with an actual example. In this talk, I want to:\r\n\r\n- Show how to enable state restoration\r\n- Explain the differences between iOS and Android\r\n- Implement the restoration of our app state and discuss various strategies including navigation\r\n- Learn about multiple possibly unheard types such as RestorableInt and RestorableString\r\n- Adjust our tests with this new behaviour",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "3:45 PM",
+    "room": "Widget Way",
+    "format": "Lightning talk"
+  }
+  

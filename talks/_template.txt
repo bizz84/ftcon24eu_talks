@@ -12,7 +12,8 @@ How to fill this json:
         "companyUrl": "",
         "githubUrlOrHandle": "",
         "xUrlOrHandle": "",
-        "linkedinUrlOrHandle": ""
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
       }
     ],
     "title": "Required",

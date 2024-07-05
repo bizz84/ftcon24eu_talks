@@ -7,7 +7,8 @@
         "companyUrl": "",
         "githubUrlOrHandle": "",
         "xUrlOrHandle": "",
-        "linkedinUrlOrHandle": ""
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
       }
     ],
     "title": "Debugging performance issues with the Flutter DevTools",

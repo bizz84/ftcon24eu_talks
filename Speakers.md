@@ -8,6 +8,13 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
+**[Native Background Processing with Flutter]()**
+
+Resources: [Blog](https://roszkowski.dev/background)
+
+Recommendations:
+- []() 
+
 **[Debugging performance issues with the Flutter DevTools]()**
 
 Resources: [Slides/Blog/...]()
@@ -24,16 +31,32 @@ About
 [GitHub]() | [X](AlicjaOgonowska) | [LinkedIn](alicja-ogonowska)
 
 
-**[Debugging performance issues with the Flutter DevTools]()**
+**[Native Background Processing with Flutter]()**
 
-Resources: [Slides/Blog/...]()
+Resources: [Blog](https://roszkowski.dev/background)
 
 Recommendations:
-- [Flashlight](https://github.com/bamlab/flashlight) App performance score
+- []() 
 
 **[Listen up! Mastering A/B testing and feedback techniques in your mobile apps]()**
 
 Resources: [Slides/Blog/...]()
+
+Recommendations:
+- []() 
+
+
+## Dominik Roszkowski
+@ []()
+
+About
+
+[GitHub]() | [X]() | [LinkedIn]()
+
+
+**[Native Background Processing with Flutter]()**
+
+Resources: [Blog](https://roszkowski.dev/background)
 
 Recommendations:
 - []() 
@@ -47,12 +70,12 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Debugging performance issues with the Flutter DevTools]()**
+**[Native Background Processing with Flutter]()**
 
-Resources: [Slides/Blog/...]()
+Resources: [Blog](https://roszkowski.dev/background)
 
 Recommendations:
-- [Flashlight](https://github.com/bamlab/flashlight) App performance score
+- []() 
 
 **[Cat-like Development: Flutter for Efficiency]()**
 

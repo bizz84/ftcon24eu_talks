@@ -1,0 +1,38 @@
+{
+    "speakers": [
+      {
+        "name": "Alicja Ogonowska",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "AlicjaOgonowska",
+        "linkedinUrlOrHandle": "alicja-ogonowska"
+      }
+    ],
+    "title": "Listen up! Mastering A/B testing and feedback techniques in your mobile apps",
+    "videoUrl": "",
+    "description": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "day": "Wednesday",
+    "time": "11:15 AM",
+    "room": "Dart Den",
+    "format": "Session",
+    "level": "Intermediate",
+    "topics": [
+      "Firebase & Flutter",
+      "Third Party Libraries"
+    ]
+  }

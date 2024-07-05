@@ -1,0 +1,34 @@
+{
+    "speakers": [
+      {
+        "name": "Mangirdas Kazlauskas",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": ""
+      }
+    ],
+    "title": "Cat-like Development: Flutter for Efficiency",
+    "videoUrl": "",
+    "description": "",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://kazlauskas.dev/ldd/"
+      }
+    ],
+    "day": "Wednesday",
+    "time": "10:20 AM",
+    "room": "Dart Den",
+    "format": "Session",
+    "level": "Intermediate",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Enterprise - Tech Leadership",
+      "Third Party Libraries"
+    ]
+  }

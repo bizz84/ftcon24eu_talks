@@ -1,0 +1,37 @@
+{
+    "speakers": [
+      {
+        "name": "Alexandre Moureaux",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": ""
+      }
+    ],
+    "title": "Debugging performance issues with the Flutter DevTools",
+    "videoUrl": "",
+    "description": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "Flashlight",
+        "comment": "App performance score",
+        "url": "https://github.com/bamlab/flashlight"
+      }
+    ],
+    "day": "Wednesday",
+    "time": "05:20 PM",
+    "room": "Widget Way",
+    "format": "Session",
+    "level": "Intermediate",
+    "topics": [
+      "Flutter Widgets & Layouts"
+    ]
+  }

@@ -8,7 +8,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -31,7 +31,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -54,7 +54,7 @@ About
 [GitHub]() | [X](AlicjaOgonowska) | [LinkedIn](alicja-ogonowska)
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -77,7 +77,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -100,7 +100,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -123,7 +123,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -146,7 +146,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -169,7 +169,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -192,7 +192,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -215,7 +215,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -238,7 +238,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -261,7 +261,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -284,7 +284,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -307,7 +307,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -330,7 +330,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -353,7 +353,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -376,7 +376,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -399,7 +399,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -419,6 +419,13 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
+
+Resources: [Slides/Blog/...]()
+
+Recommendations:
+- []() 
+
 **[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
 
 Resources: [Slides/Blog/...]()
@@ -435,7 +442,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -458,7 +465,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -481,7 +488,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -504,7 +511,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -527,7 +534,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -550,13 +557,6 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
-
-Resources: [Slides/Blog/...]()
-
-Recommendations:
-- []() 
-
 **[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
@@ -573,7 +573,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -596,7 +596,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -619,7 +619,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -642,7 +642,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -665,7 +665,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -688,14 +688,14 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 
 Recommendations:
 - []() 
 
-**[How I get your location: A story of permissions]()**
+**[Animation vs delivery, do you really have to choose ?]()**
 
 Resources: [Slides/Blog/...]()
 
@@ -711,7 +711,7 @@ About
 [GitHub]() | [X]() | [LinkedIn]()
 
 
-**[Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games]()**
+**[Code Quality Gates for Large-Scale Flutter Apps]()**
 
 Resources: [Slides/Blog/...]()
 

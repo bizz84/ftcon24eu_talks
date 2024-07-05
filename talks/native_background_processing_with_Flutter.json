@@ -1,0 +1,39 @@
+{
+    "speakers": [
+      {
+        "name": "Dominik Roszkowski",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": "https://roszkowski.dev"
+      }
+    ],
+    "title": "Native Background Processing with Flutter",
+    "videoUrl": "",
+    "description": "",
+    "resources": [
+      {
+        "label": "Blog",
+        "url": "https://roszkowski.dev/background"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "day": "Wednesday",
+    "time": "11:15 AM",
+    "room": "Widget Way",
+    "format": "Session",
+    "level": "Intermediate",
+    "topics": [
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Package & Plugin Development"
+    ]
+  }

@@ -6,6 +6,7 @@ class Speaker {
   final String? githubUrlOrHandle;
   final String? xUrlOrHandle;
   final String? linkedinUrlOrHandle;
+  final String? webUrl;
 
   Speaker({
     required this.name,
@@ -15,6 +16,7 @@ class Speaker {
     this.githubUrlOrHandle,
     this.xUrlOrHandle,
     this.linkedinUrlOrHandle,
+    this.webUrl,
   });
 
   factory Speaker.fromJson(Map<String, dynamic> json) => Speaker(
@@ -25,5 +27,6 @@ class Speaker {
         githubUrlOrHandle: json['githubUrlOrHandle'],
         xUrlOrHandle: json['xUrlOrHandle'],
         linkedinUrlOrHandle: json['linkedinUrlOrHandle'],
+        webUrl: json['webUrl'],
       );
 }

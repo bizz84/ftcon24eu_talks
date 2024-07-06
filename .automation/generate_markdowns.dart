@@ -13,8 +13,11 @@ Future<void> main() async {
   writeSpeakers(speakers, talks);
 }
 
-Future<void> parseJsons(List<Talk> talks, List<Speaker> uniqueSpeakers,
-    List<Company> uniqueCompanies) async {
+Future<void> parseJsons(
+  List<Talk> talks,
+  List<Speaker> uniqueSpeakers,
+  List<Company> uniqueCompanies,
+) async {
   const dataDir = 'talks';
   final directory = Directory(dataDir);
   final files = await directory
@@ -27,6 +30,9 @@ Future<void> parseJsons(List<Talk> talks, List<Speaker> uniqueSpeakers,
     talks.add(Talk.fromJson(jsonDecode(fileContent)));
   }
 
+  // sort alphabetically by title
+  talks.sort((a, b) => a.title.compareTo(b.title));
+
   for (Talk talk in talks) {
     for (Speaker speaker in talk.speakers) {
       if (!uniqueSpeakers.any((s) => s.name == speaker.name)) {
@@ -35,12 +41,14 @@ Future<void> parseJsons(List<Talk> talks, List<Speaker> uniqueSpeakers,
 
       int idx =
           uniqueCompanies.indexWhere((c) => c.name == speaker.companyName);
-      if (idx < 0 && speaker.companyName != null) {
-        uniqueCompanies.add(Company(
-          name: speaker.companyName!,
-          speakers: talk.speakers,
-        ));
+      if (idx < 0) {
+        if (speaker.companyName != null && speaker.companyName!.isNotEmpty)
+          uniqueCompanies.add(Company(
+            name: speaker.companyName!,
+            speakers: List.from(talk.speakers),
+          ));
       } else {
+        // add speaker to existing company
         uniqueCompanies[idx].speakers.add(speaker);
       }
     }
@@ -60,9 +68,6 @@ void writeReadme(List<Talk> talks) async {
   readmeContent.writeln(
       'Please contribute by filling missing information and fixing things :) Big thank you!');
 
-  readmeContent.writeln(
-      'Current status: talks from Wednesday are prepared. Fill any info there :) Conference days Thursday and Friday follow until Sunday 8.7. You can go ahead an be faster.');
-
   readmeContent.writeln('# Talks\n\n');
 
   // Generate table headers
@@ -72,13 +77,17 @@ void writeReadme(List<Talk> talks) async {
   // Iterate over talks to populate the table
   for (var talk in talks) {
     // Extract and format data for each talk
-    final titleColumn = '[${talk.title}](${talk.videoUrl})';
+    final titleColumn = talk.videoUrl?.isNotEmpty == true
+        ? '[${talk.title}](${talk.videoUrl})'
+        : '${talk.title}';
     final speakersColumn = talk.speakers
         .map((s) =>
             '[${s.name}](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#${s.name.toLowerCase().replaceAll(' ', '-')})')
         .join(', ');
-    final resourcesColumn =
-        talk.resources?.map((r) => '[${r.label}](${r.url})').join(', ');
+    final resourcesColumn = talk.resources
+        ?.where((r) => r.label != 'Slides/Blog/...')
+        .map((r) => '[${r.label}](${r.url})')
+        .join(', ');
     final recommendationsColumn =
         talk.recommendations?.map((r) => '[${r.tool}](${r.url})').join('<br>');
 
@@ -102,19 +111,25 @@ void writeSpeakers(List<Speaker> speakers, List<Talk> talks) {
   for (var speaker in speakers) {
     // Write speaker's company name and URL
     speakersContent.writeln('## ${speaker.name}');
-    speakersContent
-        .writeln('@ [${speaker.companyName}](${speaker.companyUrl})\n');
+    if (speaker.companyName != null && speaker.companyName!.isNotEmpty)
+      speakersContent
+          .writeln('@ [${speaker.companyName}](${speaker.companyUrl})\n');
 
-    speakersContent.writeln('${speaker.bio}\n');
+    if (speaker.bio != 'About') speakersContent.writeln('${speaker.bio}\n');
 
     final socialLinks = [];
-    if (speaker.githubUrlOrHandle != null) {
+    if (speaker.webUrl != null && speaker.webUrl!.isNotEmpty) {
+      socialLinks.add('[Web](${speaker.webUrl})');
+    }
+    if (speaker.githubUrlOrHandle != null &&
+        speaker.githubUrlOrHandle!.isNotEmpty) {
       socialLinks.add('[GitHub](${speaker.githubUrlOrHandle})');
     }
-    if (speaker.xUrlOrHandle != null) {
+    if (speaker.xUrlOrHandle != null && speaker.xUrlOrHandle!.isNotEmpty) {
       socialLinks.add('[X](${speaker.xUrlOrHandle})');
     }
-    if (speaker.linkedinUrlOrHandle != null) {
+    if (speaker.linkedinUrlOrHandle != null &&
+        speaker.linkedinUrlOrHandle!.isNotEmpty) {
       socialLinks.add('[LinkedIn](${speaker.linkedinUrlOrHandle})');
     }
     speakersContent.writeln(socialLinks.join(' | ') + '\n\n');
@@ -126,12 +141,14 @@ void writeSpeakers(List<Speaker> speakers, List<Talk> talks) {
     // Iterate over talks to create sections
     for (var talk in speakerTalks) {
       // Headline with link to the video
-      speakersContent.writeln('**[${talk.title}](${talk.videoUrl})**\n');
+      speakersContent.writeln(
+          '**${talk.videoUrl?.isNotEmpty == true ? '[${talk.title}](${talk.videoUrl})' : '${talk.title}'}**\n');
 
       // Check if resources exist and are not empty
       if (talk.resources != null && talk.resources!.isNotEmpty) {
         // Map resources to strings and join them with commas
         final resourcesString = talk.resources!
+            ?.where((r) => r.label != 'Slides/Blog/...')
             .map((resource) => '[${resource.label}](${resource.url})')
             .join(', ');
 
@@ -143,8 +160,9 @@ void writeSpeakers(List<Speaker> speakers, List<Talk> talks) {
       if (talk.recommendations != null && talk.recommendations!.isNotEmpty) {
         speakersContent.writeln('Recommendations:');
         for (var recommendation in talk.recommendations!) {
-          speakersContent.writeln(
-              '- [${recommendation.tool}](${recommendation.url}) ${recommendation.comment}');
+          if (recommendation.tool.isNotEmpty)
+            speakersContent.writeln(
+                '- [${recommendation.tool}](${recommendation.url}) ${recommendation.comment}');
         }
         speakersContent.writeln(); // Add a newline for spacing
       }

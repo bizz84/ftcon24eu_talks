@@ -20,6 +20,13 @@
         "url": "https://kazlauskas.dev/ldd/"
       }
     ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
     "day": "Wednesday",
     "time": "10:20 AM",
     "room": "Dart Den",

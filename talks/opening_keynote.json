@@ -29,26 +29,12 @@
     ],
     "day": "Wednesday",
     "time": "9:00 AM",
+    "startsAt": "2024-07-03T07:00:00.000Z",
+    "endsAt": "2024-07-03T08:00:00.000Z",
     "room": "Widget Way",
     "format": "Keynote",
-    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "level": "Introductory and overview",
     "topics": [
-        "Accessibility",
-        "Animations",
-        "Application Architecture - Navigation",
-        "Custom Painting - Render Objects - Rendering",
-        "Dart 3 Language Features",
-        "Dart on the server",
-        "Enterprise - Tech Leadership",
-        "Firebase & Flutter",
-        "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
-        "Flutter Widgets & Layouts",
-        "Game Development",
-        "Networking (GraphQl, APIs, etc.)",
-        "Package & Plugin Development",
-        "Security",
-        "State Management",
-        "Testing",
-        "Third Party Libraries"
+        "Enterprise - Tech Leadership"
     ]
 }

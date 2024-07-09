@@ -13,7 +13,7 @@
     ],
     "title": "Debugging performance issues with the Flutter DevTools",
     "videoUrl": "",
-    "description": "",
+    "description": "I've built a dummy app with several performance issues from real life examples. Through live-coding, let’s fix those issues together, leveraging the power of the performance view in the DevTools. \\r\\nAs an added bonus, I will present a neat way to establish a performance indicator, to easily evaluate the impact of our changes.",
     "resources": [
       {
         "label": "Slides/Blog/...",
@@ -29,6 +29,8 @@
     ],
     "day": "Wednesday",
     "time": "05:20 PM",
+    "startsAt": "2024-07-03T15:20:00.000Z",
+    "endsAt": "2024-07-03T16:00:00.000Z",
     "room": "Widget Way",
     "format": "Session",
     "level": "Intermediate",

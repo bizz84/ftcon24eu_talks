@@ -1,3 +1,5 @@
+import 'helpers.dart';
+
 class Speaker {
   final String name;
   final String? bio;
@@ -29,4 +31,18 @@ class Speaker {
         linkedinUrlOrHandle: json['linkedinUrlOrHandle'],
         webUrl: json['webUrl'],
       );
+
+  String? get githubLink => githubUrlOrHandle != null
+      ? UrlHelper.toUrl(githubUrlOrHandle!, 'github')
+      : null;
+
+  String? get xLink =>
+      xUrlOrHandle != null ? UrlHelper.toUrl(xUrlOrHandle!, 'x') : null;
+
+  String? get linkedinLink => linkedinUrlOrHandle != null
+      ? UrlHelper.toUrl(linkedinUrlOrHandle!, 'linkedin')
+      : null;
+
+  String get mdLink =>
+      '[${this.name}](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#${this.name.toLowerCase().replaceAll(' ', '-')})';
 }

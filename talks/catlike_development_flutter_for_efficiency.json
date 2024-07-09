@@ -8,12 +8,12 @@
         "githubUrlOrHandle": "",
         "xUrlOrHandle": "",
         "linkedinUrlOrHandle": "",
-        "webUrl": ""
+        "webUrl": "https://kazlauskas.dev"
       }
     ],
     "title": "Cat-like Development: Flutter for Efficiency",
     "videoUrl": "",
-    "description": "",
+    "description": "Many developers chase the dream of being a \\\"unicorn\\\" - an individual who seamlessly wields the power to design, build, and deliver remarkable products. But what if you are more like a cat? A person, who wants to invest the least amount of effort for the maximum outcome. In this talk, we'll explore how Flutter empowers developers to do exactly that.\\r\\n\\r\\nThe main topics covered in this talk:\\r\\n1) Flutter animations.\\r\\n2) Architectural decisions for seamless performance.\\r\\n3) Using Dart and Flutter packages for efficiency.\\r\\n4) App reviews, user feedback and other product-centric tips.\\r\\n5) ... and more!\\r\\n\\r\\nBy the end of this session, you will learn multiple practical tips and tricks that will help you create great products and stunning, interactive interfaces with minimal effort.",
     "resources": [
       {
         "label": "Slides",
@@ -29,6 +29,8 @@
     ],
     "day": "Wednesday",
     "time": "10:20 AM",
+    "startsAt": "2024-07-03T08:20:00.000Z",
+    "endsAt": "2024-07-03T09:00:00.000Z",
     "room": "Dart Den",
     "format": "Session",
     "level": "Intermediate",

@@ -6,10 +6,6 @@
 
 **Testing that your app is accessible to all**
 
-Resources: 
-
-Recommendations:
-
 
 ## Alexandre Moureaux
 
@@ -17,21 +13,15 @@ Recommendations:
 
 **Debugging performance issues with the Flutter DevTools**
 
-Resources: 
-
 Recommendations:
 - [Flashlight](https://github.com/bamlab/flashlight) App performance score
 
 
 ## Alicja Ogonowska
-[X](AlicjaOgonowska) | [LinkedIn](alicja-ogonowska)
+[X](https://x.com/AlicjaOgonowska) | [LinkedIn](https://www.linkedin.com/in/alicja-ogonowska)
 
 
 **Listen up! Mastering A/B testing and feedback techniques in your mobile apps**
-
-Resources: 
-
-Recommendations:
 
 
 ## Andrea Bizzotto
@@ -40,20 +30,12 @@ Recommendations:
 
 **Lessons Learned from Launching a Flutter app in Production**
 
-Resources: 
-
-Recommendations:
-
 
 ## Andrew Brogdon
 
 
 
 **Opening keynote**
-
-Resources: 
-
-Recommendations:
 
 
 ## André Schmidt Di Salvo
@@ -62,9 +44,12 @@ Recommendations:
 
 **Please wait... : The perception of time in user Interfaces**
 
-Resources: 
 
-Recommendations:
+## Anna Leushchenko
+
+
+
+**Your ultimate guide to code generation productivity for Dart and Flutter**
 
 
 ## Anton Borries
@@ -73,10 +58,6 @@ Recommendations:
 
 **Adding HomeScreenWidgets to your Flutter App**
 
-Resources: 
-
-Recommendations:
-
 
 ## Chris Swan
 
@@ -84,20 +65,12 @@ Recommendations:
 
 **Showing that you care about security - OpenSSF Scorecards for Dart and Flutter projects**
 
-Resources: 
-
-Recommendations:
-
 
 ## Daria Orlova
 
 
 
 **Zero runtime errors: Exploring Static Code Analysis techniques in Flutter**
-
-Resources: 
-
-Recommendations:
 
 
 ## Dominik Roszkowski
@@ -108,7 +81,12 @@ Recommendations:
 
 Resources: [Blog](https://roszkowski.dev/background)
 
-Recommendations:
+
+## Jaime Blasco
+
+
+
+**Elevating JavaScript interoperability with Dart**
 
 
 ## Jan Stępień
@@ -117,9 +95,12 @@ Recommendations:
 
 **One Size Doesn't Fit All: Tailoring Flutter Architectures for Team and Business Success**
 
-Resources: 
 
-Recommendations:
+## John McCutchan
+
+
+
+**Android Platform Views Past, Present, Future**
 
 
 ## Jonas Uekötter
@@ -128,20 +109,12 @@ Recommendations:
 
 **Monitor your Flutter app and see every issue!**
 
-Resources: 
-
-Recommendations:
-
 
 ## Leigha Reid
 
 
 
 **Building with best practices in FlutterFlow**
-
-Resources: 
-
-Recommendations:
 
 
 ## Lucas Goldner
@@ -150,20 +123,12 @@ Recommendations:
 
 **Saving data before the app getting killed! Easy state restoration with Flutter**
 
-Resources: 
-
-Recommendations:
-
 
 ## Lucas Josefiak
 
 
 
 **Simplify Design Systems and Designer/Developer Collaboration with Widgetbook**
-
-Resources: 
-
-Recommendations:
 
 
 ## Lukas Klingsbo 💙
@@ -172,10 +137,6 @@ Recommendations:
 
 **Ubuntu: An OS experience built on Flutter**
 
-Resources: 
-
-Recommendations:
-
 
 ## Majid Hajian
 
@@ -183,20 +144,14 @@ Recommendations:
 
 **Flutter Engineering - Architectural path**
 
-Resources: 
-
-Recommendations:
-
 
 ## Mangirdas Kazlauskas
-
+[Web](https://kazlauskas.dev)
 
 
 **Cat-like Development: Flutter for Efficiency**
 
 Resources: [Slides](https://kazlauskas.dev/ldd/)
-
-Recommendations:
 
 
 ## Manuela Sakura Rommel
@@ -205,9 +160,12 @@ Recommendations:
 
 **Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games**
 
-Resources: 
 
-Recommendations:
+## Marcin Wojnarowski
+
+
+
+**Software correctness**
 
 
 ## Matej Rešetár
@@ -216,9 +174,12 @@ Recommendations:
 
 **Navigation in Flutter - the not-so-obvious parts**
 
-Resources: 
 
-Recommendations:
+## Matteo Maria Terzuolo
+
+
+
+**Dart FFI: A Beginner's Guide to High-Performance Integration**
 
 
 ## Maxime Rougieux
@@ -227,20 +188,12 @@ Recommendations:
 
 **Animation vs delivery, do you really have to choose ?**
 
-Resources: 
-
-Recommendations:
-
 
 ## Mikhail Zotyev
 
 
 
 **Motion Designer is your best friend for creating animations**
-
-Resources: 
-
-Recommendations:
 
 
 ## Moritz Theis
@@ -249,20 +202,12 @@ Recommendations:
 
 **M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5**
 
-Resources: 
-
-Recommendations:
-
 
 ## Norbert Kozsir
 
 
 
 **Compilers, Virtual Machines and Code Analysis - What makes Dart and Flutter run**
-
-Resources: 
-
-Recommendations:
 
 
 ## Pavel Sulimau
@@ -271,10 +216,6 @@ Recommendations:
 
 **Code Quality Gates for Large-Scale Flutter Apps**
 
-Resources: 
-
-Recommendations:
-
 
 ## Payam Zahedi
 
@@ -282,9 +223,12 @@ Recommendations:
 
 **M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5**
 
-Resources: 
 
-Recommendations:
+## Romain Rastel
+
+
+
+**Enhance your Flutter painting skills**
 
 
 ## Salih Guler
@@ -293,10 +237,6 @@ Recommendations:
 
 **Modular Flutter App Architecture: Answering the What, When and How**
 
-Resources: 
-
-Recommendations:
-
 
 ## Sasha Denisov
 
@@ -304,20 +244,12 @@ Recommendations:
 
 **Workshop: Flutter for Android TV and Apple TV**
 
-Resources: 
-
-Recommendations:
-
 
 ## Simon Lightfoot
 
 
 
-**Live Coding Workshop**
-
-Resources: 
-
-Recommendations:
+**Realtime Communications with Flutter**
 
 
 ## Sylvia Dieckmann
@@ -326,20 +258,12 @@ Recommendations:
 
 **Bringing Google Maps to Flutter: The Power of Plugins**
 
-Resources: 
-
-Recommendations:
-
 
 ## Thomas Coumau
 
 
 
-**Animation vs delivery, do you really have to choose ?**
-
-Resources: 
-
-Recommendations:
+**How I get your location: A story of permissions**
 
 
 ## Vadym Pinchuk
@@ -348,8 +272,11 @@ Recommendations:
 
 **Experimenting with Modifier: embracing Compose-inspired UI in Flutter**
 
-Resources: 
 
-Recommendations:
+## Viktor Lidholt
+
+
+
+**Dart on the backend with Serverpod: Building interactive slides for tech talks**
 
 

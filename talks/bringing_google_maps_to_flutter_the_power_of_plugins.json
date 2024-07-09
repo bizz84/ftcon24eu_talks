@@ -49,6 +49,8 @@
     ],
     "day": "Wednesday",
     "time": "2:35 PM",
+    "startsAt": "2024-07-03T12:35:00.000Z",
+    "endsAt": "2024-07-03T13:15:00.000Z",
     "room": "Widget Way",
     "format": "Session"
   }

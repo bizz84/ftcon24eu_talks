@@ -49,6 +49,8 @@
     ],
     "day": "Wednesday",
     "time": "11:15 AM",
+    "startsAt": "2024-07-03T09:15:00.000Z",
+    "endsAt": "2024-07-03T09:55:00.000Z",
     "room": "Async Area",
     "format": "Session"
   }

@@ -59,6 +59,8 @@
     ],
     "day": "Wednesday",
     "time": "4:20 PM",
+    "startsAt": "2024-07-03T14:20:00.000Z",
+    "endsAt": "2024-07-03T15:00:00.000Z",
     "room": "Flutter Forest",
     "format": "Session"
   }

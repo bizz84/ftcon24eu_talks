@@ -1,0 +1,66 @@
+{
+    "speakers": [
+      {
+        "name": "Tomas Piaggio",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      },
+      {
+        "name": "Bettina Carrizo",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Mastering Flutter + Firebase: Architecting for Scale, Security & Savings",
+    "description": "Discover the key principles and strategies for building scalable, secure Flutter apps with Firebase, while keeping costs in check! Join us for an eye-opening session where we'll share actionable tips and best practices for architecting apps that scale without blowing up your costs.\r\n\r\nFrom clever database queries and structuring to authentication and authorization mechanisms, we'll show you how to design architectures that prioritize performance, security, and affordability.\r\n\r\nWe’re going to be looking at real-world examples, and empower you to make informed decisions for your projects.",
+    "day": "Friday",
+    "time": "11:10 AM",
+    "startsAt": "2024-07-05T09:10:00.000Z",
+    "endsAT": "2024-07-05T10:25:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Workshop",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

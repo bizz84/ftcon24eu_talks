@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Kirill Bubochkin",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "App Architecture: Faster, Better... Simpler",
+    "description": "App architecture is intended to simplify our lives, not complicate them. Unfortunately, I've noticed that many developers, particularly newcomers, tend to overcomplicate their architectures without strong justification—simply because they've read about it in various blogs and tutorials. In this talk, I'd like to delve into why certain principles and best practices, such as SOLID, DRY, and Clean Architecture, may not always be as beneficial as they seem (especially when misunderstood), and suggest a simpler approach to mobile app architecture.\r\n\r\nAs a bonus, I'll share my experience with using the new DCM feature for analyzing code structure, which aids in implementing the aforementioned architectural approach.",
+    "day": "Friday",
+    "time": "1:25 PM",
+    "startsAt": "2024-07-05T11:25:00.000Z",
+    "endsAT": "2024-07-05T12:05:00.000Z",
+    "room": "Async Area",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

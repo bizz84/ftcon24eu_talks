@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Sascha Ernst",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Handling Legacy APIs with Domain Driven Design and Reactivity",
+    "description": "After a brief introduction into Domain Driven Design, you will see how it can be utilised to protect your fresh and awesome app logic from the nasty and chaotic reality of legacy APIs.\r\n- Compose your custom entities from any number of different data endpoints and keep external changes isolated\r\n- Sync external data sources between your repositories by using reactivity and keep your state up-to-date\r\n- Have confidence in the validity of your entities and access them synchronously to make rendering a breeze\r\n- Bonus: Use unit tests to develop and test domain and infrastructure layers end-to-end without being blocked by a still missing user interface",
+    "day": "Friday",
+    "time": "2:20 PM",
+    "startsAt": "2024-07-05T12:20:00.000Z",
+    "endsAT": "2024-07-05T13:00:00.000Z",
+    "room": "Dart Den",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

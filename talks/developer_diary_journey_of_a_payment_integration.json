@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Nino Handler",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Developer Diary: Journey of a payment integration",
+    "description": "This talk is meant as a fun but insightful retrospective on how we implemented (finally successful) our \"unknown\" payment provider into our app.\r\n\r\nI. It starts with the first approach which was writing a package for Android and iOS and calling the native libraries from Flutter.\r\n\r\nWhen we discovered that this caused too high maintenance costs we decided to switch to a browser-based implementation of the payment flow. Little did we know, how many quests we had to solve after this decision.\r\n\r\nII. Therefore, the second part of the talk superficially covers the topics WebViews, In-App browsers, Different In-App browser packages, Firebase Hosting, Firebase Functions, App Links / Universal Links vs. Deep links / Custom URL Schemes and peculiarities of our payment solution.",
+    "day": "Friday",
+    "time": "10:15 AM",
+    "startsAt": "2024-07-05T08:15:00.000Z",
+    "endsAT": "2024-07-05T08:55:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

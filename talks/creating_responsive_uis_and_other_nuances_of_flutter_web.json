@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Kon Syrokostas",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Creating responsive UIs and other nuances of Flutter Web",
+    "description": "Flutter for Web is definitely less widespread than Flutter for mobile devices, but in my practice I have found it to be very powerful. Flutter Web has made reusing code between multiple platforms easier than ever and it enabled the use of a single frameworks across all the frontends of a project. This doesn't come without some nuances that developers should be aware of when building an app for the web.\r\n\r\nIn this session I will explore those nuances starting from tips on how to create a responsive UI, and then talking about web specific concepts such as SEO (or the lack of it) and dart:js. I will also touch on how to make text selectable, and on potential issues with it.\r\n\r\n\r\nThe main takeaways for the participants will be:\r\n- How to build a Responsive UI (LayoutBuilder, Wrap, Expanded, use fixed values, basic animations for UI transitions)\r\n- What is dart:js and what is dart:io -- how to conditionally import either of them\r\n- What is the state of SEO in Flutter and which are some solutions for the lack of support\r\n- Which are some issues with widgets on the web, most notably the default Text widget not being selectable",
+    "day": "Friday",
+    "time": "1:25 PM",
+    "startsAt": "2024-07-05T11:25:00.000Z",
+    "endsAT": "2024-07-05T12:05:00.000Z",
+    "room": "Widget Way",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

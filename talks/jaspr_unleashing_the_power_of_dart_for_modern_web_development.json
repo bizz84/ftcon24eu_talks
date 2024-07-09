@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Kilian Schulte",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Jaspr: Unleashing the Power of Dart for Modern Web Development",
+    "description": "A showcase and introduction to Jaspr, the web framework that lets you build modern and dynamic websites using pure Dart.\r\n\r\nLearn how you can build your next blog, landing page, portfolio site or any other website you can imagine and leverage your existing skills in Dart and Flutter. Whether you are a seasoned developer or newcomer to Dart, this session lets you peek into the next area of Dart development – the web.",
+    "day": "Friday",
+    "time": "1:25 PM",
+    "startsAt": "2024-07-05T11:25:00.000Z",
+    "endsAT": "2024-07-05T12:05:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

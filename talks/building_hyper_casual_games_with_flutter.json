@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Raitis Šaripo",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Building Hyper-Casual Games with Flutter",
+    "description": "As games increasingly become the most popular and lucrative category in major mobile marketplaces by day, the opportunity for developers is massive. Yet, many shy away, perceiving game development as a complex and inaccessible process.\r\n\r\nIn this talk, I will share my firsthand experiences using Flutter to create fun, engaging, and potentially addictive mobile games. You'll learn about the challenges I faced from design all the way to monetization, and the solutions that helped streamline the development process.\r\n\r\nThis talk aims to inspire developers to explore Flutter's capabilities in game development, equipping you with essential tools and insights to effectively start your own projects.",
+    "day": "Friday",
+    "time": "12:05 PM",
+    "startsAt": "2024-07-05T10:05:00.000Z",
+    "endsAT": "2024-07-05T10:25:00.000Z",
+    "room": "Widget Way",
+    "format": "Lightning talk",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

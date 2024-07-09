@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Roaa Khaddam",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Code Meets Art: Flutter for Creative Coding",
+    "description": "In this talk, I want to show you how you can blur the lines between code and art using Flutter!\r\n\r\nAfter a quick introduction into what creative coding is and how its visual feedback nature can be a great way to learn how to code, we’ll dive into the technical details on how Flutter can be used for that purpose. Starting from the custom painter and canvas API, and making our way into shaders and 3rd party tools and packages. Additionally, we will explore what it means to use algorithms to create Art and what happens when you bleed that art into user interfaces and experiences. Finally, with its cross platform capabilities and easy control over every pixel, we’ll answer the question of why use Flutter for this purpose in the first place.",
+    "day": "Friday",
+    "time": "1:25 PM",
+    "startsAt": "2024-07-05T11:25:00.000Z",
+    "endsAT": "2024-07-05T12:05:00.000Z",
+    "room": "Dart Den",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

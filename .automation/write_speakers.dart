@@ -36,11 +36,12 @@ void writeSpeakers(List<Speaker> speakers, List<Talk> talks) {
     speakersContent.writeln(socialLinks.join(' | ') + '\n\n');
 
     // Filter talks by this speaker
-    var speakerTalks =
-        talks.where((talk) => talk.speakers.contains(speaker)).toList();
+    List<Talk> speakerTalks = talks
+        .where((talk) => talk.speakers.any((s) => s.name == speaker.name))
+        .toList();
 
     // Iterate over talks to create sections
-    for (var talk in speakerTalks) {
+    for (Talk talk in speakerTalks) {
       // Headline with link to the video
       speakersContent.writeln(
           '**${talk.videoUrl?.isNotEmpty == true ? '[${talk.title}](${talk.videoUrl})' : '${talk.title}'}**\n');

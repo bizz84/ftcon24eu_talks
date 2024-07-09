@@ -45,4 +45,26 @@ class Speaker {
 
   String get mdLink =>
       '[${this.name}](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#${this.name.toLowerCase().replaceAll(' ', '-')})';
+
+  Speaker copyWith({
+    String? name,
+    String? bio,
+    String? companyName,
+    String? companyUrl,
+    String? githubUrlOrHandle,
+    String? xUrlOrHandle,
+    String? linkedinUrlOrHandle,
+    String? webUrl,
+  }) {
+    return Speaker(
+      name: name ?? this.name,
+      bio: bio ?? this.bio,
+      companyName: companyName ?? this.companyName,
+      companyUrl: companyUrl ?? this.companyUrl,
+      githubUrlOrHandle: githubUrlOrHandle ?? this.githubUrlOrHandle,
+      xUrlOrHandle: xUrlOrHandle ?? this.xUrlOrHandle,
+      linkedinUrlOrHandle: linkedinUrlOrHandle ?? this.linkedinUrlOrHandle,
+      webUrl: webUrl ?? this.webUrl,
+    );
+  }
 }

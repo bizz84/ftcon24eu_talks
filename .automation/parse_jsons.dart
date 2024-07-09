@@ -21,7 +21,38 @@ Future<void> parseJsons(
 
   for (Talk talk in talks) {
     for (Speaker speaker in talk.speakers) {
-      if (!uniqueSpeakers.any((s) => s.name == speaker.name)) {
+      int existingIndex =
+          uniqueSpeakers.indexWhere((s) => s.name == speaker.name);
+
+      if (existingIndex > 0) {
+        // A speaker with the same name exists, compare the filled data
+        Speaker existingSpeaker = uniqueSpeakers[existingIndex];
+        uniqueSpeakers[existingIndex] = uniqueSpeakers[existingIndex].copyWith(
+          companyName: existingSpeaker.companyName?.isEmpty == true
+              ? speaker.companyName
+              : existingSpeaker.companyName,
+          bio: existingSpeaker.bio?.isEmpty == true
+              ? speaker.bio
+              : existingSpeaker.bio,
+          companyUrl: existingSpeaker.companyUrl?.isEmpty == true
+              ? speaker.companyUrl
+              : existingSpeaker.companyUrl,
+          githubUrlOrHandle: existingSpeaker.githubUrlOrHandle?.isEmpty == true
+              ? speaker.githubUrlOrHandle
+              : existingSpeaker.githubUrlOrHandle,
+          xUrlOrHandle: existingSpeaker.xUrlOrHandle?.isEmpty == true
+              ? speaker.xUrlOrHandle
+              : existingSpeaker.xUrlOrHandle,
+          linkedinUrlOrHandle:
+              existingSpeaker.linkedinUrlOrHandle?.isEmpty == true
+                  ? speaker.linkedinUrlOrHandle
+                  : existingSpeaker.linkedinUrlOrHandle,
+          webUrl: existingSpeaker.webUrl?.isEmpty == true
+              ? speaker.webUrl
+              : existingSpeaker.webUrl,
+        );
+      } else {
+        // No speaker with the same name exists, add the new speaker
         uniqueSpeakers.add(speaker);
       }
 

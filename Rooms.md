@@ -16,6 +16,18 @@
 | **05:20 PM**<br>*Wednesday* | Debugging performance issues with the Flutter DevTools | [Alexandre Moureaux](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alexandre-moureaux) |  | [Flashlight](https://github.com/bamlab/flashlight) |
 | **9:20 AM**<br>*Thursday* | Enhance your Flutter painting skills | [Romain Rastel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#romain-rastel) |  | []() |
 | **10:15 AM**<br>*Thursday* | Your ultimate guide to code generation productivity for Dart and Flutter | [Anna Leushchenko](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#anna-leushchenko) |  | []() |
+| **11:10 AM**<br>*Thursday* | Implementing custom fragment shaders | [Raouf Rahiche](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#raouf-rahiche) |  | []() |
+| **12:05 PM**<br>*Thursday* | Building Your Very Own DevTools Extension | [Enzo Conty](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#enzo-conty) |  | []() |
+| **1:25 PM**<br>*Thursday* | Everything Material All At Once | [Taha Tesser](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#taha-tesser), [Mike Rydstrom](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mike-rydstrom) |  | []() |
+| **2:20 PM**<br>*Thursday* | Self-host private pub packages | [Pascal Welsch](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pascal-welsch) |  | []() |
+| **3:30 PM**<br>*Thursday* | Presentation events - a missing piece in BLoC | [Marcin Wojnarowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-wojnarowski) |  | []() |
+| **4:10 PM**<br>*Thursday* | Flutteristas panel | [Alicja Ogonowska](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alicja-ogonowska), [Manuela Sakura Rommel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#manuela-sakura-rommel), [Kendi J](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kendi-j), [Danielle Cox](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#danielle-cox), [Elvira Leveque](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#elvira-leveque) |  | []() |
+| **9:20 AM**<br>*Friday* | Building Resilient Flutter Apps in the New Age of Non-Deterministic Data | [Acacia Pappas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#acacia-pappas) |  | []() |
+| **10:15 AM**<br>*Friday* | From Touch To Code: Gestures and Beyond | [Esra Kadah](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#esra-kadah) |  | []() |
+| **11:10 AM**<br>*Friday* | Migrating 2+ Million Daily Users to Flutter with 50+ Engineers | [Csongor Vogel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#csongor-vogel), [Lucas Britto](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-britto), [Bruno Reginato](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bruno-reginato) |  | []() |
+| **12:05 PM**<br>*Friday* | Building Hyper-Casual Games with Flutter | [Raitis Šaripo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#raitis-šaripo) |  | []() |
+| **1:25 PM**<br>*Friday* | Creating responsive UIs and other nuances of Flutter Web | [Kon Syrokostas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kon-syrokostas) |  | []() |
+| **2:20 PM**<br>*Friday* | Creating Figma plugins with Flutter | [Bogdan Hobeanu](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bogdan-hobeanu) |  | []() |
 
 
 ## Async Area
@@ -32,6 +44,18 @@
 | **5:20 PM**<br>*Wednesday* | Monitor your Flutter app and see every issue! | [Jonas Uekötter](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jonas-uekötter) |  | []() |
 | **9:20 AM**<br>*Thursday* | Elevating JavaScript interoperability with Dart | [Jaime Blasco](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jaime-blasco) |  | []() |
 | **10:15 AM**<br>*Thursday* | Dart FFI: A Beginner's Guide to High-Performance Integration | [Matteo Maria Terzuolo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matteo-maria-terzuolo) |  | []() |
+| **11:10 AM**<br>*Thursday* | Building Real-Time Audio/Video Apps with Flutter and WebRTC | [Masahiro Aoki](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#masahiro-aoki) |  | []() |
+| **12:05 PM**<br>*Thursday* | The Unique Role of a Flutter Competence Lead in a Scaling Company | [Cagatay Ulusoy](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#cagatay-ulusoy) |  | []() |
+| **1:25 PM**<br>*Thursday* | Bluetooth LE-Audio Broadcast: How to build an Auracast assistant app with Flutter | [Eduard Siewert](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#eduard-siewert) |  | []() |
+| **2:20 PM**<br>*Thursday* | Boosting Map Performance with Mapbox and Flutter | [Oleksandr Tilnyi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#oleksandr-tilnyi) |  | []() |
+| **3:30 PM**<br>*Thursday* | Get the most out of Flutter theming with theme extensions | [Elvira Leveque](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#elvira-leveque) |  | []() |
+| **4:10 PM**<br>*Thursday* | Boost Your Blocs with Functional Programming: bloc_lens in Action | [Piotr Rogulski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#piotr-rogulski) |  | []() |
+| **9:20 AM**<br>*Friday* | Building amazing Flutter Project with Gemma: A State-of-the-Art Open Model | [Teresa Wu](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#teresa-wu) |  | []() |
+| **10:15 AM**<br>*Friday* | Palette Panorama: Mastering the power of Advance theming in Flutter | [Shree Bhagwat](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#shree-bhagwat) |  | []() |
+| **11:10 AM**<br>*Friday* | The Flutter POS: Use-cases on integrating POS Hardware on Android and Linux | [Alex Bordei](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alex-bordei) |  | []() |
+| **12:05 PM**<br>*Friday* | Internationalization (and not only) | [Albert Wolszon](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#albert-wolszon) |  | []() |
+| **1:25 PM**<br>*Friday* | App Architecture: Faster, Better... Simpler | [Kirill Bubochkin](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kirill-bubochkin) |  | []() |
+| **2:20 PM**<br>*Friday* | Working with forms as an ecosystem | [Vasyl Dytsiak](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#vasyl-dytsiak) |  | []() |
 
 
 ## Dart Den
@@ -48,6 +72,18 @@
 | **5:20 PM**<br>*Wednesday* | Live Coding Workshop | [Simon Lightfoot](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#simon-lightfoot) |  | []() |
 | **9:20 AM**<br>*Thursday* | Android Platform Views Past, Present, Future | [John McCutchan](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#john-mccutchan) |  | []() |
 | **10:15 AM**<br>*Thursday* | Software correctness | [Marcin Wojnarowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-wojnarowski) |  | []() |
+| **11:10 AM**<br>*Thursday* | Digital transformation of media industry with Flutter | [Toni Piirainen](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#toni-piirainen) |  | []() |
+| **12:05 PM**<br>*Thursday* | The quest to display widget markers on a map | [Matthieu Pernelle](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matthieu-pernelle) |  | []() |
+| **1:25 PM**<br>*Thursday* | Demystifying App Architecture: The LeanCode Guide | [Mateusz Wojtczak](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mateusz-wojtczak), [Marcin Chudy](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-chudy) |  | []() |
+| **2:20 PM**<br>*Thursday* | Using Rust in your next Flutter SDK | [Cameron Mcloughlin](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#cameron-mcloughlin) |  | []() |
+| **3:30 PM**<br>*Thursday* | Level Up: How I Made the Top 10 Worldwide at Global Gamers Hackathon | [Ivanna Kaceviča](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ivanna-kaceviča) |  | []() |
+| **4:10 PM**<br>*Thursday* | Mastering real world use cases in Flutter with GoRouter and GoRouterBuilder | [Max Weber](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#max-weber) |  | []() |
+| **9:20 AM**<br>*Friday* | Unconference discussion 1 - Past, Present and Future of Native Interop | [Ander Dobo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ander-dobo) |  | []() |
+| **10:15 AM**<br>*Friday* | Unconference discussion 2 - Sustainable package maintenance models | [Ander Dobo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ander-dobo) |  | []() |
+| **11:10 AM**<br>*Friday* | Unconference discussion 3 - Addressing package ecosystem fragmentation | [Ander Dobo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ander-dobo) |  | []() |
+| **12:05 PM**<br>*Friday* | Automating Accessibility Adoption in Flutter with Gemini AI | [Akanksha Singh](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#akanksha-singh) |  | []() |
+| **1:25 PM**<br>*Friday* | Code Meets Art: Flutter for Creative Coding | [Roaa Khaddam](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#roaa-khaddam) |  | []() |
+| **2:20 PM**<br>*Friday* | Handling Legacy APIs with Domain Driven Design and Reactivity | [Sascha Ernst](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#sascha-ernst) |  | []() |
 
 
 ## Flutter Forest
@@ -62,5 +98,15 @@
 | **4:20 PM**<br>*Wednesday* | M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5 | [Moritz Theis](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#moritz-theis), [Payam Zahedi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#payam-zahedi) |  | []() |
 | **5:20 PM**<br>*Wednesday* | Adding HomeScreenWidgets to your Flutter App | [Anton Borries](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#anton-borries) |  | []() |
 | **9:20 AM**<br>*Thursday* | Dart on the backend with Serverpod: Building interactive slides for tech talks | [Viktor Lidholt](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#viktor-lidholt) |  | []() |
+| **11:10 AM**<br>*Thursday* | White labelling apps - a year later | [Danielle Cox](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#danielle-cox) |  | []() |
+| **12:05 PM**<br>*Thursday* | Fight, Flight, or Fix? Winning the Legacy Flutter Challenge | [Mateusz Rus](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mateusz-rus) |  | []() |
+| **1:25 PM**<br>*Thursday* | Lessons learned from crafting an in-house framework with over 200 packages | [Marina Meier](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marina-meier), [Pascal Stech](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pascal-stech) |  | []() |
+| **2:20 PM**<br>*Thursday* | Unleashing Flutter on embedded hardware with flutter-pi | [Pieter Scholtz](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pieter-scholtz), [Hannes Winkler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#hannes-winkler), [Werner Scholtz](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#werner-scholtz) |  | []() |
+| **4:10 PM**<br>*Thursday* | The past, present, and future of native interop | [Daco Harkes](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daco-harkes), [Hossein Yousefi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#hossein-yousefi) |  | []() |
+| **9:20 AM**<br>*Friday* | Hacking and protection of Mobile Apps and backend APIs. Threat modeling exercise. | [Tomáš Soukal](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#tomáš-soukal) |  | []() |
+| **10:15 AM**<br>*Friday* | Developer Diary: Journey of a payment integration | [Nino Handler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#nino-handler) |  | []() |
+| **11:10 AM**<br>*Friday* | Mastering Flutter + Firebase: Architecting for Scale, Security & Savings | [Tomas Piaggio](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#tomas-piaggio), [Bettina Carrizo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bettina-carrizo) |  | []() |
+| **1:25 PM**<br>*Friday* | Jaspr: Unleashing the Power of Dart for Modern Web Development | [Kilian Schulte](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kilian-schulte) |  | []() |
+| **2:20 PM**<br>*Friday* | Relaunching DW's Connected TV Experience with Flutter | [Olav Schettler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#olav-schettler), [Daniel Vechtel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daniel-vechtel) |  | []() |
 
 

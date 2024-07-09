@@ -355,15 +355,6 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 **Flutteristas panel**
 
 
-## Manuela Sakura Rommel
-
-
-
-**Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games**
-
-**Flutteristas panel**
-
-
 ## Marcin Chudy
 
 

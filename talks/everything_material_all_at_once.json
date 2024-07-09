@@ -1,0 +1,66 @@
+{
+    "speakers": [
+      {
+        "name": "Taha Tesser",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      },
+      {
+        "name": "Mike Rydstrom",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Everything Material All At Once",
+    "description": "As Material 3 support has been enabled by default in Flutter, there have been many exciting Material updates. In this talk, Mike Rydstorm and Taha Tesser will talk about everything new and updated in the Flutter material library. Learn about the updated ColorScheme, adaptive material theming, button builders, Material 3 animations, and how to create custom Material 3 style widgets.",
+    "day": "Thursday",
+    "time": "1:25 PM",
+    "startsAt": "2024-07-04T11:25:00.000Z",
+    "endsAT": "2024-07-04T12:05:00.000Z",
+    "room": "Widget Way",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

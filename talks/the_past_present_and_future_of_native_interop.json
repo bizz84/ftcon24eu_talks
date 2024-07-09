@@ -1,0 +1,66 @@
+{
+    "speakers": [
+      {
+        "name": "Daco Harkes",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      },
+      {
+        "name": "Hossein Yousefi",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "The past, present, and future of native interop",
+    "description": "Join us as we share our vision for a more seamless and efficient way to bridge the gap between Flutter and native code, empowering developers to create high-performance, feature-rich apps. We'll demonstrate how JNIgen/FFIgen simplifies native interop, discuss its potential impact on plugin development, and outline our roadmap for the future. Whether you're an app developer or a plugin developer, this talk will provide valuable insights into the evolving landscape of Flutter native interop.",
+    "day": "Thursday",
+    "time": "4:10 PM",
+    "startsAt": "2024-07-04T14:10:00.000Z",
+    "endsAT": "2024-07-04T14:50:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

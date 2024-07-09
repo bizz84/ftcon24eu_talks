@@ -1,0 +1,66 @@
+{
+    "speakers": [
+      {
+        "name": "Marina Meier",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      },
+      {
+        "name": "Pascal Stech",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Lessons learned from crafting an in-house framework with over 200 packages",
+    "description": "The growing need for efficient, cost-effective mobile app development has made frameworks like Flutter increasingly popular. In this talk, we dive into the significance of crafting a flexible and reusable framework of in-house packages that not only meets the technical demands but also offers strategic benefits, enabling rapid deployment of diverse apps while maintaining quality and reducing costs.\r\n\r\nIn our session, we take you on a journey through the development of our custom Flutter framework, designed to streamline app development for various clients, particularly in the mid-market sector. We explore the architectural choices, design principles, and practical learnings from creating a framework that serves many apps, each with distinct design and architectural needs but sharing common components. The talk dives into the specifics of our framework architecture, including how apps and packages are structured, and the challenges of engineering white-label solutions.\r\n\r\nLook forward to gaining valuable insights into the complexities of developing a scalable Flutter framework, learning from our successes and challenges to enhance your own development practices.",
+    "day": "Thursday",
+    "time": "1:25 PM",
+    "startsAt": "2024-07-04T11:25:00.000Z",
+    "endsAT": "2024-07-04T12:05:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

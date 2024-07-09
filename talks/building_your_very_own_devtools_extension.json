@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Enzo Conty",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Building Your Very Own DevTools Extension",
+    "description": "We all know about the DevTools, but what if you could tailor those tools to fit your exact needs? In this talk, I'll guide you through the process of building a custom DevTools extension.\r\n\r\nWe'll start with the basics of DevTools extensions, discuss the architecture, and then develop a custom feature.\r\n\r\nBy the end, you'll have the knowledge to create your own extensions in no time!",
+    "day": "Thursday",
+    "time": "12:05 PM",
+    "startsAt": "2024-07-04T10:05:00.000Z",
+    "endsAT": "2024-07-04T10:25:00.000Z",
+    "room": "Widget Way",
+    "format": "Lightning talk",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Piotr Rogulski",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Boost Your Blocs with Functional Programming: bloc_lens in Action",
+    "description": "BLoC is a great, scalable state management library. Still, it can fall short when it comes to handling complex objects. `bloc_lens` is a new solution to simplify accessing and modifying state in your app. Using the foundations of functional programming and inspired by Haskell, it allows you to hide the complexity of compound state by focusing on one field at a time. During the talk, you will learn the original concept behind functional lenses and how they can help simplify dealing with business logic in Dart.",
+    "day": "Thursday",
+    "time": "4:10 PM",
+    "startsAt": "2024-07-04T14:10:00.000Z",
+    "endsAT": "2024-07-04T14:30:00.000Z",
+    "room": "Async Area",
+    "format": "Lightning talk",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

@@ -32,10 +32,10 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Wednesday | 2:35 PM | | 
 | | | Wednesday | 2:35 PM | |
 | | | Wednesday | 2:35 PM | | 
-| | | Wednesday | 3:15 PM | | 
-| | | Wednesday | 3:15 PM | | 
-| | | Wednesday | 3:15 PM | | 
-| | | Wednesday | 3:15 PM | | 
+| Saving data before the app getting killed! Easy state restoration with Flutter | [Lucas Goldner](https://x.com/LucasGoldner) | Wednesday | 3:45 PM | [slides](https://state-restoration-presentation.vercel.app/#/speaker) | 
+| | | Wednesday | 3:45 PM | | 
+| | | Wednesday | 3:45 PM | | 
+| | | Wednesday | 3:45 PM | | 
 | | | Wednesday | 4:20 PM | | 
 | Lessons Learned from Launching a Flutter app in Production | [Andrea Bizzotto](https://x.com/biz84) | Wednesday | 4:20 PM | [slides](https://bizz84.github.io/fluttercon24_slides_web/) | 
 | | | Wednesday | 4:20 PM | | 

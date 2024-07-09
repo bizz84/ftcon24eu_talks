@@ -51,7 +51,7 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Thursday | 10:15 AM | | 
 | | | Thursday | 10:15 AM | | 
 | | | Thursday | 10:15 AM | | 
-| | | Thursday | 11:10 AM | | 
+| Implementing custom fragment shaders | [Raouf Rahiche](https://x.com/raoufrahiche)| Thursday | 11:10 AM | [slides](https://www.figma.com/slides/GNv9DFM68G8QVdC7coidX8/Implementing-custom--Fragment-Shaders?node-id=22-1279&t=JQZTimVJAxcj7dxz-1)| 
 | | | Thursday | 11:10 AM | | 
 | | | Thursday | 11:10 AM | | 
 | | | Thursday | 11:10 AM | | 

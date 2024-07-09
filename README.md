@@ -1,7 +1,10 @@
 # FlutterCon Europe 2024
 
+I have prepared an overview of all talks. Please contribute filling missing information :) 
+You can directly [edit the .json files in talks/](https://github.com/martin-bertele/ftcon24eu/tree/main/talks), all markdown files will be generated via script triggered by github action. Happy to receive your PR.
 
-In Progress: Happy to receive your PR for missing information and fixing things :) 
+Progress roadmap: open are speaker's infos, resources, recommendations, level and topics (last two as indicated on fluttercon.dev).
+Each title will link to the recording once they are available, all videoUrls will be added then.
 
 [Agenda](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md)
 

@@ -59,7 +59,7 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Thursday | 12:05 PM | | 
 | | | Thursday | 12:05 PM | | 
 | | | Thursday | 12:05 PM | | 
-| | | Thursday | 1:25 PM  | |
+| Everything Material All At Once | [Mike Rydstrom](https://x.com/RydMike) and [Taha Tesser](https://x.com/TahaTesser)| Thursday | 1:25 PM  | [slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300) |
 | | | Thursday | 1:25 PM  | |
 | | | Thursday | 1:25 PM  | | 
 | | | Thursday | 1:25 PM  | | 

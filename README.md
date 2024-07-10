@@ -17,7 +17,7 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Wednesday | 10:20 AM | | 
 | | | Wednesday | 10:20 AM | | 
 | | | Wednesday | 11:15 AM | | 
-| | | Wednesday | 11:15 AM | | 
+| Listen up! Mastering A/B testing and feedback techniques in your mobile app | [Alicja Ogonowska](https://x.com/AlicjaOgonowska) | Wednesday | 11:15 AM | [slides](https://state-restoration-presentation.vercel.app/#/speaker) | 
 | | | Wednesday | 11:15 AM | | 
 | | | Wednesday | 11:15 AM | | 
 | | | Wednesday | 12:10 PM | | 
@@ -32,7 +32,7 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Wednesday | 2:35 PM | | 
 | | | Wednesday | 2:35 PM | |
 | | | Wednesday | 2:35 PM | | 
-| Saving data before the app getting killed! Easy state restoration with Flutter | [Lucas Goldner](https://x.com/LucasGoldner) | Wednesday | 3:45 PM | [slides](https://state-restoration-presentation.vercel.app/#/speaker) | 
+| Saving data before the app getting killed! Easy state restoration with Flutter | [Lucas Goldner](https://x.com/LucasGoldner) | Wednesday | 3:45 PM | [slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing) | 
 | | | Wednesday | 3:45 PM | | 
 | | | Wednesday | 3:45 PM | | 
 | | | Wednesday | 3:45 PM | | 

@@ -16,6 +16,7 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Wednesday | 10:20 AM | | 
 | | | Wednesday | 10:20 AM | | 
 | | | Wednesday | 10:20 AM | | 
+| Native Background Processing with Flutter | [Dominik Roszkowski](https://twitter.com/OrestesGaolin) | Wednesday | 11:15 AM | [slides](https://roszkowski.dev/background) | 
 | | | Wednesday | 11:15 AM | | 
 | Listen up! Mastering A/B testing and feedback techniques in your mobile app | [Alicja Ogonowska](https://x.com/AlicjaOgonowska) | Wednesday | 11:15 AM | [slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing) [code](https://github.com/alicja-ogonowska/feedback-demo) | 
 | | | Wednesday | 11:15 AM | | 

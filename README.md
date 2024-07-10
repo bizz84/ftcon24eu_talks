@@ -65,7 +65,7 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Thursday | 1:25 PM  | | 
 | | | Thursday | 1:25 PM  | | 
 | | | Thursday | 2:20 PM  | | 
-| | | Thursday | 2:20 PM  | | 
+| Boosting Map Performance with Mapbox and Flutter | [Oleksandr Tilnyi](https://x.com/alex_tilnyi)| Thursday | 2:20 PM  | [slides](https://docs.google.com/presentation/d/1VEjz2vmOiFA2pWc8PbdeZoNnu4NaPYgORH2np-oDGGk/edit?usp=sharing) [article](https://medium.com/@oleksandr-tilnyi/flutter-and-mapbox-deploy-and-display-vector-data-via-mapbox-tilesets-a-11231f19e31a)| 
 | | | Thursday | 2:20 PM  | | 
 | | | Thursday | 2:20 PM  | | 
 | | | Thursday | 3:30 PM  | | 

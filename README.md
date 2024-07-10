@@ -18,6 +18,7 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Wednesday | 10:20 AM | | 
 | Native Background Processing with Flutter | [Dominik Roszkowski](https://twitter.com/OrestesGaolin) | Wednesday | 11:15 AM | [slides](https://roszkowski.dev/background) | 
 | | | Wednesday | 11:15 AM | | 
+| Listen up! Mastering A/B testing and feedback techniques in your mobile app | [Alicja Ogonowska](https://x.com/AlicjaOgonowska) | Wednesday | 11:15 AM | [slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing) [code](https://github.com/alicja-ogonowska/feedback-demo) | 
 | | | Wednesday | 11:15 AM | | 
 | | | Wednesday | 11:15 AM | | 
 | | | Wednesday | 12:10 PM | | 
@@ -48,7 +49,7 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Thursday | 9:20 AM | | 
 | | | Thursday | 9:20 AM | | 
 | | | Thursday | 9:20 AM | | 
-| | | Thursday | 10:15 AM | | 
+| Your ultimate guide to code generation productivity for Dart and Flutter | [Anna Leushchenko](https://twitter.com/AnnaLeushchenko) | Thursday | 10:15 AM | [slides](https://bit.ly/45T84JB) | 
 | | | Thursday | 10:15 AM | | 
 | | | Thursday | 10:15 AM | | 
 | Implementing custom fragment shaders | [Raouf Rahiche](https://x.com/raoufrahiche)| Thursday | 11:10 AM | [slides](https://www.figma.com/slides/GNv9DFM68G8QVdC7coidX8/Implementing-custom--Fragment-Shaders?node-id=22-1279&t=JQZTimVJAxcj7dxz-1)| 
@@ -56,10 +57,10 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Thursday | 11:10 AM | | 
 | | | Thursday | 11:10 AM | | 
 | Building your very own devtools extension | [Enzo Conty](https://x.com/enzoconty)| Thursday | 12:05 PM | [slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000) | 
+| Self-host private pub packages - minibar.dev | [Pascal Welsch](https://x.com/passsy) | Thursday | 12:05 PM | [slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSsMm1FLGlsga1ggXk4SGp7WAY/edit?usp=sharing) | 
 | | | Thursday | 12:05 PM | | 
 | | | Thursday | 12:05 PM | | 
-| | | Thursday | 12:05 PM | | 
-| | | Thursday | 1:25 PM  | |
+| Everything Material All At Once | [Mike Rydstrom](https://x.com/RydMike) and [Taha Tesser](https://x.com/TahaTesser)| Thursday | 1:25 PM  | [slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300) |
 | | | Thursday | 1:25 PM  | |
 | | | Thursday | 1:25 PM  | | 
 | | | Thursday | 1:25 PM  | | 

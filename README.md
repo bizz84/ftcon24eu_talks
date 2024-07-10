@@ -56,7 +56,7 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Thursday | 11:10 AM | | 
 | | | Thursday | 11:10 AM | | 
 | Building your very own devtools extension | [Enzo Conty](https://x.com/enzoconty)| Thursday | 12:05 PM | [slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000) | 
-| | | Thursday | 12:05 PM | | 
+| Self-host private pub packages - minibar.dev | [Pascal Welsch](https://x.com/passsy) | Thursday | 12:05 PM | [slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSsMm1FLGlsga1ggXk4SGp7WAY/edit?usp=sharing) | 
 | | | Thursday | 12:05 PM | | 
 | | | Thursday | 12:05 PM | | 
 | | | Thursday | 1:25 PM  | |

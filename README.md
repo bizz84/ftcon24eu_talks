@@ -16,7 +16,7 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Wednesday | 10:20 AM | | 
 | | | Wednesday | 10:20 AM | | 
 | | | Wednesday | 10:20 AM | | 
-| | | Wednesday | 11:15 AM | | 
+| Native Background Processing with Flutter | [Dominik Roszkowski](https://twitter.com/OrestesGaolin) | Wednesday | 11:15 AM | [slides](https://roszkowski.dev/background) | 
 | | | Wednesday | 11:15 AM | | 
 | | | Wednesday | 11:15 AM | | 
 | | | Wednesday | 11:15 AM | | 

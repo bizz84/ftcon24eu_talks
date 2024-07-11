@@ -6,7 +6,7 @@
         "companyName": "",
         "companyUrl": "",
         "githubUrlOrHandle": "",
-        "xUrlOrHandle": "",
+        "xUrlOrHandle": "https://x.com/ivannahere",
         "linkedinUrlOrHandle": "",
         "webUrl": ""
       }
@@ -21,8 +21,8 @@
     "format": "Lightning talk",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Article",
+        "url": "https://medium.com/@evanca/level-up-how-i-made-the-top-10-worldwide-at-flutter-global-gamers-hackathon-671cf1938aac"
       }
     ],
     "recommendations": [

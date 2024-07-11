@@ -6,7 +6,7 @@
         "companyName": "",
         "companyUrl": "",
         "githubUrlOrHandle": "",
-        "xUrlOrHandle": "",
+        "xUrlOrHandle": "https://x.com/enzoconty",
         "linkedinUrlOrHandle": "",
         "webUrl": ""
       }
@@ -21,8 +21,8 @@
     "format": "Lightning talk",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Slides",
+        "url": "https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000"
       }
     ],
     "recommendations": [

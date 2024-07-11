@@ -6,7 +6,7 @@
         "companyName": "",
         "companyUrl": "",
         "githubUrlOrHandle": "",
-        "xUrlOrHandle": "",
+        "xUrlOrHandle": "LucasGoldner",
         "linkedinUrlOrHandle": "",
         "webUrl": ""
       }
@@ -16,8 +16,8 @@
     "videoUrl": "",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Slides",
+        "url": "https://state-restoration-presentation.vercel.app/#/speaker"
       }
     ],
     "recommendations": [

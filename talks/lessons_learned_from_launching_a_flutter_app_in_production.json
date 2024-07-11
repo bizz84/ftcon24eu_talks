@@ -6,7 +6,7 @@
         "companyName": "",
         "companyUrl": "",
         "githubUrlOrHandle": "",
-        "xUrlOrHandle": "",
+        "xUrlOrHandle": "biz84",
         "linkedinUrlOrHandle": "",
         "webUrl": ""
       }
@@ -16,8 +16,8 @@
     "videoUrl": "",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Slides",
+        "url": "https://bizz84.github.io/fluttercon24_slides_web/"
       }
     ],
     "recommendations": [

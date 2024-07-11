@@ -6,7 +6,7 @@
         "companyName": "",
         "companyUrl": "",
         "githubUrlOrHandle": "",
-        "xUrlOrHandle": "",
+        "xUrlOrHandle": "OrestesGaolin",
         "linkedinUrlOrHandle": "",
         "webUrl": "https://roszkowski.dev"
       }
@@ -16,7 +16,7 @@
     "description": "Background processing tends to be one of the afterthoughts with Flutter apps, and I would love to change that. There are several ways to achieve it with Flutter or Dart, although some of them involve a bit of native platform understanding with a pinch of Kotlin or Swift. In this talk I’ll show you how to make it all work without losing your mind, even if you don't have any Android or iOS experience.\\r\\n\\r\\nThis talk covers both iOS and Android background processing, with and without utilizing existing Flutter plugins. We'll try to look into desktop background processing as well.",
     "resources": [
       {
-        "label": "Blog",
+        "label": "Slides",
         "url": "https://roszkowski.dev/background"
       }
     ],

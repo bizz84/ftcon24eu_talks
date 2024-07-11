@@ -241,10 +241,12 @@ Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwn
 
 
 ## Ivanna Kaceviča
-
+[X](https://x.com/ivannahere)
 
 
 **Level Up: How I Made the Top 10 Worldwide at Global Gamers Hackathon**
+
+Resources: [Article](https://medium.com/@evanca/level-up-how-i-made-the-top-10-worldwide-at-flutter-global-gamers-hackathon-671cf1938aac)
 
 
 ## Jaime Blasco

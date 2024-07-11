@@ -82,7 +82,7 @@
 | Get the most out of Flutter theming with theme extensions | [Elvira Leveque](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#elvira-leveque) |  | []() |
 | How I get your location: A story of permissions | [Thomas Coumau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#thomas-coumau) |  | []() |
 | Internationalization (and not only) | [Albert Wolszon](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#albert-wolszon) |  | []() |
-| Level Up: How I Made the Top 10 Worldwide at Global Gamers Hackathon | [Ivanna Kaceviča](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ivanna-kaceviča) |  | []() |
+| Level Up: How I Made the Top 10 Worldwide at Global Gamers Hackathon | [Ivanna Kaceviča](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ivanna-kaceviča) | [Article](https://medium.com/@evanca/level-up-how-i-made-the-top-10-worldwide-at-flutter-global-gamers-hackathon-671cf1938aac) | []() |
 | Motion Designer is your best friend for creating animations | [Mikhail Zotyev](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mikhail-zotyev) |  | []() |
 | Navigation in Flutter - the not-so-obvious parts | [Matej Rešetár](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matej-rešetár) |  | []() |
 | Presentation events - a missing piece in BLoC | [Marcin Wojnarowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-wojnarowski) |  | []() |

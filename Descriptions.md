@@ -530,6 +530,8 @@ Look forward to gaining valuable insights into the complexities of developing a 
 
 Speakers: [Ivanna Kaceviča](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ivanna-kaceviča)
 
+Resources: [Article](https://medium.com/@evanca/level-up-how-i-made-the-top-10-worldwide-at-flutter-global-gamers-hackathon-671cf1938aac)
+
 This session aims to empower and motivate attendees to participate more actively in Flutter hackathons and contests, offering guidance on getting started and refining strategies for better results.
 
 Join me as I share insights from my journey to becoming one of the top 10 finalists at the Global Gamers Hackathon using the Flutter Casual Games Toolkit across five different platforms. This talk will provide a behind-the-scenes look at how I developed my submission, detailing the challenges I faced and discussing my strategies for time management and prioritization.

@@ -58,7 +58,7 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Thursday | 11:10 AM | | 
 | Building your very own devtools extension | [Enzo Conty](https://x.com/enzoconty)| Thursday | 12:05 PM | [slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000) | 
 | Self-host private pub packages - minibar.dev | [Pascal Welsch](https://x.com/passsy) | Thursday | 12:05 PM | [slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSsMm1FLGlsga1ggXk4SGp7WAY/edit?usp=sharing) | 
-| | | Thursday | 12:05 PM | | 
+| The Unique Role of a Flutter Competence Lead in a Scaling Company | [Cagatay Ulusoy](https://x.com/ulusoyapps) | Thursday | 12:05 PM | [slides](https://docs.google.com/presentation/d/1UXYbH7xqe-X1FgUREm5Uomaa4UpCyHz-A53I26FGV0Y/edit?usp=sharing) | 
 | | | Thursday | 12:05 PM | | 
 | Everything Material All At Once | [Mike Rydstrom](https://x.com/RydMike) and [Taha Tesser](https://x.com/TahaTesser)| Thursday | 1:25 PM  | [slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300) |
 | | | Thursday | 1:25 PM  | |

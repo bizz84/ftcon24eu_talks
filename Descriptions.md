@@ -71,6 +71,8 @@ BLoC is a great, scalable state management library. Still, it can fall short whe
 
 Speakers: [Oleksandr Tilnyi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#oleksandr-tilnyi)
 
+Resources: [Slides](https://docs.google.com/presentation/d/1VEjz2vmOiFA2pWc8PbdeZoNnu4NaPYgORH2np-oDGGk/edit?usp=sharing), [Article](https://medium.com/@oleksandr-tilnyi/flutter-and-mapbox-deploy-and-display-vector-data-via-mapbox-tilesets-a-11231f19e31a)
+
 During my work on Camino Love, an application for pilgrims, I was required to scale 20x the amount of data presented on the map, saving the same good user experience and map performance. I faced a challenge of prolonged data fetching and drastically decreased map rendering performance. This is crucial in the app, where map is a source of truth and discovery for users.
 
 In this presentation, we will delve into different methods of styling, interacting with, and displaying data on maps. The talk will highlight the integration of cartography data to the map and map fluent utilization, which significantly improved overall performance. The application of these solutions reduced the map's loading time from 30 seconds to a mere 2 seconds, demonstrating a remarkable speed improvement in the production app.
@@ -152,6 +154,8 @@ Building mobile applications that consume predominantly non-deterministic data p
 ## Building Your Very Own DevTools Extension
 
 Speakers: [Enzo Conty](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#enzo-conty)
+
+Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000)
 
 We all know about the DevTools, but what if you could tailor those tools to fit your exact needs? In this talk, I'll guide you through the process of building a custom DevTools extension.
 
@@ -355,6 +359,8 @@ When it comes to draw raw pixels, we can call the CustomPaint widget to save us!
 
 Speakers: [Taha Tesser](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#taha-tesser), [Mike Rydstrom](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mike-rydstrom)
 
+Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300)
+
 As Material 3 support has been enabled by default in Flutter, there have been many exciting Material updates. In this talk, Mike Rydstorm and Taha Tesser will talk about everything new and updated in the Flutter material library. Learn about the updated ColorScheme, adaptive material theming, button builders, Material 3 animations, and how to create custom Material 3 style widgets.
 
 
@@ -471,6 +477,8 @@ In the end, you will be able to access your users' location no matter what the c
 
 Speakers: [Raouf Rahiche](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#raouf-rahiche)
 
+Resources: [Slides](https://www.figma.com/slides/GNv9DFM68G8QVdC7coidX8/Implementing-custom--Fragment-Shaders?node-id=22-1279&t=JQZTimVJAxcj7dxz-1)
+
 Flutter uses fragment shaders to enable everyday UI features like gradients and blurs. Since Flutter started supporting custom shaders, they have been incorporated into some features used in our apps today.
 
 This talk will showcase some of these fragment shaders and explain when and why we might use custom shaders instead of the standard building blocks provided by Flutter. Additionally, the talk will include a step-by-step guide on how to implement your first custom fragment shader.
@@ -497,6 +505,8 @@ Learn how you can build your next blog, landing page, portfolio site or any othe
 ## Lessons Learned from Launching a Flutter app in Production
 
 Speakers: [Andrea Bizzotto](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andrea-bizzotto)
+
+Resources: [Slides](https://bizz84.github.io/fluttercon24_slides_web/)
 
 - How to use a GitHub repo as a free data source for Markdown content (plus considerations around API key management)
 - From Markdown to Flutter UI: Markdown pre-processing with Regex and styling (with some help from AI)
@@ -536,6 +546,8 @@ This talk is for you if you're new to hackathons, have previously participated w
 ## Listen up! Mastering A/B testing and feedback techniques in your mobile apps
 
 Speakers: [Alicja Ogonowska](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alicja-ogonowska)
+
+Resources: [Slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing), [Code](https://github.com/alicja-ogonowska/feedback-demo)
 
 In the world of mobile app development, truly understanding and catering to your users' needs can be the difference between an app that thrives and one that just survives. In this talk, we'll focus on how to effectively gather and use feedback from users within Flutter apps, turning it from an overlooked aspect to a core part of your development process.\r\n\r\nWe'll start by exploring a variety of ways to ask for feedback. We'll look at gentle, almost unnoticed prompts within the app, as well as more straightforward methods.\r\n\r\nBut gathering feedback is just the beginning. Next, we'll take a deep dive into A/B testing. This is a powerful tool that can help you understand what your users prefer and how they behave. I will show you how to set up effective tests, interpret the results, and use this information to make decisions about your app.\r\n\r\nBy the end of this talk, you'll have a better understanding of how to listen to your users and use their feedback to improve your app. You'll learn how to build Flutter apps that are shaped by your users' needs and wants, rather than just your initial ideas. This user-focused approach will help you create apps that your users love and keep coming back to. So, let's start listening to our users and making apps that truly meet their needs!
 
@@ -642,7 +654,7 @@ Animation is a powerful tool to convey messages, evoke emotions, and send feedba
 
 Speakers: [Dominik Roszkowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#dominik-roszkowski)
 
-Resources: [Blog](https://roszkowski.dev/background)
+Resources: [Slides](https://roszkowski.dev/background)
 
 Background processing tends to be one of the afterthoughts with Flutter apps, and I would love to change that. There are several ways to achieve it with Flutter or Dart, although some of them involve a bit of native platform understanding with a pinch of Kotlin or Swift. In this talk I’ll show you how to make it all work without losing your mind, even if you don't have any Android or iOS experience.\r\n\r\nThis talk covers both iOS and Android background processing, with and without utilizing existing Flutter plugins. We'll try to look into desktop background processing as well.
 
@@ -753,6 +765,8 @@ Key takeaways:
 
 Speakers: [Lucas Goldner](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-goldner)
 
+Resources: [Slides](https://state-restoration-presentation.vercel.app/#/speaker)
+
 Imagine this scenario as a user: You are writing a long text in an app, keep switching between various apps, and return to the app, but notice the OS killed it! Now, all your written text is gone. What a terrible UX! How can we, as developers, help the user avoid running into this worst-case scenario? Simply keep and restore the app’s state! We always discuss state management but forget about restoration. For my newest app, "Japanana," I needed to include this feature. So, I will explain the implementation with an actual example. In this talk, I want to:
 
 - Show how to enable state restoration
@@ -765,6 +779,8 @@ Imagine this scenario as a user: You are writing a long text in an app, keep swi
 ## Self-host private pub packages
 
 Speakers: [Pascal Welsch](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pascal-welsch)
+
+Resources: [Slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSsMm1FLGlsga1ggXk4SGp7WAY/edit?usp=sharing)
 
 Self-hosting Dart and Flutter packages isn't easy but required when sharing packages in an enterprise environment. Today, getting your own pub server running is either pricey or maintenance-intensive. Without being cautious, your solution might miss critical access policies.
 
@@ -962,6 +978,8 @@ In this workshop, we will go through all the steps of porting your mobile app to
 ## Your ultimate guide to code generation productivity for Dart and Flutter
 
 Speakers: [Anna Leushchenko](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#anna-leushchenko)
+
+Resources: [Slides](https://bit.ly/45T84JB)
 
 Creating Dart and Flutter applications often includes typical tasks, such as implementing JSON deserialization, consuming backend APIs, creating a dependency inversion mechanism, implementing navigation and localization, managing assets, writing tests, and more. These tasks require writing repetitive code, which is time-consuming, error-prone, and tedious. Fortunately, we can get a significant development productivity boost by letting build_runner generate all the boilerplate. But once the project grows, extensive usage of code generation brings additional challenges, such as slower generation execution, frequent merge conflicts, analyzer performance downgrade, and others.\r\n\r\nIn this session, we will discuss how build_runner and different code-generating packages can facilitate many typical application development tasks, and also talk through a dozen practical tips for efficiently maintaining Dart and Flutter projects that extensively use code generation. I will not only show how to speed up the generation process, but also how to minimize chances for merge conflicts and improve overall developers’ experience.\r\n\r\nEven if you are familiar with code generation topic, you will certainly get valuable takeaways from this session!\r\n\r\nYou will walk away with:\r\n- An understanding of how the code generation mechanism works\r\n- A list of useful code-generating packages worth checking out\r\n- Practical advice on how to efficiently maintain projects that extensively use code generation
 

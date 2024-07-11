@@ -53,6 +53,8 @@ Recommendations:
 
 **Listen up! Mastering A/B testing and feedback techniques in your mobile apps**
 
+Resources: [Slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing), [Code](https://github.com/alicja-ogonowska/feedback-demo)
+
 
 ## Ander Dobo
 
@@ -66,10 +68,12 @@ Recommendations:
 
 
 ## Andrea Bizzotto
-
+[X](https://x.com/biz84)
 
 
 **Lessons Learned from Launching a Flutter app in Production**
+
+Resources: [Slides](https://bizz84.github.io/fluttercon24_slides_web/)
 
 
 ## Andrew Brogdon
@@ -87,10 +91,12 @@ Recommendations:
 
 
 ## Anna Leushchenko
-
+[X](https://x.com/AnnaLeushchenko)
 
 
 **Your ultimate guide to code generation productivity for Dart and Flutter**
+
+Resources: [Slides](https://bit.ly/45T84JB)
 
 
 ## Anton Borries
@@ -180,12 +186,12 @@ Recommendations:
 
 
 ## Dominik Roszkowski
-[Web](https://roszkowski.dev)
+[Web](https://roszkowski.dev) | [X](https://x.com/OrestesGaolin)
 
 
 **Native Background Processing with Flutter**
 
-Resources: [Blog](https://roszkowski.dev/background)
+Resources: [Slides](https://roszkowski.dev/background)
 
 
 ## Eduard Siewert
@@ -205,10 +211,12 @@ Resources: [Blog](https://roszkowski.dev/background)
 
 
 ## Enzo Conty
-
+[X](https://x.com/enzoconty)
 
 
 **Building Your Very Own DevTools Extension**
+
+Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000)
 
 
 ## Esra Kadah
@@ -310,10 +318,12 @@ Resources: [Blog](https://roszkowski.dev/background)
 
 
 ## Lucas Goldner
-
+[X](https://x.com/LucasGoldner)
 
 
 **Saving data before the app getting killed! Easy state restoration with Flutter**
+
+Resources: [Slides](https://state-restoration-presentation.vercel.app/#/speaker)
 
 
 ## Lucas Josefiak
@@ -435,10 +445,12 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 
 ## Mike Rydstrom
-
+[X](https://x.com/RydMike)
 
 
 **Everything Material All At Once**
+
+Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300)
 
 
 ## Mikhail Zotyev
@@ -477,10 +489,12 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 
 ## Oleksandr Tilnyi
-
+[X](https://x.com/alex_tilnyi)
 
 
 **Boosting Map Performance with Mapbox and Flutter**
+
+Resources: [Slides](https://docs.google.com/presentation/d/1VEjz2vmOiFA2pWc8PbdeZoNnu4NaPYgORH2np-oDGGk/edit?usp=sharing), [Article](https://medium.com/@oleksandr-tilnyi/flutter-and-mapbox-deploy-and-display-vector-data-via-mapbox-tilesets-a-11231f19e31a)
 
 
 ## Pascal Stech
@@ -491,10 +505,12 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 
 ## Pascal Welsch
-
+[X](https://x.com/passsy)
 
 
 **Self-host private pub packages**
+
+Resources: [Slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSsMm1FLGlsga1ggXk4SGp7WAY/edit?usp=sharing)
 
 
 ## Pavel Sulimau
@@ -533,10 +549,12 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 
 ## Raouf Rahiche
-
+[X](https://x.com/raoufrahiche)
 
 
 **Implementing custom fragment shaders**
+
+Resources: [Slides](https://www.figma.com/slides/GNv9DFM68G8QVdC7coidX8/Implementing-custom--Fragment-Shaders?node-id=22-1279&t=JQZTimVJAxcj7dxz-1)
 
 
 ## Roaa Khaddam
@@ -598,10 +616,12 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 
 ## Taha Tesser
-
+[X](https://x.com/TahaTesser)
 
 
 **Everything Material All At Once**
+
+Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300)
 
 
 ## Teresa Wu

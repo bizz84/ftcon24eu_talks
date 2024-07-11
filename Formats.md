@@ -10,7 +10,7 @@
 | Animation vs delivery, do you really have to choose ? | [Thomas Coumau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#thomas-coumau), [Maxime Rougieux](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#maxime-rougieux) |  | []() |
 | App Architecture: Faster, Better... Simpler | [Kirill Bubochkin](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kirill-bubochkin) |  | []() |
 | Bluetooth LE-Audio Broadcast: How to build an Auracast assistant app with Flutter | [Eduard Siewert](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#eduard-siewert) |  | []() |
-| Boosting Map Performance with Mapbox and Flutter | [Oleksandr Tilnyi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#oleksandr-tilnyi) |  | []() |
+| Boosting Map Performance with Mapbox and Flutter | [Oleksandr Tilnyi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#oleksandr-tilnyi) | [Slides](https://docs.google.com/presentation/d/1VEjz2vmOiFA2pWc8PbdeZoNnu4NaPYgORH2np-oDGGk/edit?usp=sharing), [Article](https://medium.com/@oleksandr-tilnyi/flutter-and-mapbox-deploy-and-display-vector-data-via-mapbox-tilesets-a-11231f19e31a) | []() |
 | Bringing Google Maps to Flutter: The Power of Plugins | [Sylvia Dieckmann](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#sylvia-dieckmann) |  | []() |
 | Building Real-Time Audio/Video Apps with Flutter and WebRTC | [Masahiro Aoki](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#masahiro-aoki) |  | []() |
 | Building Resilient Flutter Apps in the New Age of Non-Deterministic Data | [Acacia Pappas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#acacia-pappas) |  | []() |
@@ -30,28 +30,28 @@
 | Digital transformation of media industry with Flutter | [Toni Piirainen](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#toni-piirainen) |  | []() |
 | Elevating JavaScript interoperability with Dart | [Jaime Blasco](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jaime-blasco) |  | []() |
 | Enhance your Flutter painting skills | [Romain Rastel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#romain-rastel) |  | []() |
-| Everything Material All At Once | [Taha Tesser](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#taha-tesser), [Mike Rydstrom](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mike-rydstrom) |  | []() |
+| Everything Material All At Once | [Taha Tesser](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#taha-tesser), [Mike Rydstrom](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mike-rydstrom) | [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300) | []() |
 | Flutter Engineering - Architectural path | [Majid Hajian](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#majid-hajian) |  | []() |
 | From Touch To Code: Gestures and Beyond | [Esra Kadah](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#esra-kadah) |  | []() |
 | Hacking and protection of Mobile Apps and backend APIs. Threat modeling exercise. | [Tomáš Soukal](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#tomáš-soukal) |  | []() |
 | Handling Legacy APIs with Domain Driven Design and Reactivity | [Sascha Ernst](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#sascha-ernst) |  | []() |
-| Implementing custom fragment shaders | [Raouf Rahiche](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#raouf-rahiche) |  | []() |
+| Implementing custom fragment shaders | [Raouf Rahiche](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#raouf-rahiche) | [Slides](https://www.figma.com/slides/GNv9DFM68G8QVdC7coidX8/Implementing-custom--Fragment-Shaders?node-id=22-1279&t=JQZTimVJAxcj7dxz-1) | []() |
 | Jaspr: Unleashing the Power of Dart for Modern Web Development | [Kilian Schulte](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kilian-schulte) |  | []() |
-| Lessons Learned from Launching a Flutter app in Production | [Andrea Bizzotto](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andrea-bizzotto) |  | []() |
+| Lessons Learned from Launching a Flutter app in Production | [Andrea Bizzotto](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andrea-bizzotto) | [Slides](https://bizz84.github.io/fluttercon24_slides_web/) | []() |
 | Lessons learned from crafting an in-house framework with over 200 packages | [Marina Meier](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marina-meier), [Pascal Stech](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pascal-stech) |  | []() |
-| Listen up! Mastering A/B testing and feedback techniques in your mobile apps | [Alicja Ogonowska](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alicja-ogonowska) |  | []() |
+| Listen up! Mastering A/B testing and feedback techniques in your mobile apps | [Alicja Ogonowska](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alicja-ogonowska) | [Slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing), [Code](https://github.com/alicja-ogonowska/feedback-demo) | []() |
 | M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5 | [Moritz Theis](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#moritz-theis), [Payam Zahedi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#payam-zahedi) |  | []() |
 | Mastering real world use cases in Flutter with GoRouter and GoRouterBuilder | [Max Weber](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#max-weber) |  | []() |
 | Migrating 2+ Million Daily Users to Flutter with 50+ Engineers | [Csongor Vogel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#csongor-vogel), [Lucas Britto](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-britto), [Bruno Reginato](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bruno-reginato) |  | []() |
 | Modular Flutter App Architecture: Answering the What, When and How | [Salih Guler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#salih-guler) |  | []() |
 | Monitor your Flutter app and see every issue! | [Jonas Uekötter](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jonas-uekötter) |  | []() |
-| Native Background Processing with Flutter | [Dominik Roszkowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#dominik-roszkowski) | [Blog](https://roszkowski.dev/background) | []() |
+| Native Background Processing with Flutter | [Dominik Roszkowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#dominik-roszkowski) | [Slides](https://roszkowski.dev/background) | []() |
 | One Size Doesn't Fit All: Tailoring Flutter Architectures for Team and Business Success | [Jan Stępień](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jan-stępień) |  | []() |
 | Palette Panorama: Mastering the power of Advance theming in Flutter | [Shree Bhagwat](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#shree-bhagwat) |  | []() |
 | Please wait... : The perception of time in user Interfaces | [André Schmidt Di Salvo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andré-schmidt-di-salvo) |  | []() |
 | Realtime Communications with Flutter | [Simon Lightfoot](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#simon-lightfoot) |  | []() |
 | Relaunching DW's Connected TV Experience with Flutter | [Olav Schettler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#olav-schettler), [Daniel Vechtel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daniel-vechtel) |  | []() |
-| Self-host private pub packages | [Pascal Welsch](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pascal-welsch) |  | []() |
+| Self-host private pub packages | [Pascal Welsch](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pascal-welsch) | [Slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSsMm1FLGlsga1ggXk4SGp7WAY/edit?usp=sharing) | []() |
 | Showing that you care about security - OpenSSF Scorecards for Dart and Flutter projects | [Chris Swan](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#chris-swan) |  | []() |
 | Simplify Design Systems and Designer/Developer Collaboration with Widgetbook | [Lucas Josefiak](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-josefiak) |  | []() |
 | Software correctness | [Marcin Wojnarowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-wojnarowski) |  | []() |
@@ -64,7 +64,7 @@
 | Using Rust in your next Flutter SDK | [Cameron Mcloughlin](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#cameron-mcloughlin) |  | []() |
 | White labelling apps - a year later | [Danielle Cox](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#danielle-cox) |  | []() |
 | Working with forms as an ecosystem | [Vasyl Dytsiak](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#vasyl-dytsiak) |  | []() |
-| Your ultimate guide to code generation productivity for Dart and Flutter | [Anna Leushchenko](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#anna-leushchenko) |  | []() |
+| Your ultimate guide to code generation productivity for Dart and Flutter | [Anna Leushchenko](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#anna-leushchenko) | [Slides](https://bit.ly/45T84JB) | []() |
 | Zero runtime errors: Exploring Static Code Analysis techniques in Flutter | [Daria Orlova](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daria-orlova) |  | []() |
 
 
@@ -75,7 +75,7 @@
 | Automating Accessibility Adoption in Flutter with Gemini AI | [Akanksha Singh](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#akanksha-singh) |  | []() |
 | Boost Your Blocs with Functional Programming: bloc_lens in Action | [Piotr Rogulski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#piotr-rogulski) |  | []() |
 | Building Hyper-Casual Games with Flutter | [Raitis Šaripo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#raitis-šaripo) |  | []() |
-| Building Your Very Own DevTools Extension | [Enzo Conty](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#enzo-conty) |  | []() |
+| Building Your Very Own DevTools Extension | [Enzo Conty](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#enzo-conty) | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000) | []() |
 | Code Quality Gates for Large-Scale Flutter Apps | [Pavel Sulimau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pavel-sulimau) |  | []() |
 | Experimenting with Modifier: embracing Compose-inspired UI in Flutter | [Vadym Pinchuk](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#vadym-pinchuk) |  | []() |
 | Fight, Flight, or Fix? Winning the Legacy Flutter Challenge | [Mateusz Rus](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mateusz-rus) |  | []() |
@@ -86,7 +86,7 @@
 | Motion Designer is your best friend for creating animations | [Mikhail Zotyev](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mikhail-zotyev) |  | []() |
 | Navigation in Flutter - the not-so-obvious parts | [Matej Rešetár](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matej-rešetár) |  | []() |
 | Presentation events - a missing piece in BLoC | [Marcin Wojnarowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-wojnarowski) |  | []() |
-| Saving data before the app getting killed! Easy state restoration with Flutter | [Lucas Goldner](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-goldner) |  | []() |
+| Saving data before the app getting killed! Easy state restoration with Flutter | [Lucas Goldner](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-goldner) | [Slides](https://state-restoration-presentation.vercel.app/#/speaker) | []() |
 | Testing that your app is accessible to all | [Alexander Troshkov](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alexander-troshkov) |  | []() |
 | The Unique Role of a Flutter Competence Lead in a Scaling Company | [Cagatay Ulusoy](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#cagatay-ulusoy) |  | []() |
 | The quest to display widget markers on a map | [Matthieu Pernelle](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matthieu-pernelle) |  | []() |

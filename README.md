@@ -70,7 +70,7 @@ If you were a speaker at FlutterCon, please submit a PR and add your talk and sl
 | | | Thursday | 2:20 PM  | | 
 | | | Thursday | 3:30 PM  | | 
 | | | Thursday | 3:30 PM  | | 
-| | | Thursday | 3:30 PM  | | 
+| Level Up: How I Made the Top 10 Worldwide at Global Gamers Hackathon | [Ivanna Kaceviča](https://x.com/ivannahere) | Thursday | 3:30 PM  | [article](https://medium.com/@evanca/level-up-how-i-made-the-top-10-worldwide-at-flutter-global-gamers-hackathon-671cf1938aac) | 
 | | | Thursday | 4:10 PM  | | 
 | | | Thursday | 4:10 PM  | | 
 | | | Thursday | 4:10 PM  | | 

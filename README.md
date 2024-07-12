@@ -1,15 +1,15 @@
 # FlutterCon Europe 2024
 
+Thank you speakers for your great talks! Happy to receive your PR, please add & correct any info in the prepared talks/ folder, there should be your talk-title.json . All Markdown files will be generated via scripts triggered by GitHub Action.
 
-In Progress: Happy to receive your PR for missing information and fixing things :) 
+If you enjoy any other view of the data, you're very welcome to add your script as well :) The followings I have created so far:
 
 [Agenda](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md)
 
-[List of speakers](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md)
+Speakers [list](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md) and all [socials](https://github.com/martin-bertele/ftcon24eu/blob/main/Socials.md)
 
-[Talks sorted by rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/Rooms.md)
+Talks sorted by: [rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/Rooms.md) | [formats](https://github.com/martin-bertele/ftcon24eu/blob/main/Formats.md)
 
-[Talks sorted by formats](https://github.com/martin-bertele/ftcon24eu/blob/main/Formats.md)
 
 # Talks
 

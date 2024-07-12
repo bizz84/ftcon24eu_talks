@@ -1,13 +1,23 @@
 ## FlutterCon Europe 2024 Talks
 
+🚨 **Quick update** 🚨
+
+Someone else started a repo to gather all the FlutterCon talks and has made more progress than me.
+
+We decided to work together. If you want to include your slides, please submit a PR to this repo:
+
+- [https://github.com/martin-bertele/ftcon24eu](https://github.com/martin-bertele/ftcon24eu)
+
+Eventually, both repos will be synced together.
+
+---
+
 I created this repo to collect all the video recordings and slides from the Flutter talks at [FlutterCon 24](https://fluttercon.dev/):
 
 - [Agenda](https://fluttercon.dev/agenda/)
 - [Speakers](https://fluttercon.dev/speakers/)
 
 ## Talks List
-
-If you were a speaker at FlutterCon, please submit a PR and add your talk and slides to the table below (_note: all the talks are sorted in chronological order based on the agenda_). 👇
 
 | Talk Title | Speakers  | Day       | Time     | Slides & Resources  |
 | ---------- | --------- | --------- | -------- | ------------------- |

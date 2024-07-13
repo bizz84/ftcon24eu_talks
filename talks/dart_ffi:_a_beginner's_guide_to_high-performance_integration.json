@@ -5,9 +5,9 @@
             "bio": "About",
         "companyName": "",
         "companyUrl": "",
-        "githubUrlOrHandle": "",
-        "xUrlOrHandle": "",
-        "linkedinUrlOrHandle": "",
+        "githubUrlOrHandle": "https://github.com/SaltySpaghetti",
+        "xUrlOrHandle": "https://x.com/SaltySpag",
+        "linkedinUrlOrHandle": "https://www.linkedin.com/in/matteo-maria-terzuolo",
         "webUrl": ""
         }
     ],
@@ -21,9 +21,13 @@
     "format": "Session",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
-      }
+        "label": "Slides",
+        "url": "https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVkdM-Nq67oz1smacZvBvPKi_U/edit?usp=sharing"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/SaltySpaghetti/n_body_dart_ffi"
+      } 
     ],
     "recommendations": [
       {
@@ -32,24 +36,10 @@
         "comment": ""
       }
     ],
-    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "level": "Advanced",
     "topics": [
-      "Accessibility",
-      "Animations",
-      "Application Architecture - Navigation",
-      "Custom Painting - Render Objects - Rendering",
-      "Dart 3 Language Features",
-      "Dart on the server",
-      "Enterprise - Tech Leadership",
-      "Firebase & Flutter",
       "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
-      "Flutter Widgets & Layouts",
-      "Game Development",
-      "Networking (GraphQl, APIs, etc.)",
       "Package & Plugin Development",
-      "Security",
-      "State Management",
-      "Testing",
       "Third Party Libraries"
     ],
     "videoUrl": ""

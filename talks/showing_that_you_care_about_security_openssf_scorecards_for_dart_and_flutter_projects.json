@@ -2,7 +2,7 @@
     "speakers": [
       {
         "name": "Chris Swan",
-        "bio": "About",
+        "bio": "Chris Swan is an Engineer at Atsign, building the atPlatform, a technology that is putting people in control of their data and removing the frictions and surveillance associated with today’s Internet. He was previously a Fellow at DXC Technology where he held various CTO roles. Before that he held CTO and Director of R&D roles at Cohesive Networks, UBS, Capital SCF and Credit Suisse, where he worked on app servers, compute grids, security, mobile, cloud, networking and containers. Chris co-hosts the Tech Debt Burndown Podcast, is a cloud editor for InfoQ and a Google Developer Expert (GDE) for the Dart programming language.",
         "companyName": "Atsign",
         "companyUrl": "https://atsign.com",
         "githubUrlOrHandle": "cpswan",

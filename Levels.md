@@ -22,6 +22,7 @@
 
 | Title | Speakers | Resources | Recommendations |
 | ----- | -------- | --------- | --------------- |
+| Dart FFI: A Beginner's Guide to High-Performance Integration | [Matteo Maria Terzuolo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matteo-maria-terzuolo) | [Slides](https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVkdM-Nq67oz1smacZvBvPKi_U/edit?usp=sharing), [Code](https://github.com/SaltySpaghetti/n_body_dart_ffi) | []() |
 
 
 ## Expert

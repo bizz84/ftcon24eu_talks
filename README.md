@@ -1,18 +1,28 @@
 # FlutterCon Europe 2024
 
-Thank you speakers for your great talks! Happy to receive your PR, please add & correct any info in the prepared talks/ folder, there should be your talk-title.json . All Markdown files will be generated via scripts triggered by GitHub Action.
 
-If you enjoy any other view of the data, you're very welcome to add your script as well :) The followings I have created so far:
+I prepared jsons and scripts for having different views of the Fluttercon 2024 content. [Kilian Schulte](https://github.com/schultek) provided the [FlutterCon data](https://fluttercon.schultek.de/), which I fed into ChatGPT to retrieve json files.
+
+## Acknowledgement
+
+[Andrea Bizzotto's](https://github.com/bizz84) inspired me with his repo [FlutterCon 2023 resources](https://github.com/bizz84/fluttercon_23_resources).
+
+## Contribution
+
+You're very welcome to fill any info inside the [talks/](https://github.com/martin-bertele/ftcon24eu/tree/main/talks). The file names there should be the talks titles. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/martin-bertele/ftcon24eu/tree/main/.automation) as a starting point. Happy to recieve your PR :)
+
+# Talks
+
+
+Here you can find more views created so far:
 
 [Agenda](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md)
 
 Speakers [list](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md) and all [socials](https://github.com/martin-bertele/ftcon24eu/blob/main/Socials.md)
 
-Talks sorted by: [rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/Rooms.md) | [formats](https://github.com/martin-bertele/ftcon24eu/blob/main/Formats.md)
+Talks sorted by: [rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/Rooms.md) | [formats](https://github.com/martin-bertele/ftcon24eu/blob/main/Formats.md) | [lebels (in progress)](https://github.com/martin-bertele/ftcon24eu/blob/main/Levels.md)
 
-
-# Talks
-
+[Talks with full descriptions](https://github.com/martin-bertele/ftcon24eu/blob/main/Descriptions.md)
 
 | Title | Speakers | Resources | Recommendations |
 | ----- | -------- | --------- | --------------- |
@@ -37,7 +47,7 @@ Talks sorted by: [rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/R
 | Compilers, Virtual Machines and Code Analysis - What makes Dart and Flutter run | [Norbert Kozsir](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#norbert-kozsir) |  | []() |
 | Creating Figma plugins with Flutter | [Bogdan Hobeanu](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bogdan-hobeanu) |  | []() |
 | Creating responsive UIs and other nuances of Flutter Web | [Kon Syrokostas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kon-syrokostas) |  | []() |
-| Dart FFI: A Beginner's Guide to High-Performance Integration | [Matteo Maria Terzuolo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matteo-maria-terzuolo) |  | []() |
+| Dart FFI: A Beginner's Guide to High-Performance Integration | [Matteo Maria Terzuolo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matteo-maria-terzuolo) | [Slides](https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVkdM-Nq67oz1smacZvBvPKi_U/edit?usp=sharing), [Code](https://github.com/SaltySpaghetti/n_body_dart_ffi) | []() |
 | Dart on the backend with Serverpod: Building interactive slides for tech talks | [Viktor Lidholt](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#viktor-lidholt) |  | []() |
 | Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games | [Manuela Sakura Rommel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#manuela-sakura-rommel) |  | []() |
 | Debugging performance issues with the Flutter DevTools | [Alexandre Moureaux](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alexandre-moureaux) |  | [Flashlight](https://github.com/bamlab/flashlight) |

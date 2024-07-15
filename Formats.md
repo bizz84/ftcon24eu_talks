@@ -21,7 +21,7 @@
 | Compilers, Virtual Machines and Code Analysis - What makes Dart and Flutter run | [Norbert Kozsir](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#norbert-kozsir) |  | []() |
 | Creating Figma plugins with Flutter | [Bogdan Hobeanu](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bogdan-hobeanu) |  | []() |
 | Creating responsive UIs and other nuances of Flutter Web | [Kon Syrokostas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kon-syrokostas) |  | []() |
-| Dart FFI: A Beginner's Guide to High-Performance Integration | [Matteo Maria Terzuolo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matteo-maria-terzuolo) |  | []() |
+| Dart FFI: A Beginner's Guide to High-Performance Integration | [Matteo Maria Terzuolo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matteo-maria-terzuolo) | [Slides](https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVkdM-Nq67oz1smacZvBvPKi_U/edit?usp=sharing), [Code](https://github.com/SaltySpaghetti/n_body_dart_ffi) | []() |
 | Dart on the backend with Serverpod: Building interactive slides for tech talks | [Viktor Lidholt](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#viktor-lidholt) |  | []() |
 | Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games | [Manuela Sakura Rommel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#manuela-sakura-rommel) |  | []() |
 | Debugging performance issues with the Flutter DevTools | [Alexandre Moureaux](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alexandre-moureaux) |  | [Flashlight](https://github.com/bamlab/flashlight) |

@@ -276,6 +276,8 @@ The main takeaways for the participants will be:
 
 Speakers: [Matteo Maria Terzuolo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matteo-maria-terzuolo)
 
+Resources: [Slides](https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVkdM-Nq67oz1smacZvBvPKi_U/edit?usp=sharing), [Code](https://github.com/SaltySpaghetti/n_body_dart_ffi)
+
 Dart is a versatile language that can be used to build a wide range of applications. However, sometimes you need the performance of another language, such as C or Rust, for certain tasks. That's where Dart FFI comes in.\r\n\r\nDart FFI allows you to call functions written in other languages directly from your Dart code. This can be a great way to boost the performance of your Dart application for specific tasks, such as image processing, numerical computing, or machine learning.\r\n\r\nWith that said, it's important to ask yourself: Is FFI always the best way to boost performance?\r\n\r\nIn this talk, we will discuss the benefits and challenges of using Dart FFI. We will also explore some alternative ways to improve the performance of your Dart application.
 
 

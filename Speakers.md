@@ -419,10 +419,12 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 
 ## Matteo Maria Terzuolo
-
+[GitHub](https://github.com/SaltySpaghetti) | [X](https://x.com/SaltySpag) | [LinkedIn](https://www.linkedin.com/in/matteo-maria-terzuolo)
 
 
 **Dart FFI: A Beginner's Guide to High-Performance Integration**
+
+Resources: [Slides](https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVkdM-Nq67oz1smacZvBvPKi_U/edit?usp=sharing), [Code](https://github.com/SaltySpaghetti/n_body_dart_ffi)
 
 
 ## Matthieu Pernelle

@@ -346,7 +346,7 @@ Resources: [Slides](https://state-restoration-presentation.vercel.app/#/speaker)
 **Simplify Design Systems and Designer/Developer Collaboration with Widgetbook**
 
 
-## Lukas Klingsbo 💙
+## Lukas Klingsbo
 
 
 

@@ -886,7 +886,7 @@ This presentation will offer a concise overview of a map rendering engine's oper
 
 ## Ubuntu: An OS experience built on Flutter
 
-Speakers: [Lukas Klingsbo 💙](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lukas-klingsbo-💙)
+Speakers: [Lukas Klingsbo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lukas-klingsbo)
 
 Resources: [Slides](https://docs.google.com/presentation/d/14eGAql_pLZehIfSUlEwB4umUoxtlxnlN826yFaLw9xA/edit?usp=sharing)
 

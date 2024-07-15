@@ -799,6 +799,13 @@ This talk is not sponsored by any provider, neither promotes our own solution un
 
 Speakers: [Chris Swan](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#chris-swan)
 
+Resources: [Slides](https://www.slideshare.net/slideshow/fluttercon-2024-showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/270042965), [Blog](https://blog.thestateofme.com/2022/12/02/implementing-ossf-scorecards-across-a-github-organisation/)
+
+Recommendations:
+- [OpenSSF Scorecard](https://scorecard.dev/) 
+- [Supply-chain Levels for Software Artifacts](https://slsa.dev/) 
+- [Step Security](https://www.stepsecurity.io/) Scorecard will link to some of these tools to assist with remediation
+
 Have you noticed the OpenSSF Scorecard badges on the official Dart and Flutter repos? It's Google's way of showing that they care about security. Practices such as pinning dependencies, branch protection, required reviews, continuous integration tests etc. are measured to provide a score and accompanying badge.
 
 You can do the same for your projects, and this presentation will show you how, with an emphasis on the unique challenges that come up when working with Dart and Flutter.

@@ -142,10 +142,21 @@ Resources: [Slides](https://bit.ly/45T84JB)
 
 
 ## Chris Swan
+@ [Atsign](https://atsign.com)
 
+Chris Swan is an Engineer at Atsign, building the atPlatform, a technology that is putting people in control of their data and removing the frictions and surveillance associated with today’s Internet. He was previously a Fellow at DXC Technology where he held various CTO roles. Before that he held CTO and Director of R&D roles at Cohesive Networks, UBS, Capital SCF and Credit Suisse, where he worked on app servers, compute grids, security, mobile, cloud, networking and containers. Chris co-hosts the Tech Debt Burndown Podcast, is a cloud editor for InfoQ and a Google Developer Expert (GDE) for the Dart programming language.
+
+[Web](https://chris.swanz.net) | [GitHub](https://github.com/cpswan) | [LinkedIn](https://www.linkedin.com/in/chrisswan)
 
 
 **Showing that you care about security - OpenSSF Scorecards for Dart and Flutter projects**
+
+Resources: [Slides](https://www.slideshare.net/slideshow/fluttercon-2024-showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/270042965), [Blog](https://blog.thestateofme.com/2022/12/02/implementing-ossf-scorecards-across-a-github-organisation/)
+
+Recommendations:
+- [OpenSSF Scorecard](https://scorecard.dev/) 
+- [Supply-chain Levels for Software Artifacts](https://slsa.dev/) 
+- [Step Security](https://www.stepsecurity.io/) Scorecard will link to some of these tools to assist with remediation
 
 
 ## Csongor Vogel

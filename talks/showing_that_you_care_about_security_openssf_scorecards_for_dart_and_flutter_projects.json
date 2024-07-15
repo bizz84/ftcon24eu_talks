@@ -2,13 +2,13 @@
     "speakers": [
       {
         "name": "Chris Swan",
-        "bio": "About",
-        "companyName": "",
-        "companyUrl": "",
-        "githubUrlOrHandle": "",
+        "bio": "Chris Swan is an Engineer at Atsign, building the atPlatform, a technology that is putting people in control of their data and removing the frictions and surveillance associated with today’s Internet. He was previously a Fellow at DXC Technology where he held various CTO roles. Before that he held CTO and Director of R&D roles at Cohesive Networks, UBS, Capital SCF and Credit Suisse, where he worked on app servers, compute grids, security, mobile, cloud, networking and containers. Chris co-hosts the Tech Debt Burndown Podcast, is a cloud editor for InfoQ and a Google Developer Expert (GDE) for the Dart programming language.",
+        "companyName": "Atsign",
+        "companyUrl": "https://atsign.com",
+        "githubUrlOrHandle": "cpswan",
         "xUrlOrHandle": "",
-        "linkedinUrlOrHandle": "",
-        "webUrl": ""
+        "linkedinUrlOrHandle": "chrisswan",
+        "webUrl": "https://chris.swanz.net"
       }
     ],
     "title": "Showing that you care about security - OpenSSF Scorecards for Dart and Flutter projects",
@@ -16,36 +16,36 @@
     "videoUrl": "",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Slides",
+        "url": "https://www.slideshare.net/slideshow/fluttercon-2024-showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/270042965"
+      },
+      {
+        "label": "Blog",
+        "url": "https://blog.thestateofme.com/2022/12/02/implementing-ossf-scorecards-across-a-github-organisation/"
       }
     ],
     "recommendations": [
       {
-        "tool": "",
-        "url": "",
+        "tool": "OpenSSF Scorecard",
+        "url": "https://scorecard.dev/",
         "comment": ""
+      },
+      {
+        "tool": "Supply-chain Levels for Software Artifacts",
+        "url": "https://slsa.dev/",
+        "comment": ""
+      },
+      {
+        "tool": "Step Security",
+        "url": "https://www.stepsecurity.io/",
+        "comment": "Scorecard will link to some of these tools to assist with remediation"
       }
     ],
-    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "level": "Advanced",
     "topics": [
-      "Accessibility",
-      "Animations",
-      "Application Architecture - Navigation",
-      "Custom Painting - Render Objects - Rendering",
-      "Dart 3 Language Features",
       "Dart on the server",
-      "Enterprise - Tech Leadership",
-      "Firebase & Flutter",
-      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
-      "Flutter Widgets & Layouts",
-      "Game Development",
-      "Networking (GraphQl, APIs, etc.)",
-      "Package & Plugin Development",
       "Security",
-      "State Management",
-      "Testing",
-      "Third Party Libraries"
+      "Testing"
     ],
     "day": "Wednesday",
     "time": "11:15 AM",

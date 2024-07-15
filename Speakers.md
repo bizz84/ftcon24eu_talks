@@ -352,6 +352,8 @@ Resources: [Slides](https://state-restoration-presentation.vercel.app/#/speaker)
 
 **Ubuntu: An OS experience built on Flutter**
 
+Resources: [Slides](https://docs.google.com/presentation/d/14eGAql_pLZehIfSUlEwB4umUoxtlxnlN826yFaLw9xA/edit?usp=sharing)
+
 
 ## Majid Hajian
 

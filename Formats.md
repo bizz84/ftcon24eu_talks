@@ -57,7 +57,7 @@
 | Software correctness | [Marcin Wojnarowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-wojnarowski) |  | []() |
 | The Flutter POS: Use-cases on integrating POS Hardware on Android and Linux | [Alex Bordei](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alex-bordei) |  | []() |
 | The past, present, and future of native interop | [Daco Harkes](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daco-harkes), [Hossein Yousefi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#hossein-yousefi) |  | []() |
-| Ubuntu: An OS experience built on Flutter | [Lukas Klingsbo 💙](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lukas-klingsbo-💙) |  | []() |
+| Ubuntu: An OS experience built on Flutter | [Lukas Klingsbo 💙](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lukas-klingsbo-💙) | [Slides](https://docs.google.com/presentation/d/14eGAql_pLZehIfSUlEwB4umUoxtlxnlN826yFaLw9xA/edit?usp=sharing) | []() |
 | Unconference discussion 1 - Past, Present and Future of Native Interop | [Ander Dobo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ander-dobo) |  | []() |
 | Unconference discussion 2 - Sustainable package maintenance models | [Ander Dobo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ander-dobo) |  | []() |
 | Unconference discussion 3 - Addressing package ecosystem fragmentation | [Ander Dobo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ander-dobo) |  | []() |

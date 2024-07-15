@@ -888,6 +888,8 @@ This presentation will offer a concise overview of a map rendering engine's oper
 
 Speakers: [Lukas Klingsbo 💙](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lukas-klingsbo-💙)
 
+Resources: [Slides](https://docs.google.com/presentation/d/14eGAql_pLZehIfSUlEwB4umUoxtlxnlN826yFaLw9xA/edit?usp=sharing)
+
 Did you know that more and more of the user experience in Ubuntu is built on Flutter? All new front-end applications developed for Ubuntu are using Flutter and currently the OS installer, app center, firmware updater, music player and more are already developed in Flutter.
 
 In this talk you'll learn about:

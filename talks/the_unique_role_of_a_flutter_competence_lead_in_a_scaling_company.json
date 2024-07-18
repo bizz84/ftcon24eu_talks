@@ -5,7 +5,7 @@
         "bio": "About",
         "companyName": "",
         "companyUrl": "",
-        "githubUrlOrHandle": "",
+        "githubUrlOrHandle": "ulusoyca",
         "xUrlOrHandle": "",
         "linkedinUrlOrHandle": "",
         "webUrl": ""
@@ -21,8 +21,8 @@
     "format": "Lightning talk",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Slides",
+        "url": "https://docs.google.com/presentation/d/1UXYbH7xqe-X1FgUREm5Uomaa4UpCyHz-A53I26FGV0Y/edit#slide=id.g2ca715091db_0_779"
       }
     ],
     "recommendations": [

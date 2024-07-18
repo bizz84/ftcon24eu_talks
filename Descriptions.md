@@ -857,6 +857,8 @@ The aim of this presentation is to demonstrate how Flutter can be effectively ut
 
 Speakers: [Cagatay Ulusoy](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#cagatay-ulusoy)
 
+Resources: [Slides](https://docs.google.com/presentation/d/1UXYbH7xqe-X1FgUREm5Uomaa4UpCyHz-A53I26FGV0Y/edit#slide=id.g2ca715091db_0_779)
+
 Unlike traditional team lead roles that focus on project management and team performance, the competence leads at Wolt are at the forefront of how engineers should be hired and how things should be built within their areas of technological ownership. Their chosen weapons are tech recruiting, active knowledge sharing, and codifying best practices. Using Wolt's journey as a case study, this talk offers insights into the critical role of a Flutter Competence Lead in a scaling tech company towards stable, efficient, and modern engineering with Flutter.
 
 In this talk, the participants will gain a holistic understanding of the Flutter Competence Lead role at Wolt, focusing on three pivotal aspects: hiring, internal knowledge sharing, and external activities. Firstly, the talk will explore tech recruitment activities that include ensuring a robust interviewer pool and planning the tech interview around the take-home assignment. Secondly, effective methods for driving internal knowledge sharing and keeping up with the evolving best practices will be discussed. Lastly, the talk will highlight the impact of our efforts in promoting engineering excellence externally through blog posts, meetups, and open-source projects. The talk aims to equip participants with practical knowledge and insights that can be applied to enhance their Flutter teams' development and operational efficiency.

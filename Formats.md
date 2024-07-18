@@ -88,7 +88,7 @@
 | Presentation events - a missing piece in BLoC | [Marcin Wojnarowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-wojnarowski) |  | []() |
 | Saving data before the app getting killed! Easy state restoration with Flutter | [Lucas Goldner](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-goldner) | [Slides](https://state-restoration-presentation.vercel.app/#/speaker) | []() |
 | Testing that your app is accessible to all | [Alexander Troshkov](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alexander-troshkov) |  | []() |
-| The Unique Role of a Flutter Competence Lead in a Scaling Company | [Cagatay Ulusoy](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#cagatay-ulusoy) |  | []() |
+| The Unique Role of a Flutter Competence Lead in a Scaling Company | [Cagatay Ulusoy](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#cagatay-ulusoy) | [Slides](https://docs.google.com/presentation/d/1UXYbH7xqe-X1FgUREm5Uomaa4UpCyHz-A53I26FGV0Y/edit#slide=id.g2ca715091db_0_779) | []() |
 | The quest to display widget markers on a map | [Matthieu Pernelle](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matthieu-pernelle) |  | []() |
 
 

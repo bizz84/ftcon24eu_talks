@@ -128,10 +128,12 @@ Resources: [Slides](https://bit.ly/45T84JB)
 
 
 ## Cagatay Ulusoy
-
+[GitHub](https://github.com/ulusoyca)
 
 
 **The Unique Role of a Flutter Competence Lead in a Scaling Company**
+
+Resources: [Slides](https://docs.google.com/presentation/d/1UXYbH7xqe-X1FgUREm5Uomaa4UpCyHz-A53I26FGV0Y/edit#slide=id.g2ca715091db_0_779)
 
 
 ## Cameron Mcloughlin

@@ -3,7 +3,7 @@
 
 ## GitHub
 
-[Chris Swan](https://github.com/cpswan), [Daco Harkes](https://github.com/dcharkes), [Hossein Yousefi](https://github.com/HosseinYousefi), [Matteo Maria Terzuolo](https://github.com/SaltySpaghetti)
+[Cagatay Ulusoy](https://github.com/ulusoyca), [Chris Swan](https://github.com/cpswan), [Daco Harkes](https://github.com/dcharkes), [Hossein Yousefi](https://github.com/HosseinYousefi), [Matteo Maria Terzuolo](https://github.com/SaltySpaghetti)
 ## LinkedIn
 
 [Alicja Ogonowska](https://www.linkedin.com/in/alicja-ogonowska), [Chris Swan](https://www.linkedin.com/in/chrisswan), [Hossein Yousefi](https://www.linkedin.com/in/hosseinyousefi), [Matteo Maria Terzuolo](https://www.linkedin.com/in/matteo-maria-terzuolo)

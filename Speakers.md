@@ -167,10 +167,16 @@ Recommendations:
 
 
 ## Daco Harkes
+@ [Google](www.google.com)
 
+Software Engineer at Google - Seamless interop between #Dart and native code
+
+[GitHub](https://github.com/dcharkes)
 
 
 **The past, present, and future of native interop**
+
+Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjBpbudeH5IVLpkVxCXldbzMsRcFrAqQUyzO-Pf80T4DBZmrcAHt7QX4I_w2PUN7ZNPabV/pub?start=false&loop=false&delayms=3000)
 
 
 ## Daniel Vechtel
@@ -245,10 +251,16 @@ Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwn
 
 
 ## Hossein Yousefi
+@ [Google](www.google.com)
 
+Software Engineer at Google - Make interop fluid between Dart and Java/Kotlin
+
+[GitHub](https://github.com/HosseinYousefi) | [X](https://x.com/YousefiDash) | [LinkedIn](https://www.linkedin.com/in/hosseinyousefi)
 
 
 **The past, present, and future of native interop**
+
+Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjBpbudeH5IVLpkVxCXldbzMsRcFrAqQUyzO-Pf80T4DBZmrcAHt7QX4I_w2PUN7ZNPabV/pub?start=false&loop=false&delayms=3000)
 
 
 ## Ivanna Kaceviča

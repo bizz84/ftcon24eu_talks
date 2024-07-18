@@ -72,7 +72,7 @@
 | **4:10 PM**<br>*Widget Way* | Flutteristas panel | [Alicja Ogonowska](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alicja-ogonowska), [Manuela Sakura Rommel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#manuela-sakura-rommel), [Kendi J](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kendi-j), [Danielle Cox](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#danielle-cox), [Elvira Leveque](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#elvira-leveque) |  | []() |
 | **4:10 PM**<br>*Async Area* | Boost Your Blocs with Functional Programming: bloc_lens in Action | [Piotr Rogulski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#piotr-rogulski) |  | []() |
 | **4:10 PM**<br>*Dart Den* | Mastering real world use cases in Flutter with GoRouter and GoRouterBuilder | [Max Weber](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#max-weber) |  | []() |
-| **4:10 PM**<br>*Flutter Forest* | The past, present, and future of native interop | [Daco Harkes](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daco-harkes), [Hossein Yousefi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#hossein-yousefi) |  | []() |
+| **4:10 PM**<br>*Flutter Forest* | The past, present, and future of native interop | [Daco Harkes](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daco-harkes), [Hossein Yousefi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#hossein-yousefi) | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjBpbudeH5IVLpkVxCXldbzMsRcFrAqQUyzO-Pf80T4DBZmrcAHt7QX4I_w2PUN7ZNPabV/pub?start=false&loop=false&delayms=3000) | []() |
 
 
 ## Friday

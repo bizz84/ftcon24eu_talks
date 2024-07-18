@@ -866,6 +866,8 @@ In this talk, the participants will gain a holistic understanding of the Flutter
 
 Speakers: [Daco Harkes](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daco-harkes), [Hossein Yousefi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#hossein-yousefi)
 
+Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjBpbudeH5IVLpkVxCXldbzMsRcFrAqQUyzO-Pf80T4DBZmrcAHt7QX4I_w2PUN7ZNPabV/pub?start=false&loop=false&delayms=3000)
+
 Join us as we share our vision for a more seamless and efficient way to bridge the gap between Flutter and native code, empowering developers to create high-performance, feature-rich apps. We'll demonstrate how JNIgen/FFIgen simplifies native interop, discuss its potential impact on plugin development, and outline our roadmap for the future. Whether you're an app developer or a plugin developer, this talk will provide valuable insights into the evolving landscape of Flutter native interop.
 
 

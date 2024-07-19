@@ -843,6 +843,8 @@ We take a break from Flutter and Dart by discussing what it means for software t
 
 Speakers: [Alexander Troshkov](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alexander-troshkov)
 
+Resources: [Slides](https://github.com/aednlaxer/flutterconeurope2024)
+
 Apps are great when they're accessible to all. But how can a developer make sure their app is accessible? Here come accessibility guidelines and accessibility tools. This talk is about using these guidelines in widget tests and using these tools to ensure your app works fine in various environments.
 
 

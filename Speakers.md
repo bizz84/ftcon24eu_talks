@@ -34,6 +34,8 @@
 
 **Testing that your app is accessible to all**
 
+Resources: [Slides](https://github.com/aednlaxer/flutterconeurope2024)
+
 
 ## Alexandre Moureaux
 

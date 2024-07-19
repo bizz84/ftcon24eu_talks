@@ -16,8 +16,8 @@
     "videoUrl": "",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Slides",
+        "url": "https://github.com/aednlaxer/flutterconeurope2024"
       }
     ],
     "recommendations": [

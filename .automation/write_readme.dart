@@ -7,16 +7,18 @@ void writeReadme(List<Talk> talks) async {
 
   readmeContent.writeln('# FlutterCon Europe 2024\n\n');
 
-  readmeContent.writeln(
-      'I prepared jsons and scripts for having different views of the Fluttercon 2024 content. [Kilian Schulte](https://github.com/schultek) provided the [FlutterCon data](https://fluttercon.schultek.de/), which I fed into ChatGPT to retrieve json files.\n');
-
-  readmeContent.writeln('## Acknowledgement\n');
-  readmeContent.writeln(
-      '[Andrea Bizzotto\'s](https://github.com/bizz84) inspired me with his repo [FlutterCon 2023 resources](https://github.com/bizz84/fluttercon_23_resources).\n');
+  readmeContent.writeln('Collection of Fluttercon 2024 content. :)');
 
   readmeContent.writeln('## Contribution\n');
   readmeContent.writeln(
-      'You\'re very welcome to fill any info inside the [talks/](https://github.com/martin-bertele/ftcon24eu/tree/main/talks). The file names there should be the talks titles. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/martin-bertele/ftcon24eu/tree/main/.automation) as a starting point. Happy to recieve your PR :)\n');
+      'Please fill any content info exclusively to the .json files inside the [talks/ directory](https://github.com/martin-bertele/ftcon24eu/tree/main/talks). All .md-files will be generated via script \`dart run .automation/generate_markdowns.dart\` triggered by Github Action. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/martin-bertele/ftcon24eu/tree/main/.automation) as a starting point to add yours. Happy to recieve your PRs :)\n');
+
+  readmeContent.writeln('## Acknowledgement\n');
+  readmeContent.writeln(
+      '[Andrea Bizzotto](https://github.com/bizz84) inspired me with his repo [FlutterCon 2023 resources](https://github.com/bizz84/fluttercon_23_resources).\n');
+
+  readmeContent.writeln(
+      'From [Kilian Schulte](https://github.com/schultek) I used the [FlutterCon data](https://fluttercon.schultek.de/) to feed ChatGPT for retrieving the json files.\n');
 
   readmeContent.writeln('# Talks\n\n');
 

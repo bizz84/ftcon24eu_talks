@@ -282,10 +282,14 @@ Resources: [Article](https://medium.com/@evanca/level-up-how-i-made-the-top-10-w
 
 
 ## Jan Stępień
+@ [OneRoof](https://www.oneroofapp.com/)
 
+[GitHub](https://github.com/Jan-Stepien) | [LinkedIn](https://www.linkedin.com/in/jan-stepien-developer/)
 
 
 **One Size Doesn't Fit All: Tailoring Flutter Architectures for Team and Business Success**
+
+Resources: [Slides](https://github.com/Jan-Stepien/fluttercon-architecture-presentation/tree/main)
 
 
 ## John McCutchan

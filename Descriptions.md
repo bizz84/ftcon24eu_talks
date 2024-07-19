@@ -674,6 +674,8 @@ Navigation between screens is an inseparable part of Flutter app development. Ho
 
 Speakers: [Jan Stępień](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jan-stępień)
 
+Resources: [Slides](https://github.com/Jan-Stepien/fluttercon-architecture-presentation/tree/main)
+
 In the fast-paced world of startups, idealism often needs to adapt.
 Joining a small team, I faced the challenge of balancing long-term architecture with immediate business needs.
 We embraced a pragmatic approach, prioritizing features while gradually refactoring when possible.

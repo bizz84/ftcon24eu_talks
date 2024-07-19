@@ -1,15 +1,16 @@
 # FlutterCon Europe 2024
 
 
-I prepared jsons and scripts for having different views of the Fluttercon 2024 content. [Kilian Schulte](https://github.com/schultek) provided the [FlutterCon data](https://fluttercon.schultek.de/), which I fed into ChatGPT to retrieve json files.
+Collection of Fluttercon 2024 content. :)
+## Contribution
+
+Please fill any content info exclusively to the .json files inside the [talks/ directory](https://github.com/martin-bertele/ftcon24eu/tree/main/talks). All .md-files will be generated via script `dart run .automation/generate_markdowns.dart` triggered by Github Action. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/martin-bertele/ftcon24eu/tree/main/.automation) as a starting point to add yours. Happy to recieve your PRs :)
 
 ## Acknowledgement
 
-[Andrea Bizzotto's](https://github.com/bizz84) inspired me with his repo [FlutterCon 2023 resources](https://github.com/bizz84/fluttercon_23_resources).
+[Andrea Bizzotto](https://github.com/bizz84) inspired me with his repo [FlutterCon 2023 resources](https://github.com/bizz84/fluttercon_23_resources).
 
-## Contribution
-
-You're very welcome to fill any info inside the [talks/](https://github.com/martin-bertele/ftcon24eu/tree/main/talks). The file names there should be the talks titles. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/martin-bertele/ftcon24eu/tree/main/.automation) as a starting point. Happy to recieve your PR :)
+From [Kilian Schulte](https://github.com/schultek) I used the [FlutterCon data](https://fluttercon.schultek.de/) to feed ChatGPT for retrieving the json files.
 
 # Talks
 
@@ -83,7 +84,7 @@ Talks sorted by: [rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/R
 | Motion Designer is your best friend for creating animations | [Mikhail Zotyev](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mikhail-zotyev) |  | []() |
 | Native Background Processing with Flutter | [Dominik Roszkowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#dominik-roszkowski) | [Slides](https://roszkowski.dev/background) | []() |
 | Navigation in Flutter - the not-so-obvious parts | [Matej Rešetár](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matej-rešetár) |  | []() |
-| One Size Doesn't Fit All: Tailoring Flutter Architectures for Team and Business Success | [Jan Stępień](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jan-stępień) |  | []() |
+| One Size Doesn't Fit All: Tailoring Flutter Architectures for Team and Business Success | [Jan Stępień](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jan-stępień) | [Slides](https://github.com/Jan-Stepien/fluttercon-architecture-presentation/tree/main) | []() |
 | Opening keynote | [Andrew Brogdon](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andrew-brogdon) |  | []() |
 | Palette Panorama: Mastering the power of Advance theming in Flutter | [Shree Bhagwat](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#shree-bhagwat) |  | []() |
 | Please wait... : The perception of time in user Interfaces | [André Schmidt Di Salvo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andré-schmidt-di-salvo) |  | []() |

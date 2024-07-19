@@ -46,7 +46,7 @@
 | Modular Flutter App Architecture: Answering the What, When and How | [Salih Guler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#salih-guler) |  | []() |
 | Monitor your Flutter app and see every issue! | [Jonas Uekötter](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jonas-uekötter) |  | []() |
 | Native Background Processing with Flutter | [Dominik Roszkowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#dominik-roszkowski) | [Slides](https://roszkowski.dev/background) | []() |
-| One Size Doesn't Fit All: Tailoring Flutter Architectures for Team and Business Success | [Jan Stępień](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jan-stępień) |  | []() |
+| One Size Doesn't Fit All: Tailoring Flutter Architectures for Team and Business Success | [Jan Stępień](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jan-stępień) | [Slides](https://github.com/Jan-Stepien/fluttercon-architecture-presentation/tree/main) | []() |
 | Palette Panorama: Mastering the power of Advance theming in Flutter | [Shree Bhagwat](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#shree-bhagwat) |  | []() |
 | Please wait... : The perception of time in user Interfaces | [André Schmidt Di Salvo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andré-schmidt-di-salvo) |  | []() |
 | Realtime Communications with Flutter | [Simon Lightfoot](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#simon-lightfoot) |  | []() |

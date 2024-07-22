@@ -499,6 +499,8 @@ How should you prepare your Flutter app for introducing it on a global market? I
 
 Speakers: [Kilian Schulte](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kilian-schulte)
 
+Resources: [Slides](https://github.com/schultek/schultek/blob/main/references/resources/fluttercon_slides.pdf), [Code](https://github.com/schultek/jaspr/tree/main/apps/fluttercon)
+
 A showcase and introduction to Jaspr, the web framework that lets you build modern and dynamic websites using pure Dart.
 
 Learn how you can build your next blog, landing page, portfolio site or any other website you can imagine and leverage your existing skills in Dart and Flutter. Whether you are a seasoned developer or newcomer to Dart, this session lets you peek into the next area of Dart development – the web.

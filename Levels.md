@@ -5,6 +5,7 @@
 
 | Title | Speakers | Resources | Recommendations |
 | ----- | -------- | --------- | --------------- |
+| Jaspr: Unleashing the Power of Dart for Modern Web Development | [Kilian Schulte](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kilian-schulte) | [Slides](https://github.com/schultek/schultek/blob/main/references/resources/fluttercon_slides.pdf), [Code](https://github.com/schultek/jaspr/tree/main/apps/fluttercon) | []() |
 | Opening keynote | [Andrew Brogdon](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andrew-brogdon) |  | []() |
 
 

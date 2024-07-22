@@ -106,7 +106,7 @@
 | **9:20 AM**<br>*Friday* | Hacking and protection of Mobile Apps and backend APIs. Threat modeling exercise. | [Tomáš Soukal](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#tomáš-soukal) |  | []() |
 | **10:15 AM**<br>*Friday* | Developer Diary: Journey of a payment integration | [Nino Handler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#nino-handler) |  | []() |
 | **11:10 AM**<br>*Friday* | Mastering Flutter + Firebase: Architecting for Scale, Security & Savings | [Tomas Piaggio](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#tomas-piaggio), [Bettina Carrizo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bettina-carrizo) |  | []() |
-| **1:25 PM**<br>*Friday* | Jaspr: Unleashing the Power of Dart for Modern Web Development | [Kilian Schulte](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kilian-schulte) |  | []() |
+| **1:25 PM**<br>*Friday* | Jaspr: Unleashing the Power of Dart for Modern Web Development | [Kilian Schulte](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kilian-schulte) | [Slides](https://github.com/schultek/schultek/blob/main/references/resources/fluttercon_slides.pdf), [Code](https://github.com/schultek/jaspr/tree/main/apps/fluttercon) | []() |
 | **2:20 PM**<br>*Friday* | Relaunching DW's Connected TV Experience with Flutter | [Olav Schettler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#olav-schettler), [Daniel Vechtel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daniel-vechtel) |  | []() |
 
 

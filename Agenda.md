@@ -97,7 +97,7 @@
 | **1:25 PM**<br>*Widget Way* | Creating responsive UIs and other nuances of Flutter Web | [Kon Syrokostas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kon-syrokostas) |  | []() |
 | **1:25 PM**<br>*Async Area* | App Architecture: Faster, Better... Simpler | [Kirill Bubochkin](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kirill-bubochkin) |  | []() |
 | **1:25 PM**<br>*Dart Den* | Code Meets Art: Flutter for Creative Coding | [Roaa Khaddam](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#roaa-khaddam) |  | []() |
-| **1:25 PM**<br>*Flutter Forest* | Jaspr: Unleashing the Power of Dart for Modern Web Development | [Kilian Schulte](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kilian-schulte) |  | []() |
+| **1:25 PM**<br>*Flutter Forest* | Jaspr: Unleashing the Power of Dart for Modern Web Development | [Kilian Schulte](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kilian-schulte) | [Slides](https://github.com/schultek/schultek/blob/main/references/resources/fluttercon_slides.pdf), [Code](https://github.com/schultek/jaspr/tree/main/apps/fluttercon) | []() |
 | **2:20 PM**<br>*Widget Way* | Creating Figma plugins with Flutter | [Bogdan Hobeanu](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bogdan-hobeanu) |  | []() |
 | **2:20 PM**<br>*Async Area* | Working with forms as an ecosystem | [Vasyl Dytsiak](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#vasyl-dytsiak) |  | []() |
 | **2:20 PM**<br>*Dart Den* | Handling Legacy APIs with Domain Driven Design and Reactivity | [Sascha Ernst](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#sascha-ernst) |  | []() |

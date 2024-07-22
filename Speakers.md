@@ -316,10 +316,14 @@ Resources: [Slides](https://github.com/Jan-Stepien/fluttercon-architecture-prese
 
 
 ## Kilian Schulte
+Creator of Jaspr
 
+[GitHub](https://github.com/schultek) | [X](https://x.com/schultek_dev)
 
 
 **Jaspr: Unleashing the Power of Dart for Modern Web Development**
+
+Resources: [Slides](https://github.com/schultek/schultek/blob/main/references/resources/fluttercon_slides.pdf), [Code](https://github.com/schultek/jaspr/tree/main/apps/fluttercon)
 
 
 ## Kirill Bubochkin

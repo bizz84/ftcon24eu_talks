@@ -509,10 +509,16 @@ Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le
 
 
 ## Nino Handler
+@ [CONNECT Mobility GmbH](https://www.uryde.de/en)
 
+CTO & Founder uRyde | Founder & Organizer GDG Nuremberg | Founder & Organizer CTO Lunch Nuremberg
+
+[GitHub](https://github.com/luckyhandler) | [X](https://x.com/luckyhandler) | [LinkedIn](https://www.linkedin.com/in/ninohandler/)
 
 
 **Developer Diary: Journey of a payment integration**
+
+Resources: [Slides](https://github.com/luckyhandler/developer_diaries/blob/main/slides/developer_diary-journey_of_a_payment_integration.pdf)
 
 
 ## Norbert Kozsir

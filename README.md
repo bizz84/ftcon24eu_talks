@@ -53,7 +53,7 @@ Talks sorted by: [rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/R
 | Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games | [Manuela Sakura Rommel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#manuela-sakura-rommel) |  | []() |
 | Debugging performance issues with the Flutter DevTools | [Alexandre Moureaux](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alexandre-moureaux) |  | [Flashlight](https://github.com/bamlab/flashlight) |
 | Demystifying App Architecture: The LeanCode Guide | [Mateusz Wojtczak](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mateusz-wojtczak), [Marcin Chudy](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-chudy) |  | []() |
-| Developer Diary: Journey of a payment integration | [Nino Handler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#nino-handler) |  | []() |
+| Developer Diary: Journey of a payment integration | [Nino Handler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#nino-handler) | [Slides](https://github.com/luckyhandler/developer_diaries/blob/main/slides/developer_diary-journey_of_a_payment_integration.pdf) | []() |
 | Digital transformation of media industry with Flutter | [Toni Piirainen](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#toni-piirainen) |  | []() |
 | Elevating JavaScript interoperability with Dart | [Jaime Blasco](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jaime-blasco) |  | []() |
 | Enhance your Flutter painting skills | [Romain Rastel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#romain-rastel) |  | []() |

@@ -323,6 +323,8 @@ Why do we use BLoC for state management? Why not Riverpod? Why do we love hooks?
 
 Speakers: [Nino Handler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#nino-handler)
 
+Resources: [Slides](https://github.com/luckyhandler/developer_diaries/blob/main/slides/developer_diary-journey_of_a_payment_integration.pdf)
+
 This talk is meant as a fun but insightful retrospective on how we implemented (finally successful) our "unknown" payment provider into our app.
 
 I. It starts with the first approach which was writing a package for Android and iOS and calling the native libraries from Flutter.

@@ -2,12 +2,12 @@
     "speakers": [
       {
         "name": "Nino Handler",
-        "bio": "About",
-        "companyName": "",
-        "companyUrl": "",
-        "githubUrlOrHandle": "",
-        "xUrlOrHandle": "",
-        "linkedinUrlOrHandle": "",
+        "bio": "CTO & Founder uRyde | Founder & Organizer GDG Nuremberg | Founder & Organizer CTO Lunch Nuremberg",
+        "companyName": "CONNECT Mobility GmbH",
+        "companyUrl": "https://www.uryde.de/en",
+        "githubUrlOrHandle": "https://github.com/luckyhandler",
+        "xUrlOrHandle": "https://x.com/luckyhandler",
+        "linkedinUrlOrHandle": "https://www.linkedin.com/in/ninohandler/",
         "webUrl": ""
       }
     ],
@@ -21,8 +21,8 @@
     "format": "Session",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Slides",
+        "url": "https://github.com/luckyhandler/developer_diaries/blob/main/slides/developer_diary-journey_of_a_payment_integration.pdf"
       }
     ],
     "recommendations": [
@@ -34,23 +34,13 @@
     ],
     "level": "Introductory and overview/Intermediate/Advanced/Expert",
     "topics": [
-      "Accessibility",
-      "Animations",
-      "Application Architecture - Navigation",
-      "Custom Painting - Render Objects - Rendering",
-      "Dart 3 Language Features",
-      "Dart on the server",
-      "Enterprise - Tech Leadership",
       "Firebase & Flutter",
-      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
-      "Flutter Widgets & Layouts",
-      "Game Development",
-      "Networking (GraphQl, APIs, etc.)",
-      "Package & Plugin Development",
-      "Security",
-      "State Management",
-      "Testing",
-      "Third Party Libraries"
+      "Third Party Libraries",
+      "WebView",
+      "In-App Browsers",
+      "Deep Linking",
+      "Firebase Cloud Functions",
+      "Firebase Hosting"
     ],
     "videoUrl": ""
 }

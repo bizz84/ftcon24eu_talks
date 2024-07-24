@@ -6,7 +6,7 @@
 | Time & Room | Title | Speakers | Resources | Recommendations |
 | ----------- | ----- | -------- | --------- | --------------- |
 | **9:00 AM**<br>*Widget Way* | Opening keynote | [Andrew Brogdon](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andrew-brogdon) |  | []() |
-| **10:20 AM**<br>*Widget Way* | Modular Flutter App Architecture: Answering the What, When and How | [Salih Guler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#salih-guler) |  | []() |
+| **10:20 AM**<br>*Widget Way* | Modular Flutter App Architecture: Answering the What, When and How | [Salih Guler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#salih-guler) | [Slides](https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nOocg/edit?utm_content=DAGJz47iMDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | []() |
 | **10:20 AM**<br>*Async Area* | Zero runtime errors: Exploring Static Code Analysis techniques in Flutter | [Daria Orlova](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daria-orlova) |  | []() |
 | **10:20 AM**<br>*Dart Den* | Cat-like Development: Flutter for Efficiency | [Mangirdas Kazlauskas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mangirdas-kazlauskas) | [Slides](https://kazlauskas.dev/ldd/) | []() |
 | **10:20 AM**<br>*Flutter Forest* | Flutter Engineering - Architectural path | [Majid Hajian](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#majid-hajian) |  | []() |

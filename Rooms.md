@@ -6,7 +6,7 @@
 | Time | Title | Speakers | Resources | Recommendations |
 | ---- | ----- | -------- | --------- | --------------- |
 | **9:00 AM**<br>*Wednesday* | Opening keynote | [Andrew Brogdon](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andrew-brogdon) |  | []() |
-| **10:20 AM**<br>*Wednesday* | Modular Flutter App Architecture: Answering the What, When and How | [Salih Guler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#salih-guler) |  | []() |
+| **10:20 AM**<br>*Wednesday* | Modular Flutter App Architecture: Answering the What, When and How | [Salih Guler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#salih-guler) | [Slides](https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nOocg/edit?utm_content=DAGJz47iMDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | []() |
 | **11:15 AM**<br>*Wednesday* | Native Background Processing with Flutter | [Dominik Roszkowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#dominik-roszkowski) | [Slides](https://roszkowski.dev/background) | []() |
 | **12:10 PM**<br>*Wednesday* | Navigation in Flutter - the not-so-obvious parts | [Matej Rešetár](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matej-rešetár) |  | []() |
 | **1:40 PM**<br>*Wednesday* | Realtime Communications with Flutter | [Simon Lightfoot](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#simon-lightfoot) |  | []() |

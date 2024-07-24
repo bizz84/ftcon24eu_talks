@@ -619,10 +619,16 @@ Resources: [Slides](https://www.figma.com/slides/GNv9DFM68G8QVdC7coidX8/Implemen
 
 
 ## Salih Guler
+@ [Amazon Web Services (AWS Amplify)](https://docs.amplify.aws/flutter)
 
+Salih is a Berlin based Senior Developer Advocate at AWS who is also a Google Developer Expert for Flutter and Dart. He likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences.
+
+[GitHub](https://github.com/salihgueler) | [X](https://x.com/https://twitter.com/salihgueler) | [LinkedIn](https://www.linkedin.com/in/https://linkedin.com/in/salihgueler)
 
 
 **Modular Flutter App Architecture: Answering the What, When and How**
+
+Resources: [Slides](https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nOocg/edit?utm_content=DAGJz47iMDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Sascha Ernst

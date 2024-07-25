@@ -302,6 +302,8 @@ Furthermore, we are going to check how to implement some of the talked about acc
 
 Speakers: [Alexandre Moureaux](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alexandre-moureaux)
 
+Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTcUdCsRqDo0YJhCWLI4406Cw7lBruf0RvHQzdYxSh2_Xij1gjJ239aLegxvPDvmS-FAt2dAcl6binU/pub?start=false&loop=false&delayms=60000), [Example repository](https://github.com/Almouro/flutter-performance-debugging-example)
+
 Recommendations:
 - [Flashlight](https://github.com/bamlab/flashlight) App performance score
 

@@ -38,10 +38,14 @@ Resources: [Slides](https://github.com/aednlaxer/flutterconeurope2024)
 
 
 ## Alexandre Moureaux
+@ [Theodo Apps](https://apps.theodo.com/)
 
+[Web](https://alex.moureaux.me/) | [GitHub](https://github.com/almouro) | [X](https://x.com/almouro) | [LinkedIn](https://www.linkedin.com/in/alexandremoureaux)
 
 
 **Debugging performance issues with the Flutter DevTools**
+
+Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTcUdCsRqDo0YJhCWLI4406Cw7lBruf0RvHQzdYxSh2_Xij1gjJ239aLegxvPDvmS-FAt2dAcl6binU/pub?start=false&loop=false&delayms=60000), [Example repository](https://github.com/Almouro/flutter-performance-debugging-example)
 
 Recommendations:
 - [Flashlight](https://github.com/bamlab/flashlight) App performance score

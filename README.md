@@ -44,7 +44,7 @@ Talks sorted by: [rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/R
 | Building with best practices in FlutterFlow | [Leigha Reid](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#leigha-reid) |  | []() |
 | Cat-like Development: Flutter for Efficiency | [Mangirdas Kazlauskas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mangirdas-kazlauskas) | [Slides](https://kazlauskas.dev/ldd/) | []() |
 | Code Meets Art: Flutter for Creative Coding | [Roaa Khaddam](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#roaa-khaddam) |  | []() |
-| Code Quality Gates for Large-Scale Flutter Apps | [Pavel Sulimau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pavel-sulimau) |  | []() |
+| Code Quality Gates for Large-Scale Flutter Apps | [Pavel Sulimau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pavel-sulimau) | [Blog](https://pasul.medium.com) | []() |
 | Compilers, Virtual Machines and Code Analysis - What makes Dart and Flutter run | [Norbert Kozsir](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#norbert-kozsir) |  | []() |
 | Creating Figma plugins with Flutter | [Bogdan Hobeanu](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bogdan-hobeanu) |  | []() |
 | Creating responsive UIs and other nuances of Flutter Web | [Kon Syrokostas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kon-syrokostas) |  | []() |

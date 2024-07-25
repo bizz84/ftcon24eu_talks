@@ -14,6 +14,7 @@
 | Title | Speakers | Resources | Recommendations |
 | ----- | -------- | --------- | --------------- |
 | Cat-like Development: Flutter for Efficiency | [Mangirdas Kazlauskas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mangirdas-kazlauskas) | [Slides](https://kazlauskas.dev/ldd/) | []() |
+| Code Quality Gates for Large-Scale Flutter Apps | [Pavel Sulimau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pavel-sulimau) | [Blog](https://pasul.medium.com) | []() |
 | Debugging performance issues with the Flutter DevTools | [Alexandre Moureaux](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alexandre-moureaux) | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTcUdCsRqDo0YJhCWLI4406Cw7lBruf0RvHQzdYxSh2_Xij1gjJ239aLegxvPDvmS-FAt2dAcl6binU/pub?start=false&loop=false&delayms=60000), [Example repository](https://github.com/Almouro/flutter-performance-debugging-example) | [Flashlight](https://github.com/bamlab/flashlight) |
 | Listen up! Mastering A/B testing and feedback techniques in your mobile apps | [Alicja Ogonowska](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alicja-ogonowska) | [Slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing), [Code](https://github.com/alicja-ogonowska/feedback-demo) | []() |
 | Native Background Processing with Flutter | [Dominik Roszkowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#dominik-roszkowski) | [Slides](https://roszkowski.dev/background) | []() |

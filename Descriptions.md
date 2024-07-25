@@ -213,6 +213,8 @@ After a quick introduction into what creative coding is and how its visual feedb
 
 Speakers: [Pavel Sulimau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pavel-sulimau)
 
+Resources: [Blog](https://pasul.medium.com)
+
 I'll share insights on guidelines and tools to maintain the quality of a Flutter app.
 
 The talk will cover code quality aspects: 

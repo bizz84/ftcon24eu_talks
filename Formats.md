@@ -76,7 +76,7 @@
 | Boost Your Blocs with Functional Programming: bloc_lens in Action | [Piotr Rogulski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#piotr-rogulski) |  | []() |
 | Building Hyper-Casual Games with Flutter | [Raitis Šaripo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#raitis-šaripo) |  | []() |
 | Building Your Very Own DevTools Extension | [Enzo Conty](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#enzo-conty) | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000) | []() |
-| Code Quality Gates for Large-Scale Flutter Apps | [Pavel Sulimau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pavel-sulimau) |  | []() |
+| Code Quality Gates for Large-Scale Flutter Apps | [Pavel Sulimau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pavel-sulimau) | [Blog](https://pasul.medium.com) | []() |
 | Experimenting with Modifier: embracing Compose-inspired UI in Flutter | [Vadym Pinchuk](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#vadym-pinchuk) |  | []() |
 | Fight, Flight, or Fix? Winning the Legacy Flutter Challenge | [Mateusz Rus](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mateusz-rus) |  | []() |
 | Get the most out of Flutter theming with theme extensions | [Elvira Leveque](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#elvira-leveque) |  | []() |

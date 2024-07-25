@@ -565,10 +565,14 @@ Resources: [Slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSs
 
 
 ## Pavel Sulimau
+@ [EPAM Systems](https://www.epam.com)
 
+[Web](https://pasul.dev) | [GitHub](https://github.com/Pavel-Sulimau) | [LinkedIn](https://www.linkedin.com/in/pavel-sulimau)
 
 
 **Code Quality Gates for Large-Scale Flutter Apps**
+
+Resources: [Blog](https://pasul.medium.com)
 
 
 ## Payam Zahedi

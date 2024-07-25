@@ -3,12 +3,12 @@
       {
         "name": "Pavel Sulimau",
         "bio": "About",
-        "companyName": "",
-        "companyUrl": "",
-        "githubUrlOrHandle": "",
+        "companyName": "EPAM Systems",
+        "companyUrl": "https://www.epam.com",
+        "githubUrlOrHandle": "https://github.com/Pavel-Sulimau",
         "xUrlOrHandle": "",
-        "linkedinUrlOrHandle": "",
-        "webUrl": ""
+        "linkedinUrlOrHandle": "https://www.linkedin.com/in/pavel-sulimau",
+        "webUrl": "https://pasul.dev"
       }
     ],
     "title": "Code Quality Gates for Large-Scale Flutter Apps",
@@ -16,8 +16,8 @@
     "videoUrl": "",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Blog",
+        "url": "https://pasul.medium.com"
       }
     ],
     "recommendations": [
@@ -27,25 +27,9 @@
         "comment": ""
       }
     ],
-    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "level": "Intermediate",
     "topics": [
-      "Accessibility",
-      "Animations",
-      "Application Architecture - Navigation",
-      "Custom Painting - Render Objects - Rendering",
-      "Dart 3 Language Features",
-      "Dart on the server",
-      "Enterprise - Tech Leadership",
-      "Firebase & Flutter",
-      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
-      "Flutter Widgets & Layouts",
-      "Game Development",
-      "Networking (GraphQl, APIs, etc.)",
-      "Package & Plugin Development",
-      "Security",
-      "State Management",
-      "Testing",
-      "Third Party Libraries"
+      "Enterprise - Tech Leadership"
     ],
     "day": "Wednesday",
     "time": "3:45 PM",
@@ -53,5 +37,4 @@
     "endsAt": "2024-07-03T14:05:00.000Z",
     "room": "Flutter Forest",
     "format": "Lightning talk"
-  }
-  
+}

@@ -50,7 +50,7 @@ I created this repo to collect all the video recordings and slides from the Flut
 | | | Wednesday | 4:20 PM | | 
 | Lessons Learned from Launching a Flutter app in Production | [Andrea Bizzotto](https://x.com/biz84) | Wednesday | 4:20 PM | [slides](https://bizz84.github.io/fluttercon24_slides_web/) | 
 | | | Wednesday | 4:20 PM | | 
-| | | Wednesday | 4:20 PM | | 
+| M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5 | [Payam Zahedi](https://x.com/payamzahedi95) & [Moritz Theis](https://x.com/MoritzTheis) | Wednesday | 4:20 PM | [code](https://github.com/Snapp-X/m_and_m) | 
 | | | Wednesday | 5:20 PM | | 
 | | | Wednesday | 5:20 PM | | 
 | | | Wednesday | 5:20 PM | | 

@@ -670,10 +670,14 @@ Resources: [Slides](https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nO
 
 
 ## Sylvia Dieckmann
+@ [Rozendal Labs]()
 
+[GitHub](https://github.com/githubmonkey)
 
 
 **Bringing Google Maps to Flutter: The Power of Plugins**
+
+Resources: [Slides](https://docs.google.com/presentation/d/17ClzHygtkb_-pT-_xpkSbHIojYd72HsIBlisc-_FINs/edit?usp=sharing)
 
 
 ## Taha Tesser

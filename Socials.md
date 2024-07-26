@@ -3,7 +3,7 @@
 
 ## GitHub
 
-[Alexandre Moureaux](https://github.com/almouro), [Cagatay Ulusoy](https://github.com/ulusoyca), [Chris Swan](https://github.com/cpswan), [Daco Harkes](https://github.com/dcharkes), [Hossein Yousefi](https://github.com/HosseinYousefi), [Jan Stępień](https://github.com/Jan-Stepien), [Kilian Schulte](https://github.com/schultek), [Matteo Maria Terzuolo](https://github.com/SaltySpaghetti), [Nino Handler](https://github.com/luckyhandler), [Pavel Sulimau](https://github.com/Pavel-Sulimau), [Salih Guler](https://github.com/salihgueler)
+[Alexandre Moureaux](https://github.com/almouro), [Cagatay Ulusoy](https://github.com/ulusoyca), [Chris Swan](https://github.com/cpswan), [Daco Harkes](https://github.com/dcharkes), [Hossein Yousefi](https://github.com/HosseinYousefi), [Jan Stępień](https://github.com/Jan-Stepien), [Kilian Schulte](https://github.com/schultek), [Matteo Maria Terzuolo](https://github.com/SaltySpaghetti), [Nino Handler](https://github.com/luckyhandler), [Pavel Sulimau](https://github.com/Pavel-Sulimau), [Salih Guler](https://github.com/salihgueler), [Sylvia Dieckmann](https://github.com/githubmonkey)
 ## LinkedIn
 
 [Alexandre Moureaux](https://www.linkedin.com/in/alexandremoureaux), [Alicja Ogonowska](https://www.linkedin.com/in/alicja-ogonowska), [Chris Swan](https://www.linkedin.com/in/chrisswan), [Hossein Yousefi](https://www.linkedin.com/in/hosseinyousefi), [Jan Stępień](https://www.linkedin.com/in/jan-stepien-developer/), [Matteo Maria Terzuolo](https://www.linkedin.com/in/matteo-maria-terzuolo), [Nino Handler](https://www.linkedin.com/in/ninohandler/), [Pavel Sulimau](https://www.linkedin.com/in/pavel-sulimau), [Salih Guler](https://www.linkedin.com/in/https://linkedin.com/in/salihgueler)

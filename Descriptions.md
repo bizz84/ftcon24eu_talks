@@ -87,6 +87,8 @@ In this talk, you will discover:
 
 Speakers: [Sylvia Dieckmann](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#sylvia-dieckmann)
 
+Resources: [Slides](https://docs.google.com/presentation/d/17ClzHygtkb_-pT-_xpkSbHIojYd72HsIBlisc-_FINs/edit?usp=sharing)
+
 Flutter allows developing high-quality apps for multiple platforms (Android, iOS, Web, and more) from a single code base. But some app functionality depends on platform-specific APIs, a requirement seemingly at odds with “one codebase for all platforms”. To bridge this gap, Flutter defines the concept of Plugins to access native APIs from cross-platform code.
 In this talk I will build a simple Flutter app that displays a map, looks up an address (geo-coding), and plots a route (directions) with the help of two existing Flutter plugins. Both are cross-platform but under the hood make use of platform specific APIs, combining multiple platform specific solutions into a single developer friendly package.
 After showing how to use the Google Maps and geocoding packages in my app, I will dissect the basic structure of the two plugins and discuss how a developer might extend them, for example by adding support for a new platform.

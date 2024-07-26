@@ -3,9 +3,9 @@
       {
         "name": "Sylvia Dieckmann",
         "bio": "About",
-        "companyName": "",
+        "companyName": "Rozendal Labs",
         "companyUrl": "",
-        "githubUrlOrHandle": "",
+        "githubUrlOrHandle": "https://github.com/githubmonkey",
         "xUrlOrHandle": "",
         "linkedinUrlOrHandle": "",
         "webUrl": ""
@@ -16,8 +16,8 @@
     "videoUrl": "",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Slides",
+        "url": "https://docs.google.com/presentation/d/17ClzHygtkb_-pT-_xpkSbHIojYd72HsIBlisc-_FINs/edit?usp=sharing"
       }
     ],
     "recommendations": [
@@ -29,22 +29,11 @@
     ],
     "level": "Introductory and overview/Intermediate/Advanced/Expert",
     "topics": [
-      "Accessibility",
-      "Animations",
       "Application Architecture - Navigation",
-      "Custom Painting - Render Objects - Rendering",
-      "Dart 3 Language Features",
-      "Dart on the server",
-      "Enterprise - Tech Leadership",
       "Firebase & Flutter",
       "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
       "Flutter Widgets & Layouts",
-      "Game Development",
-      "Networking (GraphQl, APIs, etc.)",
       "Package & Plugin Development",
-      "Security",
-      "State Management",
-      "Testing",
       "Third Party Libraries"
     ],
     "day": "Wednesday",

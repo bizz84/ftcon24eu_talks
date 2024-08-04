@@ -1,57 +1,41 @@
 {
-    "speakers": [
-      {
-        "name": "Mikhail Zotyev",
-        "bio": "About",
-        "companyName": "",
-        "companyUrl": "",
-        "githubUrlOrHandle": "",
-        "xUrlOrHandle": "",
-        "linkedinUrlOrHandle": "",
-        "webUrl": ""
-      }
-    ],
-    "title": "Motion Designer is your best friend for creating animations",
-    "description": "Animation is a powerful tool to convey messages, evoke emotions, and send feedback on a user's action. Every detail of a good animation is well thought out and makes sense. A motion designer cares about it. Our task as developers is not to miss these details and implement exactly what our colleague has created. In this talk, I will share how we at Wolt approach this problem using motion specifications and Flutter.",
-    "videoUrl": "",
-    "resources": [
-      {
-        "label": "Slides/Blog/...",
-        "url": ""
-      }
-    ],
-    "recommendations": [
-      {
-        "tool": "",
-        "url": "",
-        "comment": ""
-      }
-    ],
-    "level": "Introductory and overview/Intermediate/Advanced/Expert",
-    "topics": [
-      "Accessibility",
-      "Animations",
-      "Application Architecture - Navigation",
-      "Custom Painting - Render Objects - Rendering",
-      "Dart 3 Language Features",
-      "Dart on the server",
-      "Enterprise - Tech Leadership",
-      "Firebase & Flutter",
-      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
-      "Flutter Widgets & Layouts",
-      "Game Development",
-      "Networking (GraphQl, APIs, etc.)",
-      "Package & Plugin Development",
-      "Security",
-      "State Management",
-      "Testing",
-      "Third Party Libraries"
-    ],
-    "day": "Wednesday",
-    "time": "12:10 PM",
-    "startsAt": "2024-07-03T10:10:00.000Z",
-    "endsAt": "2024-07-03T10:30:00.000Z",
-    "room": "Async Area",
-    "format": "Lightning talk"
-  }
-  
+  "speakers": [
+    {
+      "name": "Mikhail Zotyev",
+      "bio": "Dart & Flutter GDE. Author of telegram-channel about Flutter 'Oh, my Flutter'. Flutter Voronezh meetup group organizer. Member of the Mobius Conference Program Committee. Maintainer of the Elementary library for Flutter.",
+      "companyName": "Wolt",
+      "companyUrl": "",
+      "githubUrlOrHandle": "https://github.com/MbIXjkee",
+      "xUrlOrHandle": "https://twitter.com/MbIXJkee",
+      "linkedinUrlOrHandle": "https://www.linkedin.com/in/mbixjkee/",
+      "webUrl": ""
+    }
+  ],
+  "title": "Motion Designer is your best friend for creating animations",
+  "description": "Animation is a powerful tool to convey messages, evoke emotions, and send feedback on a user's action. Every detail of a good animation is well thought out and makes sense. A motion designer cares about it. Our task as developers is not to miss these details and implement exactly what our colleague has created. In this talk, I will share how we at Wolt approach this problem using motion specifications and Flutter.",
+  "videoUrl": "",
+  "resources": [
+    {
+      "label": "Slides",
+      "url": "https://docs.google.com/presentation/d/1u-cGtbCteO_6trOrCXjuuafxzOcJY0pxxn39scGd_28/edit?usp=sharing"
+    }
+  ],
+  "recommendations": [
+    {
+      "tool": "",
+      "url": "",
+      "comment": ""
+    }
+  ],
+  "level": "Intermediate",
+  "topics": [
+    "Animations",
+    "Flutter Widgets & Layouts"
+  ],
+  "day": "Wednesday",
+  "time": "12:10 PM",
+  "startsAt": "2024-07-03T10:10:00.000Z",
+  "endsAt": "2024-07-03T10:30:00.000Z",
+  "room": "Async Area",
+  "format": "Lightning talk"
+}

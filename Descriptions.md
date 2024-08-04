@@ -669,6 +669,8 @@ Based on an example with Flutter for the app and dart_frog for the backend, we'l
 
 Speakers: [Mikhail Zotyev](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mikhail-zotyev)
 
+Resources: [Slides](https://docs.google.com/presentation/d/1u-cGtbCteO_6trOrCXjuuafxzOcJY0pxxn39scGd_28/edit?usp=sharing)
+
 Animation is a powerful tool to convey messages, evoke emotions, and send feedback on a user's action. Every detail of a good animation is well thought out and makes sense. A motion designer cares about it. Our task as developers is not to miss these details and implement exactly what our colleague has created. In this talk, I will share how we at Wolt approach this problem using motion specifications and Flutter.
 
 

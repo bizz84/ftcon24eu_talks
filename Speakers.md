@@ -509,10 +509,16 @@ Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le
 
 
 ## Mikhail Zotyev
+@ [Wolt]()
 
+Dart & Flutter GDE. Author of telegram-channel about Flutter 'Oh, my Flutter'. Flutter Voronezh meetup group organizer. Member of the Mobius Conference Program Committee. Maintainer of the Elementary library for Flutter.
+
+[GitHub](https://github.com/MbIXjkee) | [X](https://x.com/https://twitter.com/MbIXJkee) | [LinkedIn](https://www.linkedin.com/in/mbixjkee/)
 
 
 **Motion Designer is your best friend for creating animations**
+
+Resources: [Slides](https://docs.google.com/presentation/d/1u-cGtbCteO_6trOrCXjuuafxzOcJY0pxxn39scGd_28/edit?usp=sharing)
 
 
 ## Moritz Theis

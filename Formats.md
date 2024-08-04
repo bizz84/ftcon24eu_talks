@@ -83,7 +83,7 @@
 | How I get your location: A story of permissions | [Thomas Coumau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#thomas-coumau) |  | []() |
 | Internationalization (and not only) | [Albert Wolszon](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#albert-wolszon) |  | []() |
 | Level Up: How I Made the Top 10 Worldwide at Global Gamers Hackathon | [Ivanna Kaceviča](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ivanna-kaceviča) | [Article](https://medium.com/@evanca/level-up-how-i-made-the-top-10-worldwide-at-flutter-global-gamers-hackathon-671cf1938aac) | []() |
-| Motion Designer is your best friend for creating animations | [Mikhail Zotyev](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mikhail-zotyev) |  | []() |
+| Motion Designer is your best friend for creating animations | [Mikhail Zotyev](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mikhail-zotyev) | [Slides](https://docs.google.com/presentation/d/1u-cGtbCteO_6trOrCXjuuafxzOcJY0pxxn39scGd_28/edit?usp=sharing) | []() |
 | Navigation in Flutter - the not-so-obvious parts | [Matej Rešetár](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matej-rešetár) |  | []() |
 | Presentation events - a missing piece in BLoC | [Marcin Wojnarowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-wojnarowski) |  | []() |
 | Saving data before the app getting killed! Easy state restoration with Flutter | [Lucas Goldner](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-goldner) | [Slides](https://state-restoration-presentation.vercel.app/#/speaker) | []() |

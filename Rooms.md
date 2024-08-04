@@ -54,7 +54,7 @@
 | **10:15 AM**<br>*Friday* | Palette Panorama: Mastering the power of Advance theming in Flutter | [Shree Bhagwat](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#shree-bhagwat) |  | []() |
 | **11:10 AM**<br>*Friday* | The Flutter POS: Use-cases on integrating POS Hardware on Android and Linux | [Alex Bordei](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alex-bordei) |  | []() |
 | **12:05 PM**<br>*Friday* | Internationalization (and not only) | [Albert Wolszon](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#albert-wolszon) |  | []() |
-| **1:25 PM**<br>*Friday* | App Architecture: Faster, Better... Simpler | [Kirill Bubochkin](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kirill-bubochkin) |  | []() |
+| **1:25 PM**<br>*Friday* | App Architecture: Faster, Better... Simpler | [Kirill Bubochkin](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kirill-bubochkin) | [Slides](https://github.com/ookami-kb/ookami-kb/blob/master/slides/app-architecture-fluttercon.pdf), [Example repository](https://github.com/ookami-kb/my_tmdb) | [DCM](https://dcm.dev/)<br>[lakos](https://pub.dev/packages/lakos) |
 | **2:20 PM**<br>*Friday* | Working with forms as an ecosystem | [Vasyl Dytsiak](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#vasyl-dytsiak) |  | []() |
 
 

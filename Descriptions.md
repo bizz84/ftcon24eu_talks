@@ -37,6 +37,12 @@ Here are some of the topics we’ll tackle during the talk:
 
 Speakers: [Kirill Bubochkin](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kirill-bubochkin)
 
+Resources: [Slides](https://github.com/ookami-kb/ookami-kb/blob/master/slides/app-architecture-fluttercon.pdf), [Example repository](https://github.com/ookami-kb/my_tmdb)
+
+Recommendations:
+- [DCM](https://dcm.dev/) 
+- [lakos](https://pub.dev/packages/lakos) 
+
 App architecture is intended to simplify our lives, not complicate them. Unfortunately, I've noticed that many developers, particularly newcomers, tend to overcomplicate their architectures without strong justification—simply because they've read about it in various blogs and tutorials. In this talk, I'd like to delve into why certain principles and best practices, such as SOLID, DRY, and Clean Architecture, may not always be as beneficial as they seem (especially when misunderstood), and suggest a simpler approach to mobile app architecture.
 
 As a bonus, I'll share my experience with using the new DCM feature for analyzing code structure, which aids in implementing the aforementioned architectural approach.

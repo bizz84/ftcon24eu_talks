@@ -331,10 +331,20 @@ Resources: [Slides](https://github.com/schultek/schultek/blob/main/references/re
 
 
 ## Kirill Bubochkin
+@ [Mews](https://www.mews.com/)
 
+Staff Mobile Engineer at Mews. Former Android dev, former front-end dev, former full-stack dev, former webmaster.
+
+[Web](https://ookamikb.dev/) | [GitHub](https://github.com/ookami-kb/) | [X](https://x.com/ookami_kb) | [LinkedIn](https://www.linkedin.com/in/ookamikb/)
 
 
 **App Architecture: Faster, Better... Simpler**
+
+Resources: [Slides](https://github.com/ookami-kb/ookami-kb/blob/master/slides/app-architecture-fluttercon.pdf), [Example repository](https://github.com/ookami-kb/my_tmdb)
+
+Recommendations:
+- [DCM](https://dcm.dev/) 
+- [lakos](https://pub.dev/packages/lakos) 
 
 
 ## Kon Syrokostas

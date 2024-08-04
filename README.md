@@ -30,7 +30,7 @@ Talks sorted by: [rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/R
 | Adding HomeScreenWidgets to your Flutter App | [Anton Borries](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#anton-borries) |  | []() |
 | Android Platform Views Past, Present, Future | [John McCutchan](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#john-mccutchan) |  | []() |
 | Animation vs delivery, do you really have to choose ? | [Thomas Coumau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#thomas-coumau), [Maxime Rougieux](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#maxime-rougieux) |  | []() |
-| App Architecture: Faster, Better... Simpler | [Kirill Bubochkin](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kirill-bubochkin) |  | []() |
+| App Architecture: Faster, Better... Simpler | [Kirill Bubochkin](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kirill-bubochkin) | [Slides](https://github.com/ookami-kb/ookami-kb/blob/master/slides/app-architecture-fluttercon.pdf), [Example repository](https://github.com/ookami-kb/my_tmdb) | [DCM](https://dcm.dev/)<br>[lakos](https://pub.dev/packages/lakos) |
 | Automating Accessibility Adoption in Flutter with Gemini AI | [Akanksha Singh](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#akanksha-singh) |  | []() |
 | Bluetooth LE-Audio Broadcast: How to build an Auracast assistant app with Flutter | [Eduard Siewert](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#eduard-siewert) |  | []() |
 | Boost Your Blocs with Functional Programming: bloc_lens in Action | [Piotr Rogulski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#piotr-rogulski) |  | []() |

@@ -3,8 +3,8 @@
       {
         "name": "Moritz Theis",
         "bio": "About",
-        "companyName": "",
-        "companyUrl": "",
+        "companyName": "Snapp X",
+        "companyUrl": "www.snappx.io",
         "githubUrlOrHandle": "",
         "xUrlOrHandle": "",
         "linkedinUrlOrHandle": "",
@@ -13,9 +13,9 @@
       {
         "name": "Payam Zahedi",
         "bio": "About",
-        "companyName": "",
-        "companyUrl": "",
-        "githubUrlOrHandle": "",
+        "companyName": "Snapp X",
+        "companyUrl": "www.snappx.io",
+        "githubUrlOrHandle": "payam-zahedi",
         "xUrlOrHandle": "",
         "linkedinUrlOrHandle": "",
         "webUrl": ""
@@ -26,8 +26,8 @@
     "videoUrl": "",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Code",
+        "url": "https://github.com/Snapp-X/m_and_m"
       }
     ],
     "recommendations": [
@@ -37,25 +37,9 @@
         "comment": ""
       }
     ],
-    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "level": "Intermediate",
     "topics": [
-      "Accessibility",
-      "Animations",
-      "Application Architecture - Navigation",
-      "Custom Painting - Render Objects - Rendering",
-      "Dart 3 Language Features",
-      "Dart on the server",
-      "Enterprise - Tech Leadership",
-      "Firebase & Flutter",
-      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
-      "Flutter Widgets & Layouts",
-      "Game Development",
-      "Networking (GraphQl, APIs, etc.)",
-      "Package & Plugin Development",
-      "Security",
-      "State Management",
-      "Testing",
-      "Third Party Libraries"
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)"
     ],
     "day": "Wednesday",
     "time": "4:20 PM",

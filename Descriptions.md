@@ -583,6 +583,8 @@ Come watch Simon live code and get some great insights on how he solves challeng
 
 Speakers: [Moritz Theis](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#moritz-theis), [Payam Zahedi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#payam-zahedi)
 
+Resources: [Code](https://github.com/Snapp-X/m_and_m)
+
 Tired of boring M&M mixes? Take control with Flutter! This talk dives into building a custom M&M dispenser you control with code, powered by the mighty Raspberry Pi 5.
 
 We'll ditch the screens and get our hands dirty (well, maybe not that dirty) as we:

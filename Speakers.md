@@ -522,10 +522,14 @@ Resources: [Slides](https://docs.google.com/presentation/d/1u-cGtbCteO_6trOrCXju
 
 
 ## Moritz Theis
+@ [Snapp X](www.snappx.io)
+
 
 
 
 **M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5**
+
+Resources: [Code](https://github.com/Snapp-X/m_and_m)
 
 
 ## Nino Handler
@@ -592,10 +596,14 @@ Resources: [Blog](https://pasul.medium.com)
 
 
 ## Payam Zahedi
+@ [Snapp X](www.snappx.io)
 
+[GitHub](https://github.com/payam-zahedi)
 
 
 **M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5**
+
+Resources: [Code](https://github.com/Snapp-X/m_and_m)
 
 
 ## Pieter Scholtz

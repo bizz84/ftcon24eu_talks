@@ -2,13 +2,12 @@
 
 🚨 **Quick update** 🚨
 
-Someone else started a repo to gather all the FlutterCon talks and has made more progress than me.
+[Martin](https://github.com/martin-bertele) merged [his archived repo](https://github.com/martin-bertele/ftcon24eu) into this one. We decided to work together to create only a single collection for all FlutterConEU'24 talks on Github.
 
-We decided to work together. If you want to include your slides, please submit a PR to this repo:
+### Contribution
+Please fill any content info exclusively to the .json files inside the [talks/ directory](https://github.com/bizz84/ftcon24eu_talks/tree/main/talks). All .md-files will be generated via script \`dart run .automation/generate_markdowns.dart\` triggered by Github Action. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/bizz84/ftcon24eu_talks/tree/main/.automation) as a starting point to add yours.
 
-- [https://github.com/martin-bertele/ftcon24eu](https://github.com/martin-bertele/ftcon24eu)
-
-Eventually, both repos will be synced together.
+We are happy to recieve your PRs :)
 
 ---
 

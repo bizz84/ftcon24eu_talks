@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Eduard Siewert",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Bluetooth LE-Audio Broadcast: How to build an Auracast assistant app with Flutter",
+    "description": "The Bluetooth technology is getting a major upgrade with the introduction of the LE-Audio specification, which enables many new interesting features and use cases. One of them being Auracast broadcast audio. Auracast allows you to share your audio with others or listen to broadcast streams nearby you. This could be a television in a gym, a gate announcement at the airport or a lecture in a university.\r\n\r\nIn this talk I will show you how to build an Auracast assistant application, which can be used to connect to any Auracast compatible headphone and select the desired broadcast stream. I will provide a brief overview over the functionality of Bluetooth Low Energy and the Auracast specification. And afterwards you will learn how this can be translated into a Flutter application and what the current limitations on Android and iOS are.",
+    "day": "Thursday",
+    "time": "1:25 PM",
+    "startsAt": "2024-07-04T11:25:00.000Z",
+    "endsAT": "2024-07-04T12:05:00.000Z",
+    "room": "Async Area",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

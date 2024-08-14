@@ -1,0 +1,46 @@
+{
+    "speakers": [
+      {
+        "name": "Kilian Schulte",
+        "bio": "Creator of Jaspr",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "schultek",
+        "xUrlOrHandle": "schultek_dev",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Jaspr: Unleashing the Power of Dart for Modern Web Development",
+    "description": "A showcase and introduction to Jaspr, the web framework that lets you build modern and dynamic websites using pure Dart.\r\n\r\nLearn how you can build your next blog, landing page, portfolio site or any other website you can imagine and leverage your existing skills in Dart and Flutter. Whether you are a seasoned developer or newcomer to Dart, this session lets you peek into the next area of Dart development – the web.",
+    "day": "Friday",
+    "time": "1:25 PM",
+    "startsAt": "2024-07-05T11:25:00.000Z",
+    "endsAT": "2024-07-05T12:05:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://github.com/schultek/schultek/blob/main/references/resources/fluttercon_slides.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/schultek/jaspr/tree/main/apps/fluttercon"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview",
+    "topics": [
+      "Dart on the server",
+      "Package & Plugin Development",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

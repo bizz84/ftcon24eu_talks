@@ -1,0 +1,28 @@
+name: Generate README
+
+on:
+  push:
+    paths:
+      - 'talks/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Dart
+      uses: dart-lang/setup-dart@v1
+
+    - name: Generate README
+      run: dart .automation/generate_markdowns.dart
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add .
+        git commit -m 'Update files'
+        git push

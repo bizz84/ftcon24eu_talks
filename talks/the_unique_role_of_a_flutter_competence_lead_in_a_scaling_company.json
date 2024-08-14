@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Cagatay Ulusoy",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "ulusoyca",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "The Unique Role of a Flutter Competence Lead in a Scaling Company",
+    "description": "Unlike traditional team lead roles that focus on project management and team performance, the competence leads at Wolt are at the forefront of how engineers should be hired and how things should be built within their areas of technological ownership. Their chosen weapons are tech recruiting, active knowledge sharing, and codifying best practices. Using Wolt's journey as a case study, this talk offers insights into the critical role of a Flutter Competence Lead in a scaling tech company towards stable, efficient, and modern engineering with Flutter.\r\n\r\nIn this talk, the participants will gain a holistic understanding of the Flutter Competence Lead role at Wolt, focusing on three pivotal aspects: hiring, internal knowledge sharing, and external activities. Firstly, the talk will explore tech recruitment activities that include ensuring a robust interviewer pool and planning the tech interview around the take-home assignment. Secondly, effective methods for driving internal knowledge sharing and keeping up with the evolving best practices will be discussed. Lastly, the talk will highlight the impact of our efforts in promoting engineering excellence externally through blog posts, meetups, and open-source projects. The talk aims to equip participants with practical knowledge and insights that can be applied to enhance their Flutter teams' development and operational efficiency.",
+    "day": "Thursday",
+    "time": "12:05 PM",
+    "startsAt": "2024-07-04T10:05:00.000Z",
+    "endsAT": "2024-07-04T10:25:00.000Z",
+    "room": "Async Area",
+    "format": "Lightning talk",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://docs.google.com/presentation/d/1UXYbH7xqe-X1FgUREm5Uomaa4UpCyHz-A53I26FGV0Y/edit#slide=id.g2ca715091db_0_779"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

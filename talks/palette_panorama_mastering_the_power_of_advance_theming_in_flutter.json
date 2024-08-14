@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Shree Bhagwat",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Palette Panorama: Mastering the power of Advance theming in Flutter",
+    "description": "Welcome to \"Palette Panorama,\" where we embark on a captivating voyage through the dynamic world of Flutter theming. In this illuminating session, we'll delve into the transformative power of the Multi-Theme Builder, unlocking new horizons for crafting captivating user interfaces. From harmonizing hues to orchestrating visual symphonies, discover how to wield the palette with finesse and precision. Join us as we unravel the secrets to creating immersive app experiences that captivate and delight users on every screen.\r\n\r\nKey Points:\r\n\r\nUnveiling the Multi-Theme Builder: Explore the rich capabilities of Flutter's Multi-Theme Builder and how it amplifies your creative palette for UI design.\r\nDynamic Theming Demystified: Learn the art of dynamic theming and discover how to seamlessly adapt your app's visual identity to user preferences.\r\nCrafting Visual Narratives: Dive into the intricacies of color theory and typography, and master the art of storytelling through design.\r\nElevating User Experience: Elevate your app's user experience with accessible design principles and inclusive theming practices.\r\nOptimizing Performance and Flexibility: Uncover strategies for optimizing performance while maintaining the flexibility to evolve your app's design over time.",
+    "day": "Friday",
+    "time": "10:15 AM",
+    "startsAt": "2024-07-05T08:15:00.000Z",
+    "endsAT": "2024-07-05T08:55:00.000Z",
+    "room": "Async Area",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

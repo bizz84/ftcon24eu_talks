@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Marcin Wojnarowski",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Presentation events - a missing piece in BLoC",
+    "description": "The BLoC library/pattern is a very popular approach to state management in the Flutter ecosystem. While it is general enough to solve most business logic problems it fails to encode a specific type of state - presentation events!\r\n\r\nPresentation events are indications of side effects or one-off occurrences. It solves common use-cases such as showing a snackbar upon a successful form submit, or a navigator redirect after a failed server request.\r\n\r\nIn this talk, you will learn how to enhance your BLoCs with presentation events, how create them, and why they solve an inherent problem present in BLoCs.",
+    "day": "Thursday",
+    "time": "3:30 PM",
+    "startsAt": "2024-07-04T13:30:00.000Z",
+    "endsAT": "2024-07-04T13:50:00.000Z",
+    "room": "Widget Way",
+    "format": "Lightning talk",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

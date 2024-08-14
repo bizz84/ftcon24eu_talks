@@ -1,0 +1,61 @@
+How to fill this json:
+- Must-fill fields: "Required"
+- Any other fields: Leave-as-is if you do not fill
+- From String with / / options chose one existing
+- topics: keep only correct lines in list
+{
+    "speakers": [
+      {
+        "name": "Required",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Required",
+    "videoUrl": "",
+    "description": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "day": "Wednesday/Thursday/Friday",
+    "time": "hh:mm xM",
+    "startsAt": "",
+    "endsAT": "",
+    "room": "Widget Way/Async Area/Dart Den/Flutter Forest",
+    "format": "Session/Lightning talk/Workshop/Panel Discussion",
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ]
+  }

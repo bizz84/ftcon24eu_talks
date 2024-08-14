@@ -1,0 +1,57 @@
+{
+    "speakers": [
+      {
+        "name": "Matej Rešetár",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Navigation in Flutter - the not-so-obvious parts",
+    "description": "Navigation between screens is an inseparable part of Flutter app development. However, such a fundamental thing is not so simple once you move beyond the absolute basics. You have the imperative Navigator 1.0 and declarative Navigator 2.0. Many different packages provide their own implementation and flavor to the declarative navigator - which one to choose? How to deal with, for example, nested routes? In this talk, you’re going to learn best practices and tips on how to navigate the vast world of navigation in Flutter.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "12:10 PM",
+    "startsAt": "2024-07-03T10:10:00.000Z",
+    "endsAt": "2024-07-03T10:30:00.000Z",
+    "room": "Widget Way",
+    "format": "Lightning talk"
+  }
+  

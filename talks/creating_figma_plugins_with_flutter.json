@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Bogdan Hobeanu",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Creating Figma plugins with Flutter",
+    "description": "Have you ever wondered if it's possible to create a Figma plugin using Flutter?\r\n\r\nIf you are a Flutter developer and want to leverage your skills in new ways, then this session is for you.\r\n\r\nDuring this talk I'll cover:\r\n- Step-by-step guidance on setting up your development environment to integrate Flutter with Figma\r\n- How to adapt your Flutter code to run inside Figma\r\n- Running your first plugin and using Dart to manipulate Figma elements.\r\n\r\nBy the end of this session, you’ll be equipped to create your very own Figma plugins, opening up a new realm of possibilities in your development and design work. Join me to take your skills to the next level and start building unique tools that enhance how designers and developers collaborate.",
+    "day": "Friday",
+    "time": "2:20 PM",
+    "startsAt": "2024-07-05T12:20:00.000Z",
+    "endsAT": "2024-07-05T13:00:00.000Z",
+    "room": "Widget Way",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

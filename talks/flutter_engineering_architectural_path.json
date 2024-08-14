@@ -1,0 +1,57 @@
+{
+    "speakers": [
+      {
+        "name": "Majid Hajian",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Flutter Engineering - Architectural path",
+    "description": "This session will explore critical architectural decisions, the variables influencing these choices, and how to cultivate an architectural mindset. \r\n\r\nWe'll navigate various architectural styles, such as layered, event-driven, and microkernel architectures at the enterprise level. Additionally, you'll learn about prominent and custom UI architecture patterns for Flutter, including clean architecture and balancing trade-offs. \r\n\r\nThis session is perfect for developers looking to deepen their understanding and elevate their app architecture.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "10:20 AM",
+    "startsAt": "2024-07-03T08:20:00.000Z",
+    "endsAt": "2024-07-03T09:00:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Session"
+  }
+  

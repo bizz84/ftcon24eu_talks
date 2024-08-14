@@ -1,0 +1,46 @@
+{
+    "speakers": [
+      {
+        "name": "Sylvia Dieckmann",
+        "bio": "About",
+        "companyName": "Rozendal Labs",
+        "companyUrl": "",
+        "githubUrlOrHandle": "https://github.com/githubmonkey",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Bringing Google Maps to Flutter: The Power of Plugins",
+    "description": "Flutter allows developing high-quality apps for multiple platforms (Android, iOS, Web, and more) from a single code base. But some app functionality depends on platform-specific APIs, a requirement seemingly at odds with “one codebase for all platforms”. To bridge this gap, Flutter defines the concept of Plugins to access native APIs from cross-platform code.\r\nIn this talk I will build a simple Flutter app that displays a map, looks up an address (geo-coding), and plots a route (directions) with the help of two existing Flutter plugins. Both are cross-platform but under the hood make use of platform specific APIs, combining multiple platform specific solutions into a single developer friendly package.\r\nAfter showing how to use the Google Maps and geocoding packages in my app, I will dissect the basic structure of the two plugins and discuss how a developer might extend them, for example by adding support for a new platform.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://docs.google.com/presentation/d/17ClzHygtkb_-pT-_xpkSbHIojYd72HsIBlisc-_FINs/edit?usp=sharing"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Application Architecture - Navigation",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Package & Plugin Development",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "2:35 PM",
+    "startsAt": "2024-07-03T12:35:00.000Z",
+    "endsAt": "2024-07-03T13:15:00.000Z",
+    "room": "Widget Way",
+    "format": "Session"
+  }
+  

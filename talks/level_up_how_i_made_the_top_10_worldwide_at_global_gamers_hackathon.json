@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Ivanna Kaceviča",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "https://x.com/ivannahere",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Level Up: How I Made the Top 10 Worldwide at Global Gamers Hackathon",
+    "description": "This session aims to empower and motivate attendees to participate more actively in Flutter hackathons and contests, offering guidance on getting started and refining strategies for better results.\r\n\r\nJoin me as I share insights from my journey to becoming one of the top 10 finalists at the Global Gamers Hackathon using the Flutter Casual Games Toolkit across five different platforms. This talk will provide a behind-the-scenes look at how I developed my submission, detailing the challenges I faced and discussing my strategies for time management and prioritization.\r\n\r\nKey Takeaways:\r\n\r\n1. Understand how to effectively use tools like the Flutter Casual Games Toolkit to accelerate development and enhance creativity.\r\n2. Learn strategies for planning and executing your project in coding contests and hackathons.\r\n3. Discover my personal tips and tricks that will help you optimize your chances of success.\r\n\r\nThis talk is for you if you're new to hackathons, have previously participated without achieving the results you hoped for, or are interested in game development using Flutter.",
+    "day": "Thursday",
+    "time": "3:30 PM",
+    "startsAt": "2024-07-04T13:30:00.000Z",
+    "endsAT": "2024-07-04T13:50:00.000Z",
+    "room": "Dart Den",
+    "format": "Lightning talk",
+    "resources": [
+      {
+        "label": "Article",
+        "url": "https://medium.com/@evanca/level-up-how-i-made-the-top-10-worldwide-at-flutter-global-gamers-hackathon-671cf1938aac"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

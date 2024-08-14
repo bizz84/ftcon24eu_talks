@@ -1,0 +1,57 @@
+{
+    "speakers": [
+      {
+        "name": "Sasha Denisov",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Workshop: Flutter for Android TV and Apple TV",
+    "description": "Get ready to explore TV app development using Flutter. While Flutter officially supports various platforms, TV platforms like Android TV and Apple TV have been overlooked. But fear not! In this workshop, we'll show you how to bring your Flutter apps to the big screen.\r\n\r\nIn this workshop, we will go through all the steps of porting your mobile app to the big screen, discuss all the nuances of TV apps, such as controlling the app with a remote control, and finally launch the app on a TV platform, not only on Android TV, but also on Apple TV.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "11:15 AM",
+    "startsAt": "2024-07-03T09:15:00.000Z",
+    "endsAt": "2024-07-03T10:30:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Workshop"
+  }
+  

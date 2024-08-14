@@ -1,0 +1,57 @@
+{
+    "speakers": [
+      {
+        "name": "Alexander Troshkov",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Testing that your app is accessible to all",
+    "description": "Apps are great when they're accessible to all. But how can a developer make sure their app is accessible? Here come accessibility guidelines and accessibility tools. This talk is about using these guidelines in widget tests and using these tools to ensure your app works fine in various environments.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://github.com/aednlaxer/flutterconeurope2024"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "3:45 PM",
+    "startsAt": "2024-07-03T13:45:00.000Z",
+    "endsAt": "2024-07-03T14:05:00.000Z",
+    "room": "Async Area",
+    "format": "Lightning talk"
+  }
+  

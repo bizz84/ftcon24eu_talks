@@ -1,0 +1,51 @@
+{
+    "speakers": [
+      {
+        "name": "Daco Harkes",
+        "bio": "Software Engineer at Google - Seamless interop between #Dart and native code",
+        "companyName": "Google",
+        "companyUrl": "www.google.com",
+        "githubUrlOrHandle": "dcharkes",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      },
+      {
+        "name": "Hossein Yousefi",
+        "bio": "Software Engineer at Google - Make interop fluid between Dart and Java/Kotlin",
+        "companyName": "Google",
+        "companyUrl": "www.google.com",
+        "githubUrlOrHandle": "HosseinYousefi",
+        "xUrlOrHandle": "YousefiDash",
+        "linkedinUrlOrHandle": "hosseinyousefi",
+        "webUrl": ""
+      }
+    ],
+    "title": "The past, present, and future of native interop",
+    "description": "Join us as we share our vision for a more seamless and efficient way to bridge the gap between Flutter and native code, empowering developers to create high-performance, feature-rich apps. We'll demonstrate how JNIgen/FFIgen simplifies native interop, discuss its potential impact on plugin development, and outline our roadmap for the future. Whether you're an app developer or a plugin developer, this talk will provide valuable insights into the evolving landscape of Flutter native interop.",
+    "day": "Thursday",
+    "time": "4:10 PM",
+    "startsAt": "2024-07-04T14:10:00.000Z",
+    "endsAT": "2024-07-04T14:50:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjBpbudeH5IVLpkVxCXldbzMsRcFrAqQUyzO-Pf80T4DBZmrcAHt7QX4I_w2PUN7ZNPabV/pub?start=false&loop=false&delayms=3000"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Intermediate",
+    "topics": [
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Package & Plugin Development"
+    ],
+    "videoUrl": ""
+}

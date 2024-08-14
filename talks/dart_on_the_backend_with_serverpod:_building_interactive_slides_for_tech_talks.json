@@ -1,0 +1,56 @@
+{
+    "speakers": [
+        {
+            "name": "Viktor Lidholt",
+            "bio": "About",
+            "companyName": "",
+            "companyUrl": "",
+            "githubUrlOrHandle": "",
+            "xUrlOrHandle": "",
+            "linkedinUrlOrHandle": "",
+            "webUrl": ""
+        }
+    ],
+    "title": "Dart on the backend with Serverpod: Building interactive slides for tech talks",
+    "description": "Is this the most meta talk you have attended? A presentation about making presentations.\\r\\n\\r\\nServerpod is an open-source backend for Flutter written in Dart that is quickly gaining traction. We take a deep dive into a real-world app built with Flutter and Serverpod. You will not only learn how to handle real-time communication but also how to create stunning interactive presentations for your tech talks. Attending the talk will teach you how to use Dart on the backend effectively, all the way from starting a new project to deploying it to the cloud.",
+    "day": "Thursday",
+    "time": "9:20 AM",
+    "startsAt": "2024-07-04T07:20:00.000Z",
+    "endsAT": "2024-07-04T08:00:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Session",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ]
+}

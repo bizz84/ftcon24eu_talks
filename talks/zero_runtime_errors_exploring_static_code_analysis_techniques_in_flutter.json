@@ -1,0 +1,56 @@
+{
+    "speakers": [
+        {
+            "name": "Daria Orlova",
+            "bio": "About",
+            "companyName": "",
+            "companyUrl": "",
+            "githubUrlOrHandle": "",
+            "xUrlOrHandle": "",
+            "linkedinUrlOrHandle": "",
+            "webUrl": ""
+        }
+    ],
+    "title": "Zero runtime errors: Exploring Static Code Analysis techniques in Flutter",
+    "videoUrl": "",
+    "description": "If you ask a developer whether they would prefer to fix a bug or develop a new feature, there is no doubt they will select the latter.\n\nUnfortunately, bugs are part of the development cycle and are inevitable.\n\nFortunately, there are techniques to predict and prevent them, even without running the code: with the help of static code analysis.\n\nStatic code analysis is a powerful tool for finding and fixing potential errors even before compiling your code, making the cycle much faster and developers more productive. Moreover, the flexibility of this tool allows you to configure it in a way to not only control bugs but also code style and specific team practices.\n\nIn this talk, we will do a deep dive into the world of static code analysis, exploring strategies on how to set it up to work best in your project, possibilities beyond `flutter_lints`, such as other libraries and 3rd party services like Dart Code Metrics, as well as what it takes to create your own custom lints for your library or app with tools such as `custom_lint`. By the end of this talk, you will be fully equipped to set up a robust static analysis system in your project and make your projects more reliable, consistent, and performant.",
+    "resources": [
+        {
+            "label": "Slides/Blog/...",
+            "url": ""
+        }
+    ],
+    "recommendations": [
+        {
+            "tool": "",
+            "url": "",
+            "comment": ""
+        }
+    ],
+    "day": "Wednesday",
+    "time": "10:20 AM",
+    "startsAt": "2024-07-03T08:20:00.000Z",
+    "endsAt": "2024-07-03T09:00:00.000Z",
+    "room": "Async Area",
+    "format": "Session",
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+        "Accessibility",
+        "Animations",
+        "Application Architecture - Navigation",
+        "Custom Painting - Render Objects - Rendering",
+        "Dart 3 Language Features",
+        "Dart on the server",
+        "Enterprise - Tech Leadership",
+        "Firebase & Flutter",
+        "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+        "Flutter Widgets & Layouts",
+        "Game Development",
+        "Networking (GraphQl, APIs, etc.)",
+        "Package & Plugin Development",
+        "Security",
+        "State Management",
+        "Testing",
+        "Third Party Libraries"
+    ]
+}

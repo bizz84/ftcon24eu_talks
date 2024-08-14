@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Mateusz Rus",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Fight, Flight, or Fix? Winning the Legacy Flutter Challenge",
+    "description": "Legacy code can be a major challenge for teams inheriting outdated Flutter projects. In this session, we'll dive into effective strategies for managing and refactoring legacy Dart and Flutter codebases, with a focus on team leadership, business needs, and evolving project requirements. Drawing from real-world experiences, I'll share key insights on identifying critical areas, engaging with clients, understanding business objectives, and integrating new functionalities into existing projects.\r\n\r\nKey Takeaways:\r\n\r\n- Prioritize Critical Areas: Identify the most pressing issues in your legacy codebase for maximum impact.\r\n- Communicate with Clients: Foster open communication to ensure alignment with business needs.\r\n- Balance Maintenance & Development: Strike a sustainable approach to legacy code revitalization.\r\n- Practical Tools and Techniques: Gain insights into useful tools and best practices to streamline your journey with legacy code in Flutter.\r\n- Strategies for Refactoring: Learn proven methods to refactor legacy Dart code while minimizing risk and maintaining functionality.\r\n- Write Maintainable Code: Adopt best practices to prevent future legacy issues.\r\n\r\nJoin this session and learn from a team leader's firsthand experience, empowering you to transform your legacy Flutter project from a battleground into a success story.",
+    "day": "Thursday",
+    "time": "12:05 PM",
+    "startsAt": "2024-07-04T10:05:00.000Z",
+    "endsAT": "2024-07-04T10:25:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Lightning talk",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

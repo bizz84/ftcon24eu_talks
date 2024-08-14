@@ -1,0 +1,60 @@
+{
+    "speakers": [
+      {
+        "name": "Oleksandr Tilnyi",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "alex_tilnyi",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Boosting Map Performance with Mapbox and Flutter",
+    "description": "During my work on Camino Love, an application for pilgrims, I was required to scale 20x the amount of data presented on the map, saving the same good user experience and map performance. I faced a challenge of prolonged data fetching and drastically decreased map rendering performance. This is crucial in the app, where map is a source of truth and discovery for users.\r\n\r\nIn this presentation, we will delve into different methods of styling, interacting with, and displaying data on maps. The talk will highlight the integration of cartography data to the map and map fluent utilization, which significantly improved overall performance. The application of these solutions reduced the map's loading time from 30 seconds to a mere 2 seconds, demonstrating a remarkable speed improvement in the production app.\r\n\r\nIn this talk, you will discover:\r\n  1. Different approaches for styling, interacting with, and displaying data on maps\r\n  2. How to deploy a huge set of more than 240 pilgrimage detailed routes on the map\r\n  3. How to increase map performance using style layers and data-driven styling in your Flutter application",
+    "day": "Thursday",
+    "time": "2:20 PM",
+    "startsAt": "2024-07-04T12:20:00.000Z",
+    "endsAT": "2024-07-04T13:00:00.000Z",
+    "room": "Async Area",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://docs.google.com/presentation/d/1VEjz2vmOiFA2pWc8PbdeZoNnu4NaPYgORH2np-oDGGk/edit?usp=sharing"
+      },
+      {
+        "label": "Article",
+        "url": "https://medium.com/@oleksandr-tilnyi/flutter-and-mapbox-deploy-and-display-vector-data-via-mapbox-tilesets-a-11231f19e31a"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

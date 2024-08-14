@@ -1,0 +1,56 @@
+{
+    "speakers": [
+        {
+            "name": "Salih Guler",
+            "bio": "Salih is a Berlin based Senior Developer Advocate at AWS who is also a Google Developer Expert for Flutter and Dart. He likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences.",
+            "companyName": "Amazon Web Services (AWS Amplify)",
+            "companyUrl": "https://docs.amplify.aws/flutter",
+            "githubUrlOrHandle": "https://github.com/salihgueler",
+            "xUrlOrHandle": "https://twitter.com/salihgueler",
+            "linkedinUrlOrHandle": "https://linkedin.com/in/salihgueler",
+            "webUrl": ""
+        }
+    ],
+    "title": "Modular Flutter App Architecture: Answering the What, When and How",
+    "videoUrl": "",
+    "description": "As Flutter apps grow in complexity, adopting a modular architecture becomes a critical practice to manage codebases and enable efficient feature development. It brings better code organization, team independence for feature development and testing, and separation of concerns.\n\nFor Flutter applications, there are times to follow modular application architecture and times to avoid it. In this talk, we will explore what modular architecture means for Flutter, when to implement it in your apps and when not to, and how to structure your code into logical modules with concrete strategies and examples by dividing code into feature, layer, and core modules. Last but not least, you will learn best practices for module communication, state management across modules, and module-specific testing.",
+    "resources": [
+        {
+            "label": "Slides",
+            "url": "https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nOocg/edit?utm_content=DAGJz47iMDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        }
+    ],
+    "recommendations": [
+        {
+            "tool": "",
+            "url": "",
+            "comment": ""
+        }
+    ],
+    "day": "Wednesday",
+    "time": "10:20 AM",
+    "startsAt": "2024-07-03T08:20:00.000Z",
+    "endsAt": "2024-07-03T09:00:00.000Z",
+    "room": "Widget Way",
+    "format": "Session",
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+        "Accessibility",
+        "Animations",
+        "Application Architecture - Navigation",
+        "Custom Painting - Render Objects - Rendering",
+        "Dart 3 Language Features",
+        "Dart on the server",
+        "Enterprise - Tech Leadership",
+        "Firebase & Flutter",
+        "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+        "Flutter Widgets & Layouts",
+        "Game Development",
+        "Networking (GraphQl, APIs, etc.)",
+        "Package & Plugin Development",
+        "Security",
+        "State Management",
+        "Testing",
+        "Third Party Libraries"
+    ]
+}

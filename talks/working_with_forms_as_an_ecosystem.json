@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Vasyl Dytsiak",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Working with forms as an ecosystem",
+    "description": "Form handling is a basic thing for any application. Many of them have a login one. The flutter spreads around wide variety platforms so there are definitely a form heavy apps. For example I'm currently developing one.\r\n\r\nLogin like forms could be easily handled by built in flutter form engine. On the other side the complex forms require a bit different approach. Specialized form engines support a vide variety of use cases like complex validations, async validations, managing an array of entities, listening for control states and so on.\r\n\r\nI tested a lot of other packages for forms starting from native flutter forms through form_bloc and so on. My final candidate was reacitve_forms and I'm developing supportive packages to form the pleasant ecosystem around.\r\nThose packages are reacitve_forms_widgets(a 30+ ready to use widgets bindings) and reactive_forms_generator(codegen package which helps a lot with spawning the code)\r\n\r\nIn my talk I would like to tell people how I'm helping to create an ecosystem for the forms, explain how anyone could use the ecosystem for complex form and how it could save the time + make the code consistent, encourage people to do the opensource.",
+    "day": "Friday",
+    "time": "2:20 PM",
+    "startsAt": "2024-07-05T12:20:00.000Z",
+    "endsAT": "2024-07-05T13:00:00.000Z",
+    "room": "Async Area",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

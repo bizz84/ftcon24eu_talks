@@ -1,0 +1,46 @@
+{
+    "speakers": [
+      {
+        "name": "Nino Handler",
+        "bio": "CTO & Founder uRyde | Founder & Organizer GDG Nuremberg | Founder & Organizer CTO Lunch Nuremberg",
+        "companyName": "CONNECT Mobility GmbH",
+        "companyUrl": "https://www.uryde.de/en",
+        "githubUrlOrHandle": "https://github.com/luckyhandler",
+        "xUrlOrHandle": "https://x.com/luckyhandler",
+        "linkedinUrlOrHandle": "https://www.linkedin.com/in/ninohandler/",
+        "webUrl": ""
+      }
+    ],
+    "title": "Developer Diary: Journey of a payment integration",
+    "description": "This talk is meant as a fun but insightful retrospective on how we implemented (finally successful) our \"unknown\" payment provider into our app.\r\n\r\nI. It starts with the first approach which was writing a package for Android and iOS and calling the native libraries from Flutter.\r\n\r\nWhen we discovered that this caused too high maintenance costs we decided to switch to a browser-based implementation of the payment flow. Little did we know, how many quests we had to solve after this decision.\r\n\r\nII. Therefore, the second part of the talk superficially covers the topics WebViews, In-App browsers, Different In-App browser packages, Firebase Hosting, Firebase Functions, App Links / Universal Links vs. Deep links / Custom URL Schemes and peculiarities of our payment solution.",
+    "day": "Friday",
+    "time": "10:15 AM",
+    "startsAt": "2024-07-05T08:15:00.000Z",
+    "endsAT": "2024-07-05T08:55:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://github.com/luckyhandler/developer_diaries/blob/main/slides/developer_diary-journey_of_a_payment_integration.pdf"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Firebase & Flutter",
+      "Third Party Libraries",
+      "WebView",
+      "In-App Browsers",
+      "Deep Linking",
+      "Firebase Cloud Functions",
+      "Firebase Hosting"
+    ],
+    "videoUrl": ""
+}

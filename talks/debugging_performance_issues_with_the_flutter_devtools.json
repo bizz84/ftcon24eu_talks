@@ -1,0 +1,44 @@
+{
+    "speakers": [
+      {
+        "name": "Alexandre Moureaux",
+        "bio": "About",
+        "companyName": "Theodo Apps",
+        "companyUrl": "https://apps.theodo.com/",
+        "githubUrlOrHandle": "almouro",
+        "xUrlOrHandle": "almouro",
+        "linkedinUrlOrHandle": "alexandremoureaux",
+        "webUrl": "https://alex.moureaux.me/"
+      }
+    ],
+    "title": "Debugging performance issues with the Flutter DevTools",
+    "videoUrl": "",
+    "description": "I've built a dummy app with several performance issues from real life examples. Through live-coding, let’s fix those issues together, leveraging the power of the performance view in the DevTools. \\r\\nAs an added bonus, I will present a neat way to establish a performance indicator, to easily evaluate the impact of our changes.",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://docs.google.com/presentation/d/e/2PACX-1vTcUdCsRqDo0YJhCWLI4406Cw7lBruf0RvHQzdYxSh2_Xij1gjJ239aLegxvPDvmS-FAt2dAcl6binU/pub?start=false&loop=false&delayms=60000"
+      },
+      {
+        "label": "Example repository",
+        "url": "https://github.com/Almouro/flutter-performance-debugging-example"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "Flashlight",
+        "comment": "App performance score",
+        "url": "https://github.com/bamlab/flashlight"
+      }
+    ],
+    "day": "Wednesday",
+    "time": "05:20 PM",
+    "startsAt": "2024-07-03T15:20:00.000Z",
+    "endsAt": "2024-07-03T16:00:00.000Z",
+    "room": "Widget Way",
+    "format": "Session",
+    "level": "Intermediate",
+    "topics": [
+      "Flutter Widgets & Layouts"
+    ]
+  }

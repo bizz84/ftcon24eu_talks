@@ -1,0 +1,57 @@
+{
+    "speakers": [
+      {
+        "name": "Lukas Klingsbo",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Ubuntu: An OS experience built on Flutter",
+    "description": "Did you know that more and more of the user experience in Ubuntu is built on Flutter? All new front-end applications developed for Ubuntu are using Flutter and currently the OS installer, app center, firmware updater, music player and more are already developed in Flutter.\r\n\r\nIn this talk you'll learn about:\r\n* Why Canonical and Ubuntu chose Flutter as their go to framework for applications\r\n* What the differences are when developing only for Linux\r\n* What challenges we have had and how we overcome them while developing these applications\r\n* How you can be part of developing Flutter apps in the open source world that millions of people will use",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://docs.google.com/presentation/d/14eGAql_pLZehIfSUlEwB4umUoxtlxnlN826yFaLw9xA/edit?usp=sharing"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "4:20 PM",
+    "startsAt": "2024-07-03T14:20:00.000Z",
+    "endsAt": "2024-07-03T15:00:00.000Z",
+    "room": "Widget Way",
+    "format": "Session"
+  }
+  

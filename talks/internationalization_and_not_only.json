@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Albert Wolszon",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Internationalization (and not only)",
+    "description": "How should you prepare your Flutter app for introducing it on a global market? Is there something other than the content language and date format? Let's find out what to expect with internationalizing apps and how to do that in Flutter, along with some statistics and fun facts.",
+    "day": "Friday",
+    "time": "12:05 PM",
+    "startsAt": "2024-07-05T10:05:00.000Z",
+    "endsAT": "2024-07-05T10:25:00.000Z",
+    "room": "Async Area",
+    "format": "Lightning talk",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

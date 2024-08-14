@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Akanksha Singh",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Automating Accessibility Adoption in Flutter with Gemini AI",
+    "description": "For years, accessibility features and experiences were seen as nice to have when it came to app development. Shockingly, many developers overlook this vital aspect, inadvertently excluding a significant user base. The World Health Organization reveals that about 15% of the global population, over a billion people, live with disabilities. In a digital age, it's unjust to marginalize this substantial demographic based on abilities.\r\n\r\nThis talk emphasizes the critical role of accessibility in mobile apps. By introducing the innovative use of Gemini AI as an AI-powered code assistance tool in IDEs, we can address these issues head-on, ensuring that apps are accessible from the outset. Gemini AI serves as a game-changer, automating the detection and correction of accessibility issues in Flutter apps. This talk will empower developers to build apps that are inclusive and universally accessible, transforming the way we approach app design and development.",
+    "day": "Friday",
+    "time": "12:05 PM",
+    "startsAt": "2024-07-05T10:05:00.000Z",
+    "endsAT": "2024-07-05T10:25:00.000Z",
+    "room": "Dart Den",
+    "format": "Lightning talk",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

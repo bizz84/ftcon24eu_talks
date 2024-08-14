@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Elvira Leveque",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Get the most out of Flutter theming with theme extensions",
+    "description": "Flutter's Theming is pretty cool. It allows to abstract styling rules from your widgets in order to keep the implementation cleaner and to prevent code repetition, other than to make life easier when the design team decided to shake things up.\r\nBut here's the thing – when you dive into real-life projects, it can get a bit troublesome. Sometimes your project's design system is too complex to fit into the default Flutter theme object. Or maybe you design system and the Flutter theme object don’t semantically match up, making the design-to-code journey a bit of a head-scratcher.\r\n\r\nIn this session, we're going to take a deep dive into the world of Flutter theming. I will walk you through the behind the scenes, present different approaches and uncover the potential of theme extension to finally tailor your theme object to your unique design system, so that it won't need to fit into a cookie-cutter object.\r\nPlus, I'll sprinkle in some handy tips and tricks to make your styling workflow smoother than ever.",
+    "day": "Thursday",
+    "time": "3:30 PM",
+    "startsAt": "2024-07-04T13:30:00.000Z",
+    "endsAT": "2024-07-04T13:50:00.000Z",
+    "room": "Async Area",
+    "format": "Lightning talk",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

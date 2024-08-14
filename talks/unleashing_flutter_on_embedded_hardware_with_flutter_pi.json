@@ -1,0 +1,76 @@
+{
+    "speakers": [
+      {
+        "name": "Pieter Scholtz",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      },
+      {
+        "name": "Hannes Winkler",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      },
+      {
+        "name": "Werner Scholtz",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Unleashing Flutter on embedded hardware with flutter-pi",
+    "description": "Unleash the power of Flutter for embedded devices! Join us while we explore the current state of\r\nFlutter on embedded devices, and buckle up for a crash course that starts off with the basics and\r\nramps up to native OpenGL integration with platform channels.\r\n\r\nWhat you will take away:\r\n- Get a grounding in flutter-pi.\r\n- Learn about the basics of Flutter on embedded devices.\r\n- Be equipped with the basic knowledge needed to go and experiment with flutter on embedded\r\ndevices yourself.\r\n- How to communicate with external peripherals ( Using protocols such as I2C, GPIO, PWM and\r\nCANbus )\r\n- Be inspired to create bespoke user interfaces for embedded devices using Flutter.\r\n- Explore some more advanced techniques used in our star navigator demo.",
+    "day": "Thursday",
+    "time": "2:20 PM",
+    "startsAt": "2024-07-04T12:20:00.000Z",
+    "endsAT": "2024-07-04T13:50:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Workshop",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

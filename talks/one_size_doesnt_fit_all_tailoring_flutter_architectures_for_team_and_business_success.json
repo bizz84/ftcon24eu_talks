@@ -1,0 +1,42 @@
+{
+  "speakers": [
+    {
+      "name": "Jan Stępień",
+      "bio": "About",
+      "companyName": "OneRoof",
+      "companyUrl": "https://www.oneroofapp.com/",
+      "githubUrlOrHandle": "https://github.com/Jan-Stepien",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "https://www.linkedin.com/in/jan-stepien-developer/",
+      "webUrl": ""
+    }
+  ],
+  "title": "One Size Doesn't Fit All: Tailoring Flutter Architectures for Team and Business Success",
+  "description": "In the fast-paced world of startups, idealism often needs to adapt.\r\nJoining a small team, I faced the challenge of balancing long-term architecture with immediate business needs.\r\nWe embraced a pragmatic approach, prioritizing features while gradually refactoring when possible.\r\nThis meant shared responsibility for testing and maintaining code. While not ideal, it fostered flexibility and helped us create a \"good enough\" workflow for our unique environment.\r\nThis experience taught me the importance of tailoring development strategies to team strengths and project realities.\r\n\r\nI would like to share with you the takeaways for the project and key concepts that you should be aware of when scheduling long term, large scale refactor of the app.",
+  "videoUrl": "",
+  "resources": [
+    {
+      "label": "Slides",
+      "url": "https://github.com/Jan-Stepien/fluttercon-architecture-presentation/tree/main"
+    }
+  ],
+  "recommendations": [
+    {
+      "tool": "",
+      "url": "",
+      "comment": ""
+    }
+  ],
+  "level": "Introductory and overview/Intermediate/Advanced/Expert",
+  "topics": [
+    "Application Architecture - Navigation",
+    "Enterprise - Tech Leadership",
+    "State Management"
+  ],
+  "day": "Wednesday",
+  "time": "2:35 PM",
+  "startsAt": "2024-07-03T12:35:00.000Z",
+  "endsAt": "2024-07-03T13:15:00.000Z",
+  "room": "Flutter Forest",
+  "format": "Session"
+}

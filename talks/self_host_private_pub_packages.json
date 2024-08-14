@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Pascal Welsch",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "passsy",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Self-host private pub packages",
+    "description": "Self-hosting Dart and Flutter packages isn't easy but required when sharing packages in an enterprise environment. Today, getting your own pub server running is either pricey or maintenance-intensive. Without being cautious, your solution might miss critical access policies.\r\n\r\nAs a Flutter agency, we encountered significant difficulties sharing our design system across multiple projects and clients. We needed a robust solution that could meet our needs, yet be affordable.\r\n\r\nThis talk compares existing solutions as well as our journey of hosting our own pub repository in an agency setup, even allowing us to use our own domain at almost zero cost.\r\n\r\nThis talk is not sponsored by any provider, neither promotes our own solution unless it is completely open source as part of the FlutterCommunity.",
+    "day": "Thursday",
+    "time": "2:20 PM",
+    "startsAt": "2024-07-04T12:20:00.000Z",
+    "endsAT": "2024-07-04T13:00:00.000Z",
+    "room": "Widget Way",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSsMm1FLGlsga1ggXk4SGp7WAY/edit?usp=sharing"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

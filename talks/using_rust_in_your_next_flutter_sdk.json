@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Cameron Mcloughlin",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Using Rust in your next Flutter SDK",
+    "description": "When building a Flutter SDK, Dart provides powerful features and tooling to enhance the developer experience. But sometimes it is necessary to go beyond what Dart offers.\r\n\r\nIn this talk, we will cover the process of using the Rust programming language as the core of a Flutter SDK, as well as the reasons why you might want to do this. We will also go over some of the speedbumps we encountered along the way while building the Ditto Flutter SDK.\r\n\r\nNo prior experience with Rust is necessary.",
+    "day": "Thursday",
+    "time": "2:20 PM",
+    "startsAt": "2024-07-04T12:20:00.000Z",
+    "endsAT": "2024-07-04T13:00:00.000Z",
+    "room": "Dart Den",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

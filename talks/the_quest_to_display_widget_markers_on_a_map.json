@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Matthieu Pernelle",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "The quest to display widget markers on a map",
+    "description": "The tenth most upvoted issue in the Flutter repository is \\\"[google_maps_flutter] Support Widgets as markers\\\", which has been open since 2018.\r\n\r\nThis issue is not exclusive to Google Maps, but also affects Mapbox and MapLibre.\r\n\r\nWhy is displaying a widget on a map so challenging? What factors make it nearly impossible?\r\n\r\nLet's find out together.\r\n\r\nThis presentation will offer a concise overview of a map rendering engine's operation and limitations. Through live demos and practical examples, this talk aims to equip developers with the knowledge and tools needed to display almost any Flutter widget on a map.",
+    "day": "Thursday",
+    "time": "12:05 PM",
+    "startsAt": "2024-07-04T10:05:00.000Z",
+    "endsAT": "2024-07-04T10:25:00.000Z",
+    "room": "Dart Den",
+    "format": "Lightning talk",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

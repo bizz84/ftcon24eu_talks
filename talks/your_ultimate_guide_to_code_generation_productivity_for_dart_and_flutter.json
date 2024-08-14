@@ -1,0 +1,56 @@
+{
+    "speakers": [
+        {
+            "name": "Anna Leushchenko",
+            "bio": "About",
+            "companyName": "",
+            "companyUrl": "",
+            "githubUrlOrHandle": "",
+            "xUrlOrHandle": "AnnaLeushchenko",
+            "linkedinUrlOrHandle": "",
+            "webUrl": ""
+        }
+    ],
+    "title": "Your ultimate guide to code generation productivity for Dart and Flutter",
+    "description": "Creating Dart and Flutter applications often includes typical tasks, such as implementing JSON deserialization, consuming backend APIs, creating a dependency inversion mechanism, implementing navigation and localization, managing assets, writing tests, and more. These tasks require writing repetitive code, which is time-consuming, error-prone, and tedious. Fortunately, we can get a significant development productivity boost by letting build_runner generate all the boilerplate. But once the project grows, extensive usage of code generation brings additional challenges, such as slower generation execution, frequent merge conflicts, analyzer performance downgrade, and others.\\r\\n\\r\\nIn this session, we will discuss how build_runner and different code-generating packages can facilitate many typical application development tasks, and also talk through a dozen practical tips for efficiently maintaining Dart and Flutter projects that extensively use code generation. I will not only show how to speed up the generation process, but also how to minimize chances for merge conflicts and improve overall developers’ experience.\\r\\n\\r\\nEven if you are familiar with code generation topic, you will certainly get valuable takeaways from this session!\\r\\n\\r\\nYou will walk away with:\\r\\n- An understanding of how the code generation mechanism works\\r\\n- A list of useful code-generating packages worth checking out\\r\\n- Practical advice on how to efficiently maintain projects that extensively use code generation",
+    "day": "Thursday",
+    "time": "10:15 AM",
+    "startsAt": "2024-07-04T08:15:00.000Z",
+    "endsAT": "2024-07-04T08:55:00.000Z",
+    "room": "Widget Way",
+    "format": "Session",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://bit.ly/45T84JB"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Ander Dobo",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Unconference discussion 1 - Past, Present and Future of Native Interop",
+    "description": "Unconference style discussion of the  Flutter and Dart Package Ecosystem Summit. The discussion topic is the Past, Present and Future of Native Interop (JNIGen and FFIGen), following on from the talk that will be given at Fluttercon Europe on the topic on 4th July 2024. The discussion will be facilitated by 2 moderators.",
+    "day": "Friday",
+    "time": "9:20 AM",
+    "startsAt": "2024-07-05T07:20:00.000Z",
+    "endsAT": "2024-07-05T08:00:00.000Z",
+    "room": "Dart Den",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

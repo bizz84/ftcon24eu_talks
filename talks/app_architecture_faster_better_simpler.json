@@ -1,0 +1,50 @@
+{
+    "speakers": [
+      {
+        "name": "Kirill Bubochkin",
+        "bio": "Staff Mobile Engineer at Mews. Former Android dev, former front-end dev, former full-stack dev, former webmaster.",
+        "companyName": "Mews",
+        "companyUrl": "https://www.mews.com/",
+        "githubUrlOrHandle": "https://github.com/ookami-kb/",
+        "xUrlOrHandle": "https://x.com/ookami_kb",
+        "linkedinUrlOrHandle": "https://www.linkedin.com/in/ookamikb/",
+        "webUrl": "https://ookamikb.dev/"
+      }
+    ],
+    "title": "App Architecture: Faster, Better... Simpler",
+    "description": "App architecture is intended to simplify our lives, not complicate them. Unfortunately, I've noticed that many developers, particularly newcomers, tend to overcomplicate their architectures without strong justification—simply because they've read about it in various blogs and tutorials. In this talk, I'd like to delve into why certain principles and best practices, such as SOLID, DRY, and Clean Architecture, may not always be as beneficial as they seem (especially when misunderstood), and suggest a simpler approach to mobile app architecture.\r\n\r\nAs a bonus, I'll share my experience with using the new DCM feature for analyzing code structure, which aids in implementing the aforementioned architectural approach.",
+    "day": "Friday",
+    "time": "1:25 PM",
+    "startsAt": "2024-07-05T11:25:00.000Z",
+    "endsAT": "2024-07-05T12:05:00.000Z",
+    "room": "Async Area",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://github.com/ookami-kb/ookami-kb/blob/master/slides/app-architecture-fluttercon.pdf"
+      },
+      {
+        "label": "Example repository",
+        "url": "https://github.com/ookami-kb/my_tmdb"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "DCM",
+        "url": "https://dcm.dev/",
+        "comment": ""
+      },
+      {
+        "tool": "lakos",
+        "url": "https://pub.dev/packages/lakos",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Application Architecture - Navigation",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

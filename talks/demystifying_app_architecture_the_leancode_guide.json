@@ -1,0 +1,66 @@
+{
+    "speakers": [
+      {
+        "name": "Mateusz Wojtczak",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      },
+      {
+        "name": "Marcin Chudy",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Demystifying App Architecture: The LeanCode Guide",
+    "description": "At LeanCode we developed over 40 Flutter apps, spanning from huge enterprise apps to nimble startup ventures. Some were developed by a single Flutter dev, some came into light through collaborative efforts across multiple teams. Each of them was different. Each of them presented unique challenges and taught us invaluable lessons.\r\n\r\nIn this talk, we invite you to explore different approaches to architecting Flutter apps. Central to our narrative will be the concept of architectural drivers - key factors or priorities that steer our decisions about how the app is structured and designed. We'll show how we leverage our experience when approaching new projects. Drawing from our successes and failures, we'll present our current Flutter stack which enables us to craft robust, scalable, and maintainable applications. While there is no silver bullet for Flutter architecture, we can still have some sensible defaults.\r\n\r\nWhy do we use BLoC for state management? Why not Riverpod? Why do we love hooks? What do we do to avoid re-implementing the same things over and over again? Come to our talk to find out.",
+    "day": "Thursday",
+    "time": "1:25 PM",
+    "startsAt": "2024-07-04T11:25:00.000Z",
+    "endsAT": "2024-07-04T12:05:00.000Z",
+    "room": "Dart Den",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

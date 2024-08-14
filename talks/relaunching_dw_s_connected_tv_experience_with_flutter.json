@@ -1,0 +1,66 @@
+{
+    "speakers": [
+      {
+        "name": "Olav Schettler",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      },
+      {
+        "name": "Daniel Vechtel",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Relaunching DW's Connected TV Experience with Flutter",
+    "description": "DW is Germany's International Broadcaster.\r\n\r\nSince 2016 DW has had apps on major TV platforms like Samsung Tizen, LG webOS, Google TV / Android TV / Amazon Fire TV, Apple tvOS, and Roku TV. These apps were written in a diverse set of technologies, including Javascript, Java, Objective C, and Brightscript. We offer a range of on-demand programming for a worldwide audience that includes news, documentaries, cultural insights, and discussions on global issues in 30 languages. In addition, there are live channels in English, Spanish and Arabic.\r\n\r\nIn 2023, we set off to refresh our apps technically and tailor it to the needs of our audience. An important aspect was to reduce the number of code bases. We evaluated several technologies and settled on Flutter. In 2024, we have started to roll out our new app.\r\n\r\nIn this session, we take the audience on a journey into this exciting project.\r\n\r\nWe will explain how we decided on Flutter, considering platform support, our own experience building native TV apps, three spike implementations, the external support we could get, plus the potential of Flutter as a key ingredient of our future app development.\r\n\r\nStarting from a UX concept for a first product increment, we developed the technical architecture, following a Clean Architecture approach. We will give an overview of our codebase, including GraphQL interface, unit, golden, and integration tests.\r\n\r\nWe will also share our experience with the platforms where we already launched, including support for Spacial Navigation with TV remotes, and required performance optimizations.\r\n\r\nFinally, we will outline our plans, including integration into vendor content catalogues, a crucial building block for presence on modern TV platforms.\r\n\r\nKey takeaways:\r\n\r\n- How to decide on Flutter for an enterprise project for Connected TV\r\n- How to lay out your app architecture, following Clean Architecture\r\n- How to implement UX patterns for Connected TV like Spacial Navigation in Flutter\r\n- What pitfalls to expect when developing for TV",
+    "day": "Friday",
+    "time": "2:20 PM",
+    "startsAt": "2024-07-05T12:20:00.000Z",
+    "endsAT": "2024-07-05T13:00:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

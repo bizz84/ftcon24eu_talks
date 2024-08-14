@@ -1,0 +1,57 @@
+{
+    "speakers": [
+      {
+        "name": "Vadym Pinchuk",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Experimenting with Modifier: embracing Compose-inspired UI in Flutter",
+    "description": "Discover how Flutter developers can apply the Modifier concept, inspired by Jetpack Compose, to change approach to UI composition. Explore the simplification of traditional widget-based layouts to a Modifier based composable approach using custom widgets.\r\n\r\n- Introduction to Modifier: overview of the Modifier concept as popularised by Jetpack Compose. Adapting Compose-inspired techniques for Flutter UI development.\r\n- Advantages of Modifier-Based UI: discuss the benefits of using a Modifier system for building UIs. Comparison with traditional approaches in Flutter.\r\n- Understanding Dart Modifier: defining custom Modifier object in Flutter world. Exploring the role of Modifier in enhancing UI flexibility and readability.\r\n- Replacing traditional Widgets with Modifier: demonstrating how Modifier can replace Padding, Container, and other common widgets. Building layouts using Modifier chains for concise and efficient code.\r\n\r\nKey Takeaways:\r\nAttendees will gain actionable insights into adopting Modifier widget approach within Flutter, empowering them to build more maintainable, composable, and efficient UIs inspired by modern UI frameworks like Jetpack Compose.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "day": "Wednesday",
+    "time": "3:45 PM",
+    "startsAt": "2024-07-03T13:45:00.000Z",
+    "endsAt": "2024-07-03T14:05:00.000Z",
+    "room": "Dart Den",
+    "format": "Lightning talk"
+  }
+  

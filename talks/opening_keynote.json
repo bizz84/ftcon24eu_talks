@@ -1,0 +1,40 @@
+{
+    "speakers": [
+        {
+            "name": "Andrew Brogdon",
+            "bio": "About",
+            "companyName": "",
+            "companyUrl": "",
+            "githubUrlOrHandle": "",
+            "xUrlOrHandle": "",
+            "linkedinUrlOrHandle": "",
+            "webUrl": ""
+        }
+    ],
+    "title": "Opening keynote",
+    "videoUrl": "",
+    "description": "* Overview of the state of Flutter\n* How Generative AI will likely inform Flutter's future\n* How the Flutter community can be a part of that change.\n* Flutter's impact at large companies, and how we can create more opportunities for Flutter devs to have the careers they want.",
+    "resources": [
+        {
+            "label": "Slides/Blog/...",
+            "url": ""
+        }
+    ],
+    "recommendations": [
+        {
+            "tool": "",
+            "url": "",
+            "comment": ""
+        }
+    ],
+    "day": "Wednesday",
+    "time": "9:00 AM",
+    "startsAt": "2024-07-03T07:00:00.000Z",
+    "endsAt": "2024-07-03T08:00:00.000Z",
+    "room": "Widget Way",
+    "format": "Keynote",
+    "level": "Introductory and overview",
+    "topics": [
+        "Enterprise - Tech Leadership"
+    ]
+}

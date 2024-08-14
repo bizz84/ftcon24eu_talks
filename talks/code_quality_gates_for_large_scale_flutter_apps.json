@@ -1,0 +1,40 @@
+{
+    "speakers": [
+      {
+        "name": "Pavel Sulimau",
+        "bio": "About",
+        "companyName": "EPAM Systems",
+        "companyUrl": "https://www.epam.com",
+        "githubUrlOrHandle": "https://github.com/Pavel-Sulimau",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "https://www.linkedin.com/in/pavel-sulimau",
+        "webUrl": "https://pasul.dev"
+      }
+    ],
+    "title": "Code Quality Gates for Large-Scale Flutter Apps",
+    "description": "I'll share insights on guidelines and tools to maintain the quality of a Flutter app.\r\n\r\nThe talk will cover code quality aspects: \r\n- structural, like code reviews and various static code analysis techniques including architecture tests\r\n- functional, such as automated testing.\r\n\r\nCode quality is important for projects of any size, but it's crucial for large-scale ones where tens of Flutter developers may work for years.",
+    "videoUrl": "",
+    "resources": [
+      {
+        "label": "Blog",
+        "url": "https://pasul.medium.com"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Intermediate",
+    "topics": [
+      "Enterprise - Tech Leadership"
+    ],
+    "day": "Wednesday",
+    "time": "3:45 PM",
+    "startsAt": "2024-07-03T13:45:00.000Z",
+    "endsAt": "2024-07-03T14:05:00.000Z",
+    "room": "Flutter Forest",
+    "format": "Lightning talk"
+}

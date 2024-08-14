@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Max Weber",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Mastering real world use cases in Flutter with GoRouter and GoRouterBuilder",
+    "description": "In this talk, I will present how you can use GoRouter and GoRouterBuilder to efficiently and performantly solve complex use cases in Flutter.\r\n\r\nGoRouter:\r\nWe will talk about the recommended way of Routing in Flutter the GoRouter package. We will use it in combination of the GoRouterBuilder to showcase some solutions to real world problems. Such as having a BottomNavigationBar, navigating to different screens and deeplinking.\r\n\r\nWho is this talk for?\r\nFlutter Developers who search for a sophisticated solutions for their routing. Developers who struggle with the naming of the router and Flutter developers who want to build for the Web.\r\n\r\nIn this talk you will learn:\r\nHow to use GoRouter and GoRouterBuilder effectively  and how to make your app navigation more efficient. In the end you should be ready to tackle real world routing scenarios in Flutter with the GoRouter package.",
+    "day": "Thursday",
+    "time": "4:10 PM",
+    "startsAt": "2024-07-04T14:10:00.000Z",
+    "endsAT": "2024-07-04T14:50:00.000Z",
+    "room": "Dart Den",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

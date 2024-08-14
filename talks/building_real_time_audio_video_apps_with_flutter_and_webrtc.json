@@ -1,0 +1,56 @@
+{
+    "speakers": [
+      {
+        "name": "Masahiro Aoki",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "",
+        "linkedinUrlOrHandle": "",
+        "webUrl": ""
+      }
+    ],
+    "title": "Building Real-Time Audio/Video Apps with Flutter and WebRTC",
+    "description": "## Summary:\r\nThis workshop will guide participants through the process of developing real-time audio and video communication applications using Flutter and WebRTC. It covers from the basic to advanced concepts across various platforms including iOS, Android, Web, and desktop environments (Linux, Windows, macOS). Attendees will gain hands-on experience and a deep understanding of integrating real-time communication technologies seamlessly across platforms.\r\n\r\n## Session Details:\r\n### 1. **WebRTC Fundamentals and Cross-Platform Integration**:\r\n   - Detailed explanation of WebRTC components such as STUN/TURN servers, ICE, Signaling, and SDP.\r\n   - Discussion on how to implement these components within a Flutter environment across different platforms.\r\n   - Overview of different communication architectures: P2P, SFU, and MCU:\r\n     - **P2P (Peer-to-Peer)**: Direct communication between two clients, suitable for small, low-latency interactions.\r\n     - **SFU (Selective Forwarding Unit)**: Intermediate server that receives multiple media streams and decides which to send to each participant, optimizing bandwidth and scalability for larger groups.\r\n     - **MCU (Multipoint Control Unit)**: Server that mixes multiple media streams into a single stream before sending it to participants, used for large-scale broadcasts where all receive the same feed.\r\n\r\n### 2. **Platform-Specific Integration Techniques**:\r\n   - For iOS: Integrating CallKit and PushKit for enhanced communication experiences.\r\n   - For Android: Utilizing ConnectionService API and FCM to manage incoming communication effectively.\r\n   - For Web and Desktop: Addressing specific challenges and implementing notifications and background operations.\r\n\r\n### 3. **Practical Demonstration and Interactive Learning**:\r\n   - Step-by-step building of a WhatsApp clone using `cloud_firestore` for signaling and `flutter_webrtc` for media transport.\r\n   - Interactive quizzes to reinforce learning and validate understanding at each key stage of the application build.\r\n\r\n### 4. **Production Services and Pricing Models**:\r\n   - Comparison of major production-ready WebRTC services such as Agora, LiveKit, and Sora.\r\n   - Analysis of their features, benefits, and cost structures suitable from startups to enterprise-level implementations.\r\n\r\n### 5. **Implementing Comprehensive Testing Strategies**:\r\n   - Demonstrating how to set up unit, widget, and integration tests within a Flutter project.\r\n   - Exploring best practices for ensuring the quality and reliability of real-time communication apps.\r\n\r\n## Key Learning Outcomes:\r\n1. **Comprehensive understanding of WebRTC and its application in Flutter across different platforms**.\r\n2. **Skills to implement advanced audio and video calling features**.\r\n3. **Ability to select and manage cost-effective production services for scaling real-time communication applications**.\r\n4. **Enhanced problem-solving and application testing skills through interactive and practical learning approaches**.\r\n5. **Insight into securing communication applications and ensuring privacy compliance**.",
+    "day": "Thursday",
+    "time": "11:10 AM",
+    "startsAt": "2024-07-04T09:10:00.000Z",
+    "endsAT": "2024-07-04T09:50:00.000Z",
+    "room": "Async Area",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

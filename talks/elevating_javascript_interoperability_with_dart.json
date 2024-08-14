@@ -1,0 +1,56 @@
+{
+    "speakers": [
+        {
+            "name": "Jaime Blasco",
+            "bio": "About",
+            "companyName": "",
+            "companyUrl": "",
+            "githubUrlOrHandle": "",
+            "xUrlOrHandle": "",
+            "linkedinUrlOrHandle": "",
+            "webUrl": ""
+        }
+    ],
+    "title": "Elevating JavaScript interoperability with Dart",
+    "description": "Embark on a journey into Dart's cutting-edge JavaScript\\r\\ninteroperability!\\r\\nExplore the groundbreaking dart:js_interop library, unveiling a new typed API for seamless JavaScript interaction. Learn about extension types for representing JavaScript types in Dart. Dive deeper into the intriguing package:web and its connection to WebAssembly. Join us for an enlightening exploration!",
+    "day": "Thursday",
+    "time": "9:20 AM",
+    "startsAt": "2024-07-04T07:20:00.000Z",
+    "endsAT": "2024-07-04T08:00:00.000Z",
+    "room": "Async Area",
+    "format": "Session",
+    "resources": [
+      {
+        "label": "Slides/Blog/...",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "topics": [
+      "Accessibility",
+      "Animations",
+      "Application Architecture - Navigation",
+      "Custom Painting - Render Objects - Rendering",
+      "Dart 3 Language Features",
+      "Dart on the server",
+      "Enterprise - Tech Leadership",
+      "Firebase & Flutter",
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Flutter Widgets & Layouts",
+      "Game Development",
+      "Networking (GraphQl, APIs, etc.)",
+      "Package & Plugin Development",
+      "Security",
+      "State Management",
+      "Testing",
+      "Third Party Libraries"
+    ],
+    "videoUrl": ""
+}

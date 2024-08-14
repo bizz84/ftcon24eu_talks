@@ -1,0 +1,41 @@
+{
+    "speakers": [
+      {
+        "name": "Dominik Roszkowski",
+        "bio": "About",
+        "companyName": "",
+        "companyUrl": "",
+        "githubUrlOrHandle": "",
+        "xUrlOrHandle": "OrestesGaolin",
+        "linkedinUrlOrHandle": "",
+        "webUrl": "https://roszkowski.dev"
+      }
+    ],
+    "title": "Native Background Processing with Flutter",
+    "videoUrl": "",
+    "description": "Background processing tends to be one of the afterthoughts with Flutter apps, and I would love to change that. There are several ways to achieve it with Flutter or Dart, although some of them involve a bit of native platform understanding with a pinch of Kotlin or Swift. In this talk I’ll show you how to make it all work without losing your mind, even if you don't have any Android or iOS experience.\\r\\n\\r\\nThis talk covers both iOS and Android background processing, with and without utilizing existing Flutter plugins. We'll try to look into desktop background processing as well.",
+    "resources": [
+      {
+        "label": "Slides",
+        "url": "https://roszkowski.dev/background"
+      }
+    ],
+    "recommendations": [
+      {
+        "tool": "",
+        "url": "",
+        "comment": ""
+      }
+    ],
+    "day": "Wednesday",
+    "time": "11:15 AM",
+    "startsAt": "2024-07-03T09:15:00.000Z",
+    "endsAt": "2024-07-03T09:55:00.000Z",
+    "room": "Widget Way",
+    "format": "Session",
+    "level": "Intermediate",
+    "topics": [
+      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
+      "Package & Plugin Development"
+    ]
+  }

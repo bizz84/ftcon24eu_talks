@@ -268,7 +268,9 @@ By the end of this session, you’ll be equipped to create your very own Figma p
 
 ## Creating responsive UIs and other nuances of Flutter Web
 
-Speakers: [Kon Syrokostas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kon-syrokostas)
+Speakers: [kon syrokostas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kon-syrokostas)
+
+Resources: [Slides](https://www.canva.com/design/DAGI_mgOFpY/iBDXnRT795JP0Ypqq_WpHQ/edit?utm_content=DAGI_mgOFpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Flutter for Web is definitely less widespread than Flutter for mobile devices, but in my practice I have found it to be very powerful. Flutter Web has made reusing code between multiple platforms easier than ever and it enabled the use of a single frameworks across all the frontends of a project. This doesn't come without some nuances that developers should be aware of when building an app for the web.
 

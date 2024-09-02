@@ -347,13 +347,6 @@ Recommendations:
 - [lakos](https://pub.dev/packages/lakos) 
 
 
-## Kon Syrokostas
-
-
-
-**Creating responsive UIs and other nuances of Flutter Web**
-
-
 ## Leigha Reid
 
 
@@ -776,5 +769,14 @@ Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le
 
 
 **Unleashing Flutter on embedded hardware with flutter-pi**
+
+
+## kon syrokostas
+[LinkedIn](https://www.linkedin.com/in/https://linkedin.com/in/kon-syrokostas)
+
+
+**Creating responsive UIs and other nuances of Flutter Web**
+
+Resources: [Slides](https://www.canva.com/design/DAGI_mgOFpY/iBDXnRT795JP0Ypqq_WpHQ/edit?utm_content=DAGI_mgOFpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 

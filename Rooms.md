@@ -26,7 +26,7 @@
 | **10:15 AM**<br>*Friday* | From Touch To Code: Gestures and Beyond | [Esra Kadah](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#esra-kadah) |  | []() |
 | **11:10 AM**<br>*Friday* | Migrating 2+ Million Daily Users to Flutter with 50+ Engineers | [Csongor Vogel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#csongor-vogel), [Lucas Britto](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-britto), [Bruno Reginato](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bruno-reginato) |  | []() |
 | **12:05 PM**<br>*Friday* | Building Hyper-Casual Games with Flutter | [Raitis Šaripo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#raitis-šaripo) |  | []() |
-| **1:25 PM**<br>*Friday* | Creating responsive UIs and other nuances of Flutter Web | [Kon Syrokostas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kon-syrokostas) |  | []() |
+| **1:25 PM**<br>*Friday* | Creating responsive UIs and other nuances of Flutter Web | [kon syrokostas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kon-syrokostas) | [Slides](https://www.canva.com/design/DAGI_mgOFpY/iBDXnRT795JP0Ypqq_WpHQ/edit?utm_content=DAGI_mgOFpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | []() |
 | **2:20 PM**<br>*Friday* | Creating Figma plugins with Flutter | [Bogdan Hobeanu](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bogdan-hobeanu) |  | []() |
 
 

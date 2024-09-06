@@ -31,8 +31,8 @@
     "format": "Workshop",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/02/mastering-flutter-firebase-architecting-for-scale-security-savings/"
       }
     ],
     "recommendations": [

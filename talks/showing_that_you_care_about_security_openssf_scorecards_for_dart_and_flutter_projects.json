@@ -22,6 +22,10 @@
       {
         "label": "Blog",
         "url": "https://blog.thestateofme.com/2022/12/02/implementing-ossf-scorecards-across-a-github-organisation/"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/03/showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/"
       }
     ],
     "recommendations": [

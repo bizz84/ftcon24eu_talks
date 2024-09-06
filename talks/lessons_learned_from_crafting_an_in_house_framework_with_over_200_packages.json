@@ -31,8 +31,8 @@
     "format": "Session",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/02/lessons-learned-from-crafting-an-in-house-framework-with-over-200-packages/"
       }
     ],
     "recommendations": [

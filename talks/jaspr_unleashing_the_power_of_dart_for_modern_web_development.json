@@ -27,6 +27,10 @@
       {
         "label": "Code",
         "url": "https://github.com/schultek/jaspr/tree/main/apps/fluttercon"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/03/jaspr-unleashing-the-power-of-dart-for-modern-web-development/"
       }
     ],
     "recommendations": [

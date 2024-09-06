@@ -16,8 +16,8 @@
     "videoUrl": "",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/03/experimenting-with-modifier-embracing-compose-inspired-ui-in-flutter/"
       }
     ],
     "recommendations": [

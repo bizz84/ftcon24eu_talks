@@ -18,6 +18,10 @@
       {
         "label": "Slides",
         "url": "https://bizz84.github.io/fluttercon24_slides_web/"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/03/lessons-learned-from-launching-a-flutter-app-in-production/"
       }
     ],
     "recommendations": [

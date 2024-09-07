@@ -21,8 +21,8 @@
     "format": "Lightning talk",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/03/boost-your-blocs-with-functional-programming-bloc_lens-in-action/"
       }
     ],
     "recommendations": [

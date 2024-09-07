@@ -22,8 +22,8 @@
     "videoUrl": "",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/03/dart-on-the-backend-with-serverpod-building-interactive-slides-for-tech-talks/"
       }
     ],
     "recommendations": [

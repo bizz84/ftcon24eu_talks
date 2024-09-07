@@ -22,6 +22,10 @@
       {
         "label": "Example repository",
         "url": "https://github.com/Almouro/flutter-performance-debugging-example"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/03/debugging-performance-issues-with-the-flutter-devtools/"
       }
     ],
     "recommendations": [

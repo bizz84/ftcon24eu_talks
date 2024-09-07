@@ -33,6 +33,10 @@
       {
         "label": "Slides",
         "url": "https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjBpbudeH5IVLpkVxCXldbzMsRcFrAqQUyzO-Pf80T4DBZmrcAHt7QX4I_w2PUN7ZNPabV/pub?start=false&loop=false&delayms=3000"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/02/the-past-present-and-future-of-native-interop/"
       }
     ],
     "recommendations": [

@@ -41,8 +41,8 @@
     "format": "Workshop",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/02/unleashing-flutter-on-embedded-hardware-with-flutter-pi/"
       }
     ],
     "recommendations": [

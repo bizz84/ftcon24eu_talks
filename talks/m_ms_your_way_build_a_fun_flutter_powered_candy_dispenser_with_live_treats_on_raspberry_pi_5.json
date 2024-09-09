@@ -28,6 +28,10 @@
       {
         "label": "Code",
         "url": "https://github.com/Snapp-X/m_and_m"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/02/mms-your-way-build-a-fun-flutter-powered-candy-dispenser-with-live-treats-on-raspberry-pi-5/"
       }
     ],
     "recommendations": [

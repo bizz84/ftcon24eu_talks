@@ -23,6 +23,10 @@
       {
         "label": "Slides",
         "url": "https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/03/building-your-very-own-devtools-extension/"
       }
     ],
     "recommendations": [

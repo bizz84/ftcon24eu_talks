@@ -25,6 +25,10 @@
         "url": "https://docs.google.com/presentation/d/1VEjz2vmOiFA2pWc8PbdeZoNnu4NaPYgORH2np-oDGGk/edit?usp=sharing"
       },
       {
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/03/boosting-map-performance-with-mapbox-and-flutter/"
+      },
+      {
         "label": "Article",
         "url": "https://medium.com/@oleksandr-tilnyi/flutter-and-mapbox-deploy-and-display-vector-data-via-mapbox-tilesets-a-11231f19e31a"
       }

@@ -18,6 +18,10 @@
       {
         "label": "Blog",
         "url": "https://pasul.medium.com"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/03/code-quality-gates-for-large-scale-flutter-apps/"
       }
     ],
     "recommendations": [

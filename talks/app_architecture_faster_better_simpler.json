@@ -25,6 +25,10 @@
         "url": "https://github.com/ookami-kb/ookami-kb/blob/master/slides/app-architecture-fluttercon.pdf"
       },
       {
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/03/app-architecture-faster-better-simpler/"
+      },
+      {
         "label": "Example repository",
         "url": "https://github.com/ookami-kb/my_tmdb"
       }

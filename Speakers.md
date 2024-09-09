@@ -6,6 +6,8 @@
 
 **Building Resilient Flutter Apps in the New Age of Non-Deterministic Data**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/building-resilient-flutter-apps-in-the-new-age-of-non-deterministic-data/)
+
 
 ## Akanksha Singh
 
@@ -20,12 +22,16 @@
 
 **Internationalization (and not only)**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/internationalization-and-not-only/)
+
 
 ## Alex Bordei
 
 
 
 **The Flutter POS: Use-cases on integrating POS Hardware on Android and Linux**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/the-flutter-pos-use-cases-on-integrating-pos-hardware-on-android-and-linux/)
 
 
 ## Alexander Troshkov
@@ -34,7 +40,7 @@
 
 **Testing that your app is accessible to all**
 
-Resources: [Slides](https://github.com/aednlaxer/flutterconeurope2024)
+Resources: [Slides](https://github.com/aednlaxer/flutterconeurope2024), [Video](https://www.droidcon.com/2024/09/03/testing-that-your-app-is-accessible-to-all/)
 
 
 ## Alexandre Moureaux
@@ -45,7 +51,7 @@ Resources: [Slides](https://github.com/aednlaxer/flutterconeurope2024)
 
 **Debugging performance issues with the Flutter DevTools**
 
-Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTcUdCsRqDo0YJhCWLI4406Cw7lBruf0RvHQzdYxSh2_Xij1gjJ239aLegxvPDvmS-FAt2dAcl6binU/pub?start=false&loop=false&delayms=60000), [Example repository](https://github.com/Almouro/flutter-performance-debugging-example)
+Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTcUdCsRqDo0YJhCWLI4406Cw7lBruf0RvHQzdYxSh2_Xij1gjJ239aLegxvPDvmS-FAt2dAcl6binU/pub?start=false&loop=false&delayms=60000), [Example repository](https://github.com/Almouro/flutter-performance-debugging-example), [Video](https://www.droidcon.com/2024/09/03/debugging-performance-issues-with-the-flutter-devtools/)
 
 Recommendations:
 - [Flashlight](https://github.com/bamlab/flashlight) App performance score
@@ -68,9 +74,15 @@ Resources: [Slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFV
 
 **Unconference discussion 1 - Past, Present and Future of Native Interop**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/unconference-discussion-1-past-present-and-future-of-native-interop/)
+
 **Unconference discussion 2 - Sustainable package maintenance models**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/unconference-discussion-2-sustainable-package-maintenance-models/)
+
 **Unconference discussion 3 - Addressing package ecosystem fragmentation**
+
+Resources: [Video](https://www.droidcon.com/2024/09/02/unconference-discussion-3-addressing-package-ecosystem-fragmentation/)
 
 
 ## Andrea Bizzotto
@@ -79,7 +91,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFV
 
 **Lessons Learned from Launching a Flutter app in Production**
 
-Resources: [Slides](https://bizz84.github.io/fluttercon24_slides_web/)
+Resources: [Slides](https://bizz84.github.io/fluttercon24_slides_web/), [Video](https://www.droidcon.com/2024/09/03/lessons-learned-from-launching-a-flutter-app-in-production/)
 
 
 ## Andrew Brogdon
@@ -88,12 +100,16 @@ Resources: [Slides](https://bizz84.github.io/fluttercon24_slides_web/)
 
 **Opening keynote**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/opening-keynote/)
+
 
 ## André Schmidt Di Salvo
 
 
 
 **Please wait... : The perception of time in user Interfaces**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/please-wait-the-perception-of-time-in-user-interfaces/)
 
 
 ## Anna Leushchenko
@@ -102,7 +118,7 @@ Resources: [Slides](https://bizz84.github.io/fluttercon24_slides_web/)
 
 **Your ultimate guide to code generation productivity for Dart and Flutter**
 
-Resources: [Slides](https://bit.ly/45T84JB)
+Resources: [Slides](https://bit.ly/45T84JB), [Video](https://www.droidcon.com/2024/09/02/your-ultimate-guide-to-code-generation-productivity-for-dart-and-flutter/)
 
 
 ## Anton Borries
@@ -111,12 +127,16 @@ Resources: [Slides](https://bit.ly/45T84JB)
 
 **Adding HomeScreenWidgets to your Flutter App**
 
+Resources: [Video](https://www.droidcon.com/2024/09/02/adding-homescreenwidgets-to-your-flutter-app/)
+
 
 ## Bettina Carrizo
 
 
 
 **Mastering Flutter + Firebase: Architecting for Scale, Security & Savings**
+
+Resources: [Video](https://www.droidcon.com/2024/09/02/mastering-flutter-firebase-architecting-for-scale-security-savings/)
 
 
 ## Bogdan Hobeanu
@@ -125,12 +145,16 @@ Resources: [Slides](https://bit.ly/45T84JB)
 
 **Creating Figma plugins with Flutter**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/creating-figma-plugins-with-flutter/)
+
 
 ## Bruno Reginato
 
 
 
 **Migrating 2+ Million Daily Users to Flutter with 50+ Engineers**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/migrating-2-million-daily-users-to-flutter-with-50-engineers/)
 
 
 ## Cagatay Ulusoy
@@ -139,7 +163,7 @@ Resources: [Slides](https://bit.ly/45T84JB)
 
 **The Unique Role of a Flutter Competence Lead in a Scaling Company**
 
-Resources: [Slides](https://docs.google.com/presentation/d/1UXYbH7xqe-X1FgUREm5Uomaa4UpCyHz-A53I26FGV0Y/edit#slide=id.g2ca715091db_0_779)
+Resources: [Slides](https://docs.google.com/presentation/d/1UXYbH7xqe-X1FgUREm5Uomaa4UpCyHz-A53I26FGV0Y/edit#slide=id.g2ca715091db_0_779), [Video](https://www.droidcon.com/2024/09/03/the-unique-role-of-a-flutter-competence-lead-in-a-scaling-company/)
 
 
 ## Cameron Mcloughlin
@@ -147,6 +171,8 @@ Resources: [Slides](https://docs.google.com/presentation/d/1UXYbH7xqe-X1FgUREm5U
 
 
 **Using Rust in your next Flutter SDK**
+
+Resources: [Video](https://www.droidcon.com/2024/09/02/using-rust-in-your-next-flutter-sdk/)
 
 
 ## Chris Swan
@@ -159,7 +185,7 @@ Chris Swan is an Engineer at Atsign, building the atPlatform, a technology that 
 
 **Showing that you care about security - OpenSSF Scorecards for Dart and Flutter projects**
 
-Resources: [Slides](https://www.slideshare.net/slideshow/fluttercon-2024-showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/270042965), [Blog](https://blog.thestateofme.com/2022/12/02/implementing-ossf-scorecards-across-a-github-organisation/)
+Resources: [Slides](https://www.slideshare.net/slideshow/fluttercon-2024-showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/270042965), [Blog](https://blog.thestateofme.com/2022/12/02/implementing-ossf-scorecards-across-a-github-organisation/), [Video](https://www.droidcon.com/2024/09/03/showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/)
 
 Recommendations:
 - [OpenSSF Scorecard](https://scorecard.dev/) 
@@ -173,6 +199,8 @@ Recommendations:
 
 **Migrating 2+ Million Daily Users to Flutter with 50+ Engineers**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/migrating-2-million-daily-users-to-flutter-with-50-engineers/)
+
 
 ## Daco Harkes
 @ [Google](www.google.com)
@@ -184,7 +212,7 @@ Software Engineer at Google - Seamless interop between #Dart and native code
 
 **The past, present, and future of native interop**
 
-Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjBpbudeH5IVLpkVxCXldbzMsRcFrAqQUyzO-Pf80T4DBZmrcAHt7QX4I_w2PUN7ZNPabV/pub?start=false&loop=false&delayms=3000)
+Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjBpbudeH5IVLpkVxCXldbzMsRcFrAqQUyzO-Pf80T4DBZmrcAHt7QX4I_w2PUN7ZNPabV/pub?start=false&loop=false&delayms=3000), [Video](https://www.droidcon.com/2024/09/02/the-past-present-and-future-of-native-interop/)
 
 
 ## Daniel Vechtel
@@ -192,6 +220,8 @@ Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjB
 
 
 **Relaunching DW's Connected TV Experience with Flutter**
+
+Resources: [Video](https://www.droidcon.com/2024/09/02/relaunching-dws-connected-tv-experience-with-flutter/)
 
 
 ## Danielle Cox
@@ -202,12 +232,16 @@ Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjB
 
 **White labelling apps - a year later**
 
+Resources: [Video](https://www.droidcon.com/2024/09/02/white-labelling-apps-a-year-later/)
+
 
 ## Daria Orlova
 
 
 
 **Zero runtime errors: Exploring Static Code Analysis techniques in Flutter**
+
+Resources: [Video](https://www.droidcon.com/2024/09/02/zero-runtime-errors-exploring-static-code-analysis-techniques-in-flutter/)
 
 
 ## Dominik Roszkowski
@@ -216,7 +250,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjB
 
 **Native Background Processing with Flutter**
 
-Resources: [Slides](https://roszkowski.dev/background)
+Resources: [Slides](https://roszkowski.dev/background), [Video](https://www.droidcon.com/2024/09/03/native-background-processing-with-flutter/)
 
 
 ## Eduard Siewert
@@ -224,6 +258,8 @@ Resources: [Slides](https://roszkowski.dev/background)
 
 
 **Bluetooth LE-Audio Broadcast: How to build an Auracast assistant app with Flutter**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/bluetooth-le-audio-broadcast-how-to-build-an-auracast-assistant-app-with-flutter/)
 
 
 ## Elvira Leveque
@@ -234,6 +270,8 @@ Resources: [Slides](https://roszkowski.dev/background)
 
 **Get the most out of Flutter theming with theme extensions**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/get-the-most-out-of-flutter-theming-with-theme-extensions/)
+
 
 ## Enzo Conty
 [X](https://x.com/enzoconty)
@@ -241,7 +279,7 @@ Resources: [Slides](https://roszkowski.dev/background)
 
 **Building Your Very Own DevTools Extension**
 
-Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000)
+Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000), [Video](https://www.droidcon.com/2024/09/03/building-your-very-own-devtools-extension/)
 
 
 ## Esra Kadah
@@ -250,12 +288,16 @@ Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwn
 
 **From Touch To Code: Gestures and Beyond**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/from-touch-to-code-gestures-and-beyond/)
+
 
 ## Hannes Winkler
 
 
 
 **Unleashing Flutter on embedded hardware with flutter-pi**
+
+Resources: [Video](https://www.droidcon.com/2024/09/02/unleashing-flutter-on-embedded-hardware-with-flutter-pi/)
 
 
 ## Hossein Yousefi
@@ -268,7 +310,7 @@ Software Engineer at Google - Make interop fluid between Dart and Java/Kotlin
 
 **The past, present, and future of native interop**
 
-Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjBpbudeH5IVLpkVxCXldbzMsRcFrAqQUyzO-Pf80T4DBZmrcAHt7QX4I_w2PUN7ZNPabV/pub?start=false&loop=false&delayms=3000)
+Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjBpbudeH5IVLpkVxCXldbzMsRcFrAqQUyzO-Pf80T4DBZmrcAHt7QX4I_w2PUN7ZNPabV/pub?start=false&loop=false&delayms=3000), [Video](https://www.droidcon.com/2024/09/02/the-past-present-and-future-of-native-interop/)
 
 
 ## Ivanna Kaceviča
@@ -277,7 +319,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjB
 
 **Level Up: How I Made the Top 10 Worldwide at Global Gamers Hackathon**
 
-Resources: [Article](https://medium.com/@evanca/level-up-how-i-made-the-top-10-worldwide-at-flutter-global-gamers-hackathon-671cf1938aac)
+Resources: [Article](https://medium.com/@evanca/level-up-how-i-made-the-top-10-worldwide-at-flutter-global-gamers-hackathon-671cf1938aac), [Video](https://www.droidcon.com/2024/09/03/level-up-how-i-made-the-top-10-worldwide-at-global-gamers-hackathon/)
 
 
 ## Jaime Blasco
@@ -285,6 +327,8 @@ Resources: [Article](https://medium.com/@evanca/level-up-how-i-made-the-top-10-w
 
 
 **Elevating JavaScript interoperability with Dart**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/elevating-javascript-interoperability-with-dart/)
 
 
 ## Jan Stępień
@@ -295,7 +339,7 @@ Resources: [Article](https://medium.com/@evanca/level-up-how-i-made-the-top-10-w
 
 **One Size Doesn't Fit All: Tailoring Flutter Architectures for Team and Business Success**
 
-Resources: [Slides](https://github.com/Jan-Stepien/fluttercon-architecture-presentation/tree/main)
+Resources: [Slides](https://github.com/Jan-Stepien/fluttercon-architecture-presentation/tree/main), [Video](https://www.droidcon.com/2024/09/03/one-size-doesnt-fit-all-tailoring-flutter-architectures-for-team-and-business-success/)
 
 
 ## John McCutchan
@@ -304,12 +348,16 @@ Resources: [Slides](https://github.com/Jan-Stepien/fluttercon-architecture-prese
 
 **Android Platform Views Past, Present, Future**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/android-platform-views-past-present-future/)
+
 
 ## Jonas Uekötter
 
 
 
 **Monitor your Flutter app and see every issue!**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/monitor-your-flutter-app-and-see-every-issue/)
 
 
 ## Kendi J
@@ -327,7 +375,7 @@ Creator of Jaspr
 
 **Jaspr: Unleashing the Power of Dart for Modern Web Development**
 
-Resources: [Slides](https://github.com/schultek/schultek/blob/main/references/resources/fluttercon_slides.pdf), [Code](https://github.com/schultek/jaspr/tree/main/apps/fluttercon)
+Resources: [Slides](https://github.com/schultek/schultek/blob/main/references/resources/fluttercon_slides.pdf), [Code](https://github.com/schultek/jaspr/tree/main/apps/fluttercon), [Video](https://www.droidcon.com/2024/09/03/jaspr-unleashing-the-power-of-dart-for-modern-web-development/)
 
 
 ## Kirill Bubochkin
@@ -340,18 +388,11 @@ Staff Mobile Engineer at Mews. Former Android dev, former front-end dev, former 
 
 **App Architecture: Faster, Better... Simpler**
 
-Resources: [Slides](https://github.com/ookami-kb/ookami-kb/blob/master/slides/app-architecture-fluttercon.pdf), [Example repository](https://github.com/ookami-kb/my_tmdb)
+Resources: [Slides](https://github.com/ookami-kb/ookami-kb/blob/master/slides/app-architecture-fluttercon.pdf), [Video](https://www.droidcon.com/2024/09/03/app-architecture-faster-better-simpler/), [Example repository](https://github.com/ookami-kb/my_tmdb)
 
 Recommendations:
 - [DCM](https://dcm.dev/) 
 - [lakos](https://pub.dev/packages/lakos) 
-
-
-## Kon Syrokostas
-
-
-
-**Creating responsive UIs and other nuances of Flutter Web**
 
 
 ## Leigha Reid
@@ -360,12 +401,16 @@ Recommendations:
 
 **Building with best practices in FlutterFlow**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/building-with-best-practices-in-flutterflow/)
+
 
 ## Lucas Britto
 
 
 
 **Migrating 2+ Million Daily Users to Flutter with 50+ Engineers**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/migrating-2-million-daily-users-to-flutter-with-50-engineers/)
 
 
 ## Lucas Goldner
@@ -374,7 +419,7 @@ Recommendations:
 
 **Saving data before the app getting killed! Easy state restoration with Flutter**
 
-Resources: [Slides](https://state-restoration-presentation.vercel.app/#/speaker)
+Resources: [Slides](https://state-restoration-presentation.vercel.app/#/speaker), [Video](https://www.droidcon.com/2024/09/03/saving-data-before-the-app-getting-killed-easy-state-restoration-with-flutter/)
 
 
 ## Lucas Josefiak
@@ -383,6 +428,8 @@ Resources: [Slides](https://state-restoration-presentation.vercel.app/#/speaker)
 
 **Simplify Design Systems and Designer/Developer Collaboration with Widgetbook**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/simplify-design-systems-and-designer-developer-collaboration-with-widgetbook/)
+
 
 ## Lukas Klingsbo
 
@@ -390,7 +437,7 @@ Resources: [Slides](https://state-restoration-presentation.vercel.app/#/speaker)
 
 **Ubuntu: An OS experience built on Flutter**
 
-Resources: [Slides](https://docs.google.com/presentation/d/14eGAql_pLZehIfSUlEwB4umUoxtlxnlN826yFaLw9xA/edit?usp=sharing)
+Resources: [Slides](https://docs.google.com/presentation/d/14eGAql_pLZehIfSUlEwB4umUoxtlxnlN826yFaLw9xA/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/ubuntu-an-os-experience-built-on-flutter/)
 
 
 ## Majid Hajian
@@ -406,7 +453,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/14eGAql_pLZehIfSUlEwB
 
 **Cat-like Development: Flutter for Efficiency**
 
-Resources: [Slides](https://kazlauskas.dev/ldd/)
+Resources: [Slides](https://kazlauskas.dev/ldd/), [Video](https://www.droidcon.com/2024/09/03/cat-like-development-flutter-for-efficiency/)
 
 
 ## Manuela Sakura Rommel
@@ -414,6 +461,8 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 
 **Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/dashs-inclusive-adventure-experimenting-with-accessibility-in-flutter-games/)
 
 **Flutteristas panel**
 
@@ -424,6 +473,8 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 **Demystifying App Architecture: The LeanCode Guide**
 
+Resources: [Video](https://www.droidcon.com/2024/09/02/demystifying-app-architecture-the-leancode-guide/)
+
 
 ## Marcin Wojnarowski
 
@@ -431,7 +482,11 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 **Presentation events - a missing piece in BLoC**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/presentation-events-a-missing-piece-in-bloc/)
+
 **Software correctness**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/software-correctness/)
 
 
 ## Marina Meier
@@ -440,12 +495,16 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 **Lessons learned from crafting an in-house framework with over 200 packages**
 
+Resources: [Video](https://www.droidcon.com/2024/09/02/lessons-learned-from-crafting-an-in-house-framework-with-over-200-packages/)
+
 
 ## Masahiro Aoki
 
 
 
 **Building Real-Time Audio/Video Apps with Flutter and WebRTC**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/building-real-time-audio-video-apps-with-flutter-and-webrtc/)
 
 
 ## Matej Rešetár
@@ -454,12 +513,16 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 **Navigation in Flutter - the not-so-obvious parts**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/navigation-in-flutter-the-not-so-obvious-parts/)
+
 
 ## Mateusz Rus
 
 
 
 **Fight, Flight, or Fix? Winning the Legacy Flutter Challenge**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/fight-flight-or-fix-winning-the-legacy-flutter-challenge/)
 
 
 ## Mateusz Wojtczak
@@ -468,6 +531,8 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 **Demystifying App Architecture: The LeanCode Guide**
 
+Resources: [Video](https://www.droidcon.com/2024/09/02/demystifying-app-architecture-the-leancode-guide/)
+
 
 ## Matteo Maria Terzuolo
 [GitHub](https://github.com/SaltySpaghetti) | [X](https://x.com/SaltySpag) | [LinkedIn](https://www.linkedin.com/in/matteo-maria-terzuolo)
@@ -475,7 +540,7 @@ Resources: [Slides](https://kazlauskas.dev/ldd/)
 
 **Dart FFI: A Beginner's Guide to High-Performance Integration**
 
-Resources: [Slides](https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVkdM-Nq67oz1smacZvBvPKi_U/edit?usp=sharing), [Code](https://github.com/SaltySpaghetti/n_body_dart_ffi)
+Resources: [Slides](https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVkdM-Nq67oz1smacZvBvPKi_U/edit?usp=sharing), [Code](https://github.com/SaltySpaghetti/n_body_dart_ffi), [Video](https://www.droidcon.com/2024/09/03/dart-ffi-a-beginners-guide-to-high-performance-integration/)
 
 
 ## Matthieu Pernelle
@@ -484,12 +549,16 @@ Resources: [Slides](https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVk
 
 **The quest to display widget markers on a map**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/the-quest-to-display-widget-markers-on-a-map/)
+
 
 ## Max Weber
 
 
 
 **Mastering real world use cases in Flutter with GoRouter and GoRouterBuilder**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/mastering-real-world-use-cases-in-flutter-with-gorouter-and-gorouterbuilder/)
 
 
 ## Maxime Rougieux
@@ -498,6 +567,8 @@ Resources: [Slides](https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVk
 
 **Animation vs delivery, do you really have to choose ?**
 
+Resources: [Video](https://www.droidcon.com/2024/09/02/animation-vs-delivery-do-you-really-have-to-choose/)
+
 
 ## Mike Rydstrom
 [X](https://x.com/RydMike)
@@ -505,7 +576,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVk
 
 **Everything Material All At Once**
 
-Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300)
+Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300), [Video](https://www.droidcon.com/2024/09/02/everything-material-all-at-once/)
 
 
 ## Mikhail Zotyev
@@ -518,7 +589,7 @@ Dart & Flutter GDE. Author of telegram-channel about Flutter 'Oh, my Flutter'. F
 
 **Motion Designer is your best friend for creating animations**
 
-Resources: [Slides](https://docs.google.com/presentation/d/1u-cGtbCteO_6trOrCXjuuafxzOcJY0pxxn39scGd_28/edit?usp=sharing)
+Resources: [Slides](https://docs.google.com/presentation/d/1u-cGtbCteO_6trOrCXjuuafxzOcJY0pxxn39scGd_28/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/motion-designer-is-your-best-friend-for-creating-animations/)
 
 
 ## Moritz Theis
@@ -529,7 +600,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/1u-cGtbCteO_6trOrCXju
 
 **M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5**
 
-Resources: [Code](https://github.com/Snapp-X/m_and_m)
+Resources: [Code](https://github.com/Snapp-X/m_and_m), [Video](https://www.droidcon.com/2024/09/02/mms-your-way-build-a-fun-flutter-powered-candy-dispenser-with-live-treats-on-raspberry-pi-5/)
 
 
 ## Nino Handler
@@ -542,7 +613,7 @@ CTO & Founder uRyde | Founder & Organizer GDG Nuremberg | Founder & Organizer CT
 
 **Developer Diary: Journey of a payment integration**
 
-Resources: [Slides](https://github.com/luckyhandler/developer_diaries/blob/main/slides/developer_diary-journey_of_a_payment_integration.pdf)
+Resources: [Slides](https://github.com/luckyhandler/developer_diaries/blob/main/slides/developer_diary-journey_of_a_payment_integration.pdf), [Video](https://www.droidcon.com/2024/09/03/developer-diary-journey-of-a-payment-integration/)
 
 
 ## Norbert Kozsir
@@ -551,12 +622,16 @@ Resources: [Slides](https://github.com/luckyhandler/developer_diaries/blob/main/
 
 **Compilers, Virtual Machines and Code Analysis - What makes Dart and Flutter run**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/compilers-virtual-machines-and-code-analysis-what-makes-dart-and-flutter-run/)
+
 
 ## Olav Schettler
 
 
 
 **Relaunching DW's Connected TV Experience with Flutter**
+
+Resources: [Video](https://www.droidcon.com/2024/09/02/relaunching-dws-connected-tv-experience-with-flutter/)
 
 
 ## Oleksandr Tilnyi
@@ -565,7 +640,7 @@ Resources: [Slides](https://github.com/luckyhandler/developer_diaries/blob/main/
 
 **Boosting Map Performance with Mapbox and Flutter**
 
-Resources: [Slides](https://docs.google.com/presentation/d/1VEjz2vmOiFA2pWc8PbdeZoNnu4NaPYgORH2np-oDGGk/edit?usp=sharing), [Article](https://medium.com/@oleksandr-tilnyi/flutter-and-mapbox-deploy-and-display-vector-data-via-mapbox-tilesets-a-11231f19e31a)
+Resources: [Slides](https://docs.google.com/presentation/d/1VEjz2vmOiFA2pWc8PbdeZoNnu4NaPYgORH2np-oDGGk/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/boosting-map-performance-with-mapbox-and-flutter/), [Article](https://medium.com/@oleksandr-tilnyi/flutter-and-mapbox-deploy-and-display-vector-data-via-mapbox-tilesets-a-11231f19e31a)
 
 
 ## Pascal Stech
@@ -574,6 +649,8 @@ Resources: [Slides](https://docs.google.com/presentation/d/1VEjz2vmOiFA2pWc8Pbde
 
 **Lessons learned from crafting an in-house framework with over 200 packages**
 
+Resources: [Video](https://www.droidcon.com/2024/09/02/lessons-learned-from-crafting-an-in-house-framework-with-over-200-packages/)
+
 
 ## Pascal Welsch
 [X](https://x.com/passsy)
@@ -581,7 +658,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/1VEjz2vmOiFA2pWc8Pbde
 
 **Self-host private pub packages**
 
-Resources: [Slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSsMm1FLGlsga1ggXk4SGp7WAY/edit?usp=sharing)
+Resources: [Slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSsMm1FLGlsga1ggXk4SGp7WAY/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/self-host-private-pub-packages/)
 
 
 ## Pavel Sulimau
@@ -592,7 +669,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSs
 
 **Code Quality Gates for Large-Scale Flutter Apps**
 
-Resources: [Blog](https://pasul.medium.com)
+Resources: [Blog](https://pasul.medium.com), [Video](https://www.droidcon.com/2024/09/03/code-quality-gates-for-large-scale-flutter-apps/)
 
 
 ## Payam Zahedi
@@ -603,7 +680,7 @@ Resources: [Blog](https://pasul.medium.com)
 
 **M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5**
 
-Resources: [Code](https://github.com/Snapp-X/m_and_m)
+Resources: [Code](https://github.com/Snapp-X/m_and_m), [Video](https://www.droidcon.com/2024/09/02/mms-your-way-build-a-fun-flutter-powered-candy-dispenser-with-live-treats-on-raspberry-pi-5/)
 
 
 ## Pieter Scholtz
@@ -612,12 +689,16 @@ Resources: [Code](https://github.com/Snapp-X/m_and_m)
 
 **Unleashing Flutter on embedded hardware with flutter-pi**
 
+Resources: [Video](https://www.droidcon.com/2024/09/02/unleashing-flutter-on-embedded-hardware-with-flutter-pi/)
+
 
 ## Piotr Rogulski
 
 
 
 **Boost Your Blocs with Functional Programming: bloc_lens in Action**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/boost-your-blocs-with-functional-programming-bloc_lens-in-action/)
 
 
 ## Raitis Šaripo
@@ -626,6 +707,8 @@ Resources: [Code](https://github.com/Snapp-X/m_and_m)
 
 **Building Hyper-Casual Games with Flutter**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/building-hyper-casual-games-with-flutter/)
+
 
 ## Raouf Rahiche
 [X](https://x.com/raoufrahiche)
@@ -633,7 +716,7 @@ Resources: [Code](https://github.com/Snapp-X/m_and_m)
 
 **Implementing custom fragment shaders**
 
-Resources: [Slides](https://www.figma.com/slides/GNv9DFM68G8QVdC7coidX8/Implementing-custom--Fragment-Shaders?node-id=22-1279&t=JQZTimVJAxcj7dxz-1)
+Resources: [Slides](https://www.figma.com/slides/GNv9DFM68G8QVdC7coidX8/Implementing-custom--Fragment-Shaders?node-id=22-1279&t=JQZTimVJAxcj7dxz-1), [Video](https://www.droidcon.com/2024/09/03/implementing-custom-fragment-shaders/)
 
 
 ## Roaa Khaddam
@@ -642,12 +725,16 @@ Resources: [Slides](https://www.figma.com/slides/GNv9DFM68G8QVdC7coidX8/Implemen
 
 **Code Meets Art: Flutter for Creative Coding**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/code-meets-art-flutter-for-creative-coding/)
+
 
 ## Romain Rastel
 
 
 
 **Enhance your Flutter painting skills**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/enhance-your-flutter-painting-skills/)
 
 
 ## Salih Guler
@@ -660,7 +747,7 @@ Salih is a Berlin based Senior Developer Advocate at AWS who is also a Google De
 
 **Modular Flutter App Architecture: Answering the What, When and How**
 
-Resources: [Slides](https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nOocg/edit?utm_content=DAGJz47iMDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Resources: [Slides](https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nOocg/edit?utm_content=DAGJz47iMDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [Video](https://www.droidcon.com/2024/09/03/modular-flutter-app-architecture-answering-the-what-when-and-how/)
 
 
 ## Sascha Ernst
@@ -668,6 +755,8 @@ Resources: [Slides](https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nO
 
 
 **Handling Legacy APIs with Domain Driven Design and Reactivity**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/handling-legacy-apis-with-domain-driven-design-and-reactivity/)
 
 
 ## Sasha Denisov
@@ -683,6 +772,8 @@ Resources: [Slides](https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nO
 
 **Palette Panorama: Mastering the power of Advance theming in Flutter**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/palette-panorama-mastering-the-power-of-advance-theming-in-flutter/)
+
 
 ## Simon Lightfoot
 
@@ -691,6 +782,8 @@ Resources: [Slides](https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nO
 **Live Coding Workshop**
 
 **Realtime Communications with Flutter**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/realtime-communications-with-flutter/)
 
 
 ## Sylvia Dieckmann
@@ -701,7 +794,7 @@ Resources: [Slides](https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nO
 
 **Bringing Google Maps to Flutter: The Power of Plugins**
 
-Resources: [Slides](https://docs.google.com/presentation/d/17ClzHygtkb_-pT-_xpkSbHIojYd72HsIBlisc-_FINs/edit?usp=sharing)
+Resources: [Slides](https://docs.google.com/presentation/d/17ClzHygtkb_-pT-_xpkSbHIojYd72HsIBlisc-_FINs/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/bringing-google-maps-to-flutter-the-power-of-plugins/)
 
 
 ## Taha Tesser
@@ -710,7 +803,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/17ClzHygtkb_-pT-_xpkS
 
 **Everything Material All At Once**
 
-Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300)
+Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300), [Video](https://www.droidcon.com/2024/09/02/everything-material-all-at-once/)
 
 
 ## Teresa Wu
@@ -719,6 +812,8 @@ Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le
 
 **Building amazing Flutter Project with Gemma: A State-of-the-Art Open Model**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/building-amazing-flutter-project-with-gemma-a-state-of-the-art-open-model/)
+
 
 ## Thomas Coumau
 
@@ -726,7 +821,11 @@ Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le
 
 **Animation vs delivery, do you really have to choose ?**
 
+Resources: [Video](https://www.droidcon.com/2024/09/02/animation-vs-delivery-do-you-really-have-to-choose/)
+
 **How I get your location: A story of permissions**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/how-i-get-your-location-a-story-of-permissions/)
 
 
 ## Tomas Piaggio
@@ -735,12 +834,16 @@ Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le
 
 **Mastering Flutter + Firebase: Architecting for Scale, Security & Savings**
 
+Resources: [Video](https://www.droidcon.com/2024/09/02/mastering-flutter-firebase-architecting-for-scale-security-savings/)
+
 
 ## Tomáš Soukal
 
 
 
 **Hacking and protection of Mobile Apps and backend APIs. Threat modeling exercise.**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/hacking-and-protection-of-mobile-apps-and-backend-apis-threat-modeling-exercise/)
 
 
 ## Toni Piirainen
@@ -749,12 +852,16 @@ Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le
 
 **Digital transformation of media industry with Flutter**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/digital-transformation-of-media-industry-with-flutter/)
+
 
 ## Vadym Pinchuk
 
 
 
 **Experimenting with Modifier: embracing Compose-inspired UI in Flutter**
+
+Resources: [Video](https://www.droidcon.com/2024/09/03/experimenting-with-modifier-embracing-compose-inspired-ui-in-flutter/)
 
 
 ## Vasyl Dytsiak
@@ -763,6 +870,8 @@ Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le
 
 **Working with forms as an ecosystem**
 
+Resources: [Video](https://www.droidcon.com/2024/09/02/working-with-forms-as-an-ecosystem/)
+
 
 ## Viktor Lidholt
 
@@ -770,11 +879,24 @@ Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le
 
 **Dart on the backend with Serverpod: Building interactive slides for tech talks**
 
+Resources: [Video](https://www.droidcon.com/2024/09/03/dart-on-the-backend-with-serverpod-building-interactive-slides-for-tech-talks/)
+
 
 ## Werner Scholtz
 
 
 
 **Unleashing Flutter on embedded hardware with flutter-pi**
+
+Resources: [Video](https://www.droidcon.com/2024/09/02/unleashing-flutter-on-embedded-hardware-with-flutter-pi/)
+
+
+## kon syrokostas
+[LinkedIn](https://www.linkedin.com/in/https://linkedin.com/in/kon-syrokostas)
+
+
+**Creating responsive UIs and other nuances of Flutter Web**
+
+Resources: [Slides](https://www.canva.com/design/DAGI_mgOFpY/iBDXnRT795JP0Ypqq_WpHQ/edit?utm_content=DAGI_mgOFpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [Video](https://www.droidcon.com/2024/09/03/creating-responsive-uis-and-other-nuances-of-flutter-web/)
 
 

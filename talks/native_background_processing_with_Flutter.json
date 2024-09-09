@@ -18,6 +18,10 @@
       {
         "label": "Slides",
         "url": "https://roszkowski.dev/background"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/03/native-background-processing-with-flutter/"
       }
     ],
     "recommendations": [

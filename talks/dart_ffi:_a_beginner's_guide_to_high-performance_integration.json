@@ -27,6 +27,10 @@
     {
       "label": "Code",
       "url": "https://github.com/SaltySpaghetti/n_body_dart_ffi"
+    },
+    {
+      "label": "Video",
+      "url": "https://www.droidcon.com/2024/09/03/dart-ffi-a-beginners-guide-to-high-performance-integration/"
     }
   ],
   "recommendations": [

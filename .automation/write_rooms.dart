@@ -1,5 +1,6 @@
-import 'dart:io';
 import 'dart:convert';
+import 'dart:io';
+
 import 'models/models.dart';
 
 void writeRooms(List<Talk> talks) async {
@@ -15,10 +16,8 @@ void writeRooms(List<Talk> talks) async {
     roomsContent.writeln('## $room\n');
 
     // Generate table headers
-    roomsContent
-        .writeln('| Time | Title | Speakers | Resources | Recommendations |');
-    roomsContent
-        .writeln('| ---- | ----- | -------- | --------- | --------------- |');
+    roomsContent.writeln('| Time | Title | Speakers | Resources |');
+    roomsContent.writeln('| ---- | ----- | -------- | --------- |');
 
     // Filter talks by current room
     var filteredTalks = List.from(talks.where((talk) => talk.room == room));

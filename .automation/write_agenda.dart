@@ -1,5 +1,6 @@
-import 'dart:io';
 import 'dart:convert';
+import 'dart:io';
+
 import 'models/models.dart';
 
 void writeAgenda(List<Talk> talks) async {
@@ -15,10 +16,8 @@ void writeAgenda(List<Talk> talks) async {
     agendaContent.writeln('## $day\n');
 
     // Generate table headers
-    agendaContent.writeln(
-        '| Time & Room | Title | Speakers | Resources | Recommendations |');
-    agendaContent.writeln(
-        '| ----------- | ----- | -------- | --------- | --------------- |');
+    agendaContent.writeln('| Time & Room | Title | Speakers | Resources |');
+    agendaContent.writeln('| ----------- | ----- | -------- | --------- |');
 
     // Filter talks by current day
     var filteredTalks = List.from(talks.where((talk) => talk.day == day));

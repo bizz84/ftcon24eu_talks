@@ -27,11 +27,13 @@
       "comment": ""
     }
   ],
-  "level": "Introductory and overview/Intermediate/Advanced/Expert",
+  "level": "Advanced",
   "topics": [
     "Application Architecture - Navigation",
     "Enterprise - Tech Leadership",
-    "State Management"
+    "State Management",
+    "Testing",
+    "Third Party Libraries"
   ],
   "day": "Wednesday",
   "time": "2:35 PM",

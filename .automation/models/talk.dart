@@ -8,8 +8,8 @@ class Talk {
   final List<Recommendation>? recommendations;
   final String? day;
   final String? time;
-  final DateTime? startsAt;
-  final DateTime? endsAt;
+  final DateTime startsAt;
+  final DateTime endsAt;
   final String? room;
   final String? format;
   final String? level;
@@ -19,13 +19,13 @@ class Talk {
   Talk({
     required this.speakers,
     required this.title,
+    required this.startsAt,
+    required this.endsAt,
     this.description,
     this.resources,
     this.recommendations,
     this.day,
     this.time,
-    this.startsAt,
-    this.endsAt,
     this.room,
     this.format,
     this.level,
@@ -48,10 +48,10 @@ class Talk {
         time: json['time'],
         startsAt: json['startsAt'] != null
             ? DateTime.parse(json['startsAt']).toLocal()
-            : null,
+            : DateTime.now(),
         endsAt: json['endsAt'] != null
             ? DateTime.parse(json['endsAt']).toLocal()
-            : null,
+            : DateTime.now(),
         room: json['room'],
         format: json['format'],
         level: json['level'],
@@ -69,9 +69,7 @@ class Talk {
         ?.where((r) => r.label != 'Slides/Blog/...')
         .map((r) => '[${r.label}](${r.url})')
         .join(', ');
-    final recommendationsColumn =
-        this.recommendations?.map((r) => '[${r.tool}](${r.url})').join('<br>');
 
-    return '| $titleColumn | $speakersColumn | $resourcesColumn | $recommendationsColumn |';
+    return '| $titleColumn | $speakersColumn | $resourcesColumn |';
   }
 }

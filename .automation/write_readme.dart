@@ -1,47 +1,46 @@
-import 'dart:io';
 import 'dart:convert';
+import 'dart:io';
+
 import 'models/models.dart';
 
 void writeReadme(List<Talk> talks) async {
+  final sortedTalks = List<Talk>.from(talks);
+  sortedTalks.sort((a, b) => a.startsAt.compareTo(b.startsAt!));
   final readmeContent = StringBuffer();
 
-  readmeContent.writeln('# FlutterCon Europe 2024\n\n');
-
-  readmeContent.writeln('Collection of Fluttercon 2024 content. :)');
-
-  readmeContent.writeln('## Contribution\n');
+  readmeContent.writeln('## FlutterCon Europe 2024 Talks\n');
   readmeContent.writeln(
-      'Please fill any content info exclusively to the .json files inside the [talks/ directory](https://github.com/martin-bertele/ftcon24eu/tree/main/talks). All .md-files will be generated via script \`dart run .automation/generate_markdowns.dart\` triggered by Github Action. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/martin-bertele/ftcon24eu/tree/main/.automation) as a starting point to add yours. Happy to recieve your PRs :)\n');
+      'This repo is a collaborative collection from the Flutter talks at [FlutterCon 24](https://fluttercon.dev/):\n');
+  readmeContent.writeln('- [Agenda](https://fluttercon.dev/agenda/)\n');
+  readmeContent.writeln('- [Speakers](https://fluttercon.dev/speakers/)\n');
 
-  readmeContent.writeln('## Acknowledgement\n');
+  readmeContent.writeln('### Contribution\n');
   readmeContent.writeln(
-      '[Andrea Bizzotto](https://github.com/bizz84) inspired me with his repo [FlutterCon 2023 resources](https://github.com/bizz84/fluttercon_23_resources).\n');
+      'Please add your info to the .json files inside the [talks/ directory](https://github.com/bizz84/ftcon24eu_talks/tree/main/talks). All .md-files will be generated via script `dart run .automation/generate_markdowns.dart` triggered by Github Action. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/bizz84/ftcon24eu_talks/tree/main/.automation) as a starting point to add yours.\n');
+  readmeContent.writeln('We are happy to recieve your PRs :)\n');
 
-  readmeContent.writeln(
-      'From [Kilian Schulte](https://github.com/schultek) I used the [FlutterCon data](https://fluttercon.schultek.de/) to feed ChatGPT for retrieving the json files.\n');
+  readmeContent.writeln('## Lists\n');
 
-  readmeContent.writeln('# Talks\n\n');
-
-  readmeContent.writeln('Here you can find more views created so far:\n');
+  readmeContent.writeln('Here you can find several views created so far:\n');
 
   readmeContent.writeln(
-      '[Agenda](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md)\n');
+      '[Agenda](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md)\n');
 
   readmeContent.writeln(
-      'Speakers [list](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md) and all [socials](https://github.com/martin-bertele/ftcon24eu/blob/main/Socials.md)\n');
+      'Speakers: [list](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md), [socials](https://github.com/bizz84/ftcon24eu_talks/blob/main/Socials.md) and [companies](https://github.com/bizz84/ftcon24eu_talks/blob/main/Companies.md) \n');
 
   readmeContent.writeln(
-      'Talks sorted by: [rooms](https://github.com/martin-bertele/ftcon24eu/blob/main/Rooms.md) | [formats](https://github.com/martin-bertele/ftcon24eu/blob/main/Formats.md) | [lebels (in progress)](https://github.com/martin-bertele/ftcon24eu/blob/main/Levels.md)\n');
+      '[Talks with full descriptions](https://github.com/bizz84/ftcon24eu_talks/blob/main/Descriptions.md), talks sorted by: [rooms](https://github.com/bizz84/ftcon24eu_talks/blob/main/Rooms.md) | [formats](https://github.com/bizz84/ftcon24eu_talks/blob/main/Formats.md) | [levels](https://github.com/bizz84/ftcon24eu_talks/blob/main/Levels.md) | [topics](https://github.com/bizz84/ftcon24eu_talks/blob/main/Topics.md) \n');
 
   readmeContent.writeln(
-      '[Talks with full descriptions](https://github.com/martin-bertele/ftcon24eu/blob/main/Descriptions.md)\n');
+      '| Talk Title | Speakers  | Day       | Time     | Slides & Resources  |');
+  readmeContent.writeln(
+      '| ---------- | --------- | --------- | -------- | ------------------- |');
 
-  // Generate table headers
-  readmeContent.writeln('| Title | Speakers | Resources | Recommendations |');
-  readmeContent.writeln('| ----- | -------- | --------- | --------------- |');
-
-  // Iterate over talks to populate the table
-  talks.forEach((talk) => readmeContent.writeln(talk.tableRow));
+  for (var talk in sortedTalks) {
+    readmeContent.writeln(
+        '| ${talk.title} | ${talk.speakers.map((s) => s.xLink != null ? '[${s.name}](${s.xLink})' : s?.name)?.join(', ') ?? ''} | ${talk.day} | ${talk.time} | ${talk.resources?.where((r) => r.label != 'Slides/Blog/...').map((r) => '[${r.label}](${r.url})').join(', ')} |');
+  }
 
   // Write the accumulated content to README.md
   await File('README.md').writeAsString(readmeContent.toString());

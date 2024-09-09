@@ -4,10 +4,10 @@
         "name": "Sylvia Dieckmann",
         "bio": "About",
         "companyName": "Rozendal Labs",
-        "companyUrl": "",
+        "companyUrl": "https://rozendallabs.org/authors/sylvia/",
         "githubUrlOrHandle": "https://github.com/githubmonkey",
-        "xUrlOrHandle": "",
-        "linkedinUrlOrHandle": "",
+        "xUrlOrHandle": "https://x.com/sylviedie",
+        "linkedinUrlOrHandle": "https://www.linkedin.com/in/sylviadieckmann/",
         "webUrl": ""
       }
     ],
@@ -27,12 +27,8 @@
         "comment": ""
       }
     ],
-    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "level": "Intermediate",
     "topics": [
-      "Application Architecture - Navigation",
-      "Firebase & Flutter",
-      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
-      "Flutter Widgets & Layouts",
       "Package & Plugin Development",
       "Third Party Libraries"
     ],

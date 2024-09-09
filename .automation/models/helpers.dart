@@ -1,6 +1,9 @@
 // Utility class to hold the function
 class UrlHelper {
-  static String toUrl(String handleOrUrl, String platform) {
+  static String? toUrl(String handleOrUrl, String platform) {
+    if (handleOrUrl == null || handleOrUrl.isEmpty) {
+      return null;
+    }
     String baseUrl;
     switch (platform.toLowerCase()) {
       case 'github':

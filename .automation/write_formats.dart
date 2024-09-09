@@ -1,5 +1,6 @@
-import 'dart:io';
 import 'dart:convert';
+import 'dart:io';
+
 import 'models/models.dart';
 
 void writeFormats(List<Talk> talks) async {
@@ -15,10 +16,8 @@ void writeFormats(List<Talk> talks) async {
     formatsContent.writeln('## $format\n');
 
     // Generate table headers
-    formatsContent
-        .writeln('| Title | Speakers | Resources | Recommendations |');
-    formatsContent
-        .writeln('| ----- | -------- | --------- | --------------- |');
+    formatsContent.writeln('| Title | Speakers | Resources |');
+    formatsContent.writeln('| ----- | -------- | --------- |');
 
     // Filter talks by current format
     var filteredTalks = talks.where((talk) => talk.format == format);

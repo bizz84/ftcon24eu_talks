@@ -3,11 +3,11 @@
         {
             "name": "Anna Leushchenko",
             "bio": "About",
-            "companyName": "",
-            "companyUrl": "",
-            "githubUrlOrHandle": "",
+            "companyName": "Tide",
+            "companyUrl": "https://www.tide.co",
+            "githubUrlOrHandle": "https://github.com/foxanna",
             "xUrlOrHandle": "AnnaLeushchenko",
-            "linkedinUrlOrHandle": "",
+            "linkedinUrlOrHandle": "https://www.linkedin.com/in/annaleushchenko/",
             "webUrl": ""
         }
     ],
@@ -33,24 +33,9 @@
         "comment": ""
       }
     ],
-    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "level": "Intermediate",
     "topics": [
-      "Accessibility",
-      "Animations",
       "Application Architecture - Navigation",
-      "Custom Painting - Render Objects - Rendering",
-      "Dart 3 Language Features",
-      "Dart on the server",
-      "Enterprise - Tech Leadership",
-      "Firebase & Flutter",
-      "Flutter Multiplatform (Desktop, Web, Embedded, etc)",
-      "Flutter Widgets & Layouts",
-      "Game Development",
-      "Networking (GraphQl, APIs, etc.)",
-      "Package & Plugin Development",
-      "Security",
-      "State Management",
-      "Testing",
       "Third Party Libraries"
     ]
 }

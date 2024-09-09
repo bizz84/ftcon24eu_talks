@@ -44,7 +44,7 @@ class Speaker {
       : null;
 
   String get mdLink =>
-      '[${this.name}](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#${this.name.toLowerCase().replaceAll(' ', '-')})';
+      '[${this.name}](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#${this.name.toLowerCase().replaceAll(' ', '-')})';
 
   Speaker copyWith({
     String? name,

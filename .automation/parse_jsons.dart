@@ -1,11 +1,13 @@
 import 'dart:convert';
 import 'dart:io';
+
 import 'models/models.dart';
 
 Future<void> parseJsons(
   List<Talk> talks,
   List<Speaker> uniqueSpeakers,
   List<Company> uniqueCompanies,
+  List<Recommendation> uniqueRecommendations,
 ) async {
   const dataDir = 'talks';
   final directory = Directory(dataDir);
@@ -62,11 +64,21 @@ Future<void> parseJsons(
         if (speaker.companyName != null && speaker.companyName!.isNotEmpty)
           uniqueCompanies.add(Company(
             name: speaker.companyName!,
+            url: speaker.companyUrl,
             speakers: List.from(talk.speakers),
           ));
       } else {
         // add speaker to existing company
         uniqueCompanies[idx].speakers.add(speaker);
+      }
+    }
+
+    for (Recommendation recommendation in talk.recommendations ?? []) {
+      int existingIndex = uniqueRecommendations.indexWhere(
+          (r) => r.tool == recommendation.tool && r.url == recommendation.url);
+
+      if (existingIndex < 0) {
+        uniqueRecommendations.add(recommendation);
       }
     }
   }

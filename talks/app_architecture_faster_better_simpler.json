@@ -41,10 +41,9 @@
         "comment": ""
       }
     ],
-    "level": "Introductory and overview/Intermediate/Advanced/Expert",
+    "level": "Intermediate",
     "topics": [
-      "Application Architecture - Navigation",
-      "Third Party Libraries"
+      "Application Architecture - Navigation"
     ],
     "videoUrl": ""
 }

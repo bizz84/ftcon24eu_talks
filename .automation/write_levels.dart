@@ -1,5 +1,6 @@
-import 'dart:io';
 import 'dart:convert';
+import 'dart:io';
+
 import 'models/models.dart';
 
 void writeLevels(List<Talk> talks) async {
@@ -20,8 +21,8 @@ void writeLevels(List<Talk> talks) async {
     levelsContent.writeln('## $level\n');
 
     // Generate table headers
-    levelsContent.writeln('| Title | Speakers | Resources | Recommendations |');
-    levelsContent.writeln('| ----- | -------- | --------- | --------------- |');
+    levelsContent.writeln('| Title | Speakers | Resources |');
+    levelsContent.writeln('| ----- | -------- | --------- |');
 
     // Filter talks by current level
     var filteredTalks = talks.where((talk) => talk.level == level);

@@ -3,7 +3,7 @@
 
 ## Adding HomeScreenWidgets to your Flutter App
 
-Speakers: [Anton Borries](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#anton-borries)
+Speakers: [Anton Borries](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#anton-borries)
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/adding-homescreenwidgets-to-your-flutter-app/)
 
@@ -12,7 +12,7 @@ After iOS 17 introduced Interactive Widgets, HomeScreen Widgets have become incr
 
 ## Android Platform Views Past, Present, Future
 
-Speakers: [John McCutchan](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#john-mccutchan)
+Speakers: [John McCutchan](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#john-mccutchan)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/android-platform-views-past-present-future/)
 
@@ -21,7 +21,7 @@ Deep dive on how Android Platform Views are implemented
 
 ## Animation vs delivery, do you really have to choose ?
 
-Speakers: [Thomas Coumau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#thomas-coumau), [Maxime Rougieux](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#maxime-rougieux)
+Speakers: [Thomas Coumau](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#thomas-coumau), [Maxime Rougieux](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#maxime-rougieux)
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/animation-vs-delivery-do-you-really-have-to-choose/)
 
@@ -41,7 +41,7 @@ Here are some of the topics we’ll tackle during the talk:
 
 ## App Architecture: Faster, Better... Simpler
 
-Speakers: [Kirill Bubochkin](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kirill-bubochkin)
+Speakers: [Kirill Bubochkin](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#kirill-bubochkin)
 
 Resources: [Slides](https://github.com/ookami-kb/ookami-kb/blob/master/slides/app-architecture-fluttercon.pdf), [Video](https://www.droidcon.com/2024/09/03/app-architecture-faster-better-simpler/), [Example repository](https://github.com/ookami-kb/my_tmdb)
 
@@ -56,7 +56,7 @@ As a bonus, I'll share my experience with using the new DCM feature for analyzin
 
 ## Automating Accessibility Adoption in Flutter with Gemini AI
 
-Speakers: [Akanksha Singh](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#akanksha-singh)
+Speakers: [Akanksha Singh](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#akanksha-singh)
 
 For years, accessibility features and experiences were seen as nice to have when it came to app development. Shockingly, many developers overlook this vital aspect, inadvertently excluding a significant user base. The World Health Organization reveals that about 15% of the global population, over a billion people, live with disabilities. In a digital age, it's unjust to marginalize this substantial demographic based on abilities.
 
@@ -65,7 +65,7 @@ This talk emphasizes the critical role of accessibility in mobile apps. By intro
 
 ## Bluetooth LE-Audio Broadcast: How to build an Auracast assistant app with Flutter
 
-Speakers: [Eduard Siewert](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#eduard-siewert)
+Speakers: [Eduard Siewert](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#eduard-siewert)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/bluetooth-le-audio-broadcast-how-to-build-an-auracast-assistant-app-with-flutter/)
 
@@ -76,7 +76,7 @@ In this talk I will show you how to build an Auracast assistant application, whi
 
 ## Boost Your Blocs with Functional Programming: bloc_lens in Action
 
-Speakers: [Piotr Rogulski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#piotr-rogulski)
+Speakers: [Piotr Rogulski](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#piotr-rogulski)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/boost-your-blocs-with-functional-programming-bloc_lens-in-action/)
 
@@ -85,7 +85,7 @@ BLoC is a great, scalable state management library. Still, it can fall short whe
 
 ## Boosting Map Performance with Mapbox and Flutter
 
-Speakers: [Oleksandr Tilnyi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#oleksandr-tilnyi)
+Speakers: [Oleksandr Tilnyi](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#oleksandr-tilnyi)
 
 Resources: [Slides](https://docs.google.com/presentation/d/1VEjz2vmOiFA2pWc8PbdeZoNnu4NaPYgORH2np-oDGGk/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/boosting-map-performance-with-mapbox-and-flutter/), [Article](https://medium.com/@oleksandr-tilnyi/flutter-and-mapbox-deploy-and-display-vector-data-via-mapbox-tilesets-a-11231f19e31a)
 
@@ -101,7 +101,7 @@ In this talk, you will discover:
 
 ## Bringing Google Maps to Flutter: The Power of Plugins
 
-Speakers: [Sylvia Dieckmann](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#sylvia-dieckmann)
+Speakers: [Sylvia Dieckmann](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#sylvia-dieckmann)
 
 Resources: [Slides](https://docs.google.com/presentation/d/17ClzHygtkb_-pT-_xpkSbHIojYd72HsIBlisc-_FINs/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/bringing-google-maps-to-flutter-the-power-of-plugins/)
 
@@ -112,7 +112,7 @@ After showing how to use the Google Maps and geocoding packages in my app, I wil
 
 ## Building Hyper-Casual Games with Flutter
 
-Speakers: [Raitis Šaripo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#raitis-šaripo)
+Speakers: [Raitis Šaripo](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#raitis-šaripo)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/building-hyper-casual-games-with-flutter/)
 
@@ -125,7 +125,7 @@ This talk aims to inspire developers to explore Flutter's capabilities in game d
 
 ## Building Real-Time Audio/Video Apps with Flutter and WebRTC
 
-Speakers: [Masahiro Aoki](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#masahiro-aoki)
+Speakers: [Masahiro Aoki](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#masahiro-aoki)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/building-real-time-audio-video-apps-with-flutter-and-webrtc/)
 
@@ -168,7 +168,7 @@ This workshop will guide participants through the process of developing real-tim
 
 ## Building Resilient Flutter Apps in the New Age of Non-Deterministic Data
 
-Speakers: [Acacia Pappas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#acacia-pappas)
+Speakers: [Acacia Pappas](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#acacia-pappas)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/building-resilient-flutter-apps-in-the-new-age-of-non-deterministic-data/)
 
@@ -177,7 +177,7 @@ Building mobile applications that consume predominantly non-deterministic data p
 
 ## Building Your Very Own DevTools Extension
 
-Speakers: [Enzo Conty](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#enzo-conty)
+Speakers: [Enzo Conty](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#enzo-conty)
 
 Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000), [Video](https://www.droidcon.com/2024/09/03/building-your-very-own-devtools-extension/)
 
@@ -190,7 +190,7 @@ By the end, you'll have the knowledge to create your own extensions in no time!
 
 ## Building amazing Flutter Project with Gemma: A State-of-the-Art Open Model
 
-Speakers: [Teresa Wu](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#teresa-wu)
+Speakers: [Teresa Wu](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#teresa-wu)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/building-amazing-flutter-project-with-gemma-a-state-of-the-art-open-model/)
 
@@ -210,7 +210,7 @@ Join this session to:
 
 ## Building with best practices in FlutterFlow
 
-Speakers: [Leigha Reid](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#leigha-reid)
+Speakers: [Leigha Reid](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#leigha-reid)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/building-with-best-practices-in-flutterflow/)
 
@@ -221,7 +221,7 @@ You'll walk away from this session with a better understanding of how FlutterFlo
 
 ## Cat-like Development: Flutter for Efficiency
 
-Speakers: [Mangirdas Kazlauskas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mangirdas-kazlauskas)
+Speakers: [Mangirdas Kazlauskas](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#mangirdas-kazlauskas)
 
 Resources: [Slides](https://kazlauskas.dev/ldd/), [Video](https://www.droidcon.com/2024/09/03/cat-like-development-flutter-for-efficiency/)
 
@@ -230,7 +230,7 @@ Many developers chase the dream of being a \"unicorn\" - an individual who seaml
 
 ## Code Meets Art: Flutter for Creative Coding
 
-Speakers: [Roaa Khaddam](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#roaa-khaddam)
+Speakers: [Roaa Khaddam](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#roaa-khaddam)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/code-meets-art-flutter-for-creative-coding/)
 
@@ -241,7 +241,7 @@ After a quick introduction into what creative coding is and how its visual feedb
 
 ## Code Quality Gates for Large-Scale Flutter Apps
 
-Speakers: [Pavel Sulimau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pavel-sulimau)
+Speakers: [Pavel Sulimau](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#pavel-sulimau)
 
 Resources: [Blog](https://pasul.medium.com), [Video](https://www.droidcon.com/2024/09/03/code-quality-gates-for-large-scale-flutter-apps/)
 
@@ -256,7 +256,7 @@ Code quality is important for projects of any size, but it's crucial for large-s
 
 ## Compilers, Virtual Machines and Code Analysis - What makes Dart and Flutter run
 
-Speakers: [Norbert Kozsir](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#norbert-kozsir)
+Speakers: [Norbert Kozsir](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#norbert-kozsir)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/compilers-virtual-machines-and-code-analysis-what-makes-dart-and-flutter-run/)
 
@@ -276,7 +276,7 @@ After the talk, you should have gained a general understanding of how Flutter an
 
 ## Creating Figma plugins with Flutter
 
-Speakers: [Bogdan Hobeanu](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bogdan-hobeanu)
+Speakers: [Bogdan Hobeanu](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#bogdan-hobeanu)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/creating-figma-plugins-with-flutter/)
 
@@ -294,7 +294,7 @@ By the end of this session, you’ll be equipped to create your very own Figma p
 
 ## Creating responsive UIs and other nuances of Flutter Web
 
-Speakers: [kon syrokostas](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kon-syrokostas)
+Speakers: [kon syrokostas](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#kon-syrokostas)
 
 Resources: [Slides](https://www.canva.com/design/DAGI_mgOFpY/iBDXnRT795JP0Ypqq_WpHQ/edit?utm_content=DAGI_mgOFpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [Video](https://www.droidcon.com/2024/09/03/creating-responsive-uis-and-other-nuances-of-flutter-web/)
 
@@ -312,7 +312,7 @@ The main takeaways for the participants will be:
 
 ## Dart FFI: A Beginner's Guide to High-Performance Integration
 
-Speakers: [Matteo Maria Terzuolo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matteo-maria-terzuolo)
+Speakers: [Matteo Maria Terzuolo](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#matteo-maria-terzuolo)
 
 Resources: [Slides](https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVkdM-Nq67oz1smacZvBvPKi_U/edit?usp=sharing), [Code](https://github.com/SaltySpaghetti/n_body_dart_ffi), [Video](https://www.droidcon.com/2024/09/03/dart-ffi-a-beginners-guide-to-high-performance-integration/)
 
@@ -321,7 +321,7 @@ Dart is a versatile language that can be used to build a wide range of applicati
 
 ## Dart on the backend with Serverpod: Building interactive slides for tech talks
 
-Speakers: [Viktor Lidholt](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#viktor-lidholt)
+Speakers: [Viktor Lidholt](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#viktor-lidholt)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/dart-on-the-backend-with-serverpod-building-interactive-slides-for-tech-talks/)
 
@@ -330,7 +330,7 @@ Is this the most meta talk you have attended? A presentation about making presen
 
 ## Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games
 
-Speakers: [Manuela Sakura Rommel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#manuela-sakura-rommel)
+Speakers: [Manuela Sakura Rommel](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#manuela-sakura-rommel)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/dashs-inclusive-adventure-experimenting-with-accessibility-in-flutter-games/)
 
@@ -342,7 +342,7 @@ Furthermore, we are going to check how to implement some of the talked about acc
 
 ## Debugging performance issues with the Flutter DevTools
 
-Speakers: [Alexandre Moureaux](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alexandre-moureaux)
+Speakers: [Alexandre Moureaux](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#alexandre-moureaux)
 
 Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTcUdCsRqDo0YJhCWLI4406Cw7lBruf0RvHQzdYxSh2_Xij1gjJ239aLegxvPDvmS-FAt2dAcl6binU/pub?start=false&loop=false&delayms=60000), [Example repository](https://github.com/Almouro/flutter-performance-debugging-example), [Video](https://www.droidcon.com/2024/09/03/debugging-performance-issues-with-the-flutter-devtools/)
 
@@ -354,7 +354,7 @@ I've built a dummy app with several performance issues from real life examples. 
 
 ## Demystifying App Architecture: The LeanCode Guide
 
-Speakers: [Mateusz Wojtczak](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mateusz-wojtczak), [Marcin Chudy](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-chudy)
+Speakers: [Mateusz Wojtczak](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#mateusz-wojtczak), [Marcin Chudy](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#marcin-chudy)
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/demystifying-app-architecture-the-leancode-guide/)
 
@@ -367,7 +367,7 @@ Why do we use BLoC for state management? Why not Riverpod? Why do we love hooks?
 
 ## Developer Diary: Journey of a payment integration
 
-Speakers: [Nino Handler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#nino-handler)
+Speakers: [Nino Handler](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#nino-handler)
 
 Resources: [Slides](https://github.com/luckyhandler/developer_diaries/blob/main/slides/developer_diary-journey_of_a_payment_integration.pdf), [Video](https://www.droidcon.com/2024/09/03/developer-diary-journey-of-a-payment-integration/)
 
@@ -382,7 +382,7 @@ II. Therefore, the second part of the talk superficially covers the topics WebVi
 
 ## Digital transformation of media industry with Flutter
 
-Speakers: [Toni Piirainen](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#toni-piirainen)
+Speakers: [Toni Piirainen](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#toni-piirainen)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/digital-transformation-of-media-industry-with-flutter/)
 
@@ -395,7 +395,7 @@ By the end of this story, you'll gain a comprehensive understanding of the strat
 
 ## Elevating JavaScript interoperability with Dart
 
-Speakers: [Jaime Blasco](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jaime-blasco)
+Speakers: [Jaime Blasco](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#jaime-blasco)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/elevating-javascript-interoperability-with-dart/)
 
@@ -404,7 +404,7 @@ Embark on a journey into Dart's cutting-edge JavaScript\r\ninteroperability!\r\n
 
 ## Enhance your Flutter painting skills
 
-Speakers: [Romain Rastel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#romain-rastel)
+Speakers: [Romain Rastel](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#romain-rastel)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/enhance-your-flutter-painting-skills/)
 
@@ -413,7 +413,7 @@ When it comes to draw raw pixels, we can call the CustomPaint widget to save us!
 
 ## Everything Material All At Once
 
-Speakers: [Taha Tesser](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#taha-tesser), [Mike Rydstrom](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mike-rydstrom)
+Speakers: [Taha Tesser](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#taha-tesser), [Mike Rydstrom](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#mike-rydstrom)
 
 Resources: [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300), [Video](https://www.droidcon.com/2024/09/02/everything-material-all-at-once/)
 
@@ -422,7 +422,7 @@ As Material 3 support has been enabled by default in Flutter, there have been ma
 
 ## Experimenting with Modifier: embracing Compose-inspired UI in Flutter
 
-Speakers: [Vadym Pinchuk](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#vadym-pinchuk)
+Speakers: [Vadym Pinchuk](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#vadym-pinchuk)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/experimenting-with-modifier-embracing-compose-inspired-ui-in-flutter/)
 
@@ -439,7 +439,7 @@ Attendees will gain actionable insights into adopting Modifier widget approach w
 
 ## Fight, Flight, or Fix? Winning the Legacy Flutter Challenge
 
-Speakers: [Mateusz Rus](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mateusz-rus)
+Speakers: [Mateusz Rus](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#mateusz-rus)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/fight-flight-or-fix-winning-the-legacy-flutter-challenge/)
 
@@ -459,7 +459,7 @@ Join this session and learn from a team leader's firsthand experience, empowerin
 
 ## Flutter Engineering - Architectural path
 
-Speakers: [Majid Hajian](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#majid-hajian)
+Speakers: [Majid Hajian](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#majid-hajian)
 
 This session will explore critical architectural decisions, the variables influencing these choices, and how to cultivate an architectural mindset. 
 
@@ -470,14 +470,14 @@ This session is perfect for developers looking to deepen their understanding and
 
 ## Flutteristas panel
 
-Speakers: [Alicja Ogonowska](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alicja-ogonowska), [Manuela Sakura Rommel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#manuela-sakura-rommel), [Kendi J](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kendi-j), [Danielle Cox](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#danielle-cox), [Elvira Leveque](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#elvira-leveque)
+Speakers: [Alicja Ogonowska](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#alicja-ogonowska), [Manuela Sakura Rommel](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#manuela-sakura-rommel), [Kendi J](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#kendi-j), [Danielle Cox](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#danielle-cox), [Elvira Leveque](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#elvira-leveque)
 
 TBD
 
 
 ## From Touch To Code: Gestures and Beyond
 
-Speakers: [Esra Kadah](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#esra-kadah)
+Speakers: [Esra Kadah](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#esra-kadah)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/from-touch-to-code-gestures-and-beyond/)
 
@@ -490,7 +490,7 @@ Ever wondered how our daily interactions with touchscreens shape the apps we use
 
 ## Get the most out of Flutter theming with theme extensions
 
-Speakers: [Elvira Leveque](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#elvira-leveque)
+Speakers: [Elvira Leveque](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#elvira-leveque)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/get-the-most-out-of-flutter-theming-with-theme-extensions/)
 
@@ -503,7 +503,7 @@ Plus, I'll sprinkle in some handy tips and tricks to make your styling workflow 
 
 ## Hacking and protection of Mobile Apps and backend APIs. Threat modeling exercise.
 
-Speakers: [Tomáš Soukal](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#tomáš-soukal)
+Speakers: [Tomáš Soukal](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#tomáš-soukal)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/hacking-and-protection-of-mobile-apps-and-backend-apis-threat-modeling-exercise/)
 
@@ -512,7 +512,7 @@ You should attend this talk if you want to know how mobile apps & APIs are being
 
 ## Handling Legacy APIs with Domain Driven Design and Reactivity
 
-Speakers: [Sascha Ernst](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#sascha-ernst)
+Speakers: [Sascha Ernst](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#sascha-ernst)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/handling-legacy-apis-with-domain-driven-design-and-reactivity/)
 
@@ -525,7 +525,7 @@ After a brief introduction into Domain Driven Design, you will see how it can be
 
 ## How I get your location: A story of permissions
 
-Speakers: [Thomas Coumau](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#thomas-coumau)
+Speakers: [Thomas Coumau](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#thomas-coumau)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/how-i-get-your-location-a-story-of-permissions/)
 
@@ -545,7 +545,7 @@ In the end, you will be able to access your users' location no matter what the c
 
 ## Implementing custom fragment shaders
 
-Speakers: [Raouf Rahiche](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#raouf-rahiche)
+Speakers: [Raouf Rahiche](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#raouf-rahiche)
 
 Resources: [Slides](https://www.figma.com/slides/GNv9DFM68G8QVdC7coidX8/Implementing-custom--Fragment-Shaders?node-id=22-1279&t=JQZTimVJAxcj7dxz-1), [Video](https://www.droidcon.com/2024/09/03/implementing-custom-fragment-shaders/)
 
@@ -558,7 +558,7 @@ Finally, we'll showcase multiple demos that highlight the powerful effects you c
 
 ## Internationalization (and not only)
 
-Speakers: [Albert Wolszon](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#albert-wolszon)
+Speakers: [Albert Wolszon](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#albert-wolszon)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/internationalization-and-not-only/)
 
@@ -567,7 +567,7 @@ How should you prepare your Flutter app for introducing it on a global market? I
 
 ## Jaspr: Unleashing the Power of Dart for Modern Web Development
 
-Speakers: [Kilian Schulte](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#kilian-schulte)
+Speakers: [Kilian Schulte](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#kilian-schulte)
 
 Resources: [Slides](https://github.com/schultek/schultek/blob/main/references/resources/fluttercon_slides.pdf), [Code](https://github.com/schultek/jaspr/tree/main/apps/fluttercon), [Video](https://www.droidcon.com/2024/09/03/jaspr-unleashing-the-power-of-dart-for-modern-web-development/)
 
@@ -578,7 +578,7 @@ Learn how you can build your next blog, landing page, portfolio site or any othe
 
 ## Lessons Learned from Launching a Flutter app in Production
 
-Speakers: [Andrea Bizzotto](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andrea-bizzotto)
+Speakers: [Andrea Bizzotto](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#andrea-bizzotto)
 
 Resources: [Slides](https://bizz84.github.io/fluttercon24_slides_web/), [Video](https://www.droidcon.com/2024/09/03/lessons-learned-from-launching-a-flutter-app-in-production/)
 
@@ -591,7 +591,7 @@ Resources: [Slides](https://bizz84.github.io/fluttercon24_slides_web/), [Video](
 
 ## Lessons learned from crafting an in-house framework with over 200 packages
 
-Speakers: [Marina Meier](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marina-meier), [Pascal Stech](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pascal-stech)
+Speakers: [Marina Meier](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#marina-meier), [Pascal Stech](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#pascal-stech)
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/lessons-learned-from-crafting-an-in-house-framework-with-over-200-packages/)
 
@@ -604,7 +604,7 @@ Look forward to gaining valuable insights into the complexities of developing a 
 
 ## Level Up: How I Made the Top 10 Worldwide at Global Gamers Hackathon
 
-Speakers: [Ivanna Kaceviča](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ivanna-kaceviča)
+Speakers: [Ivanna Kaceviča](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#ivanna-kaceviča)
 
 Resources: [Article](https://medium.com/@evanca/level-up-how-i-made-the-top-10-worldwide-at-flutter-global-gamers-hackathon-671cf1938aac), [Video](https://www.droidcon.com/2024/09/03/level-up-how-i-made-the-top-10-worldwide-at-global-gamers-hackathon/)
 
@@ -623,7 +623,7 @@ This talk is for you if you're new to hackathons, have previously participated w
 
 ## Listen up! Mastering A/B testing and feedback techniques in your mobile apps
 
-Speakers: [Alicja Ogonowska](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alicja-ogonowska)
+Speakers: [Alicja Ogonowska](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#alicja-ogonowska)
 
 Resources: [Slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing), [Code](https://github.com/alicja-ogonowska/feedback-demo)
 
@@ -632,14 +632,14 @@ In the world of mobile app development, truly understanding and catering to your
 
 ## Live Coding Workshop
 
-Speakers: [Simon Lightfoot](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#simon-lightfoot)
+Speakers: [Simon Lightfoot](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#simon-lightfoot)
 
 Come watch Simon live code and get some great insights on how he solves challenges.
 
 
 ## M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5
 
-Speakers: [Moritz Theis](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#moritz-theis), [Payam Zahedi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#payam-zahedi)
+Speakers: [Moritz Theis](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#moritz-theis), [Payam Zahedi](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#payam-zahedi)
 
 Resources: [Code](https://github.com/Snapp-X/m_and_m), [Video](https://www.droidcon.com/2024/09/02/mms-your-way-build-a-fun-flutter-powered-candy-dispenser-with-live-treats-on-raspberry-pi-5/)
 
@@ -658,7 +658,7 @@ Calling all curious coders! This talk is perfect if you want to see Flutter in a
 
 ## Mastering Flutter + Firebase: Architecting for Scale, Security & Savings
 
-Speakers: [Tomas Piaggio](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#tomas-piaggio), [Bettina Carrizo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bettina-carrizo)
+Speakers: [Tomas Piaggio](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#tomas-piaggio), [Bettina Carrizo](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#bettina-carrizo)
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/mastering-flutter-firebase-architecting-for-scale-security-savings/)
 
@@ -671,7 +671,7 @@ We’re going to be looking at real-world examples, and empower you to make info
 
 ## Mastering real world use cases in Flutter with GoRouter and GoRouterBuilder
 
-Speakers: [Max Weber](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#max-weber)
+Speakers: [Max Weber](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#max-weber)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/mastering-real-world-use-cases-in-flutter-with-gorouter-and-gorouterbuilder/)
 
@@ -689,7 +689,7 @@ How to use GoRouter and GoRouterBuilder effectively  and how to make your app na
 
 ## Migrating 2+ Million Daily Users to Flutter with 50+ Engineers
 
-Speakers: [Csongor Vogel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#csongor-vogel), [Lucas Britto](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-britto), [Bruno Reginato](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#bruno-reginato)
+Speakers: [Csongor Vogel](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#csongor-vogel), [Lucas Britto](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#lucas-britto), [Bruno Reginato](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#bruno-reginato)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/migrating-2-million-daily-users-to-flutter-with-50-engineers/)
 
@@ -708,7 +708,7 @@ Finally, attendees of this talk will learn about Flutter's enterprise viability,
 
 ## Modular Flutter App Architecture: Answering the What, When and How
 
-Speakers: [Salih Guler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#salih-guler)
+Speakers: [Salih Guler](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#salih-guler)
 
 Resources: [Slides](https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nOocg/edit?utm_content=DAGJz47iMDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [Video](https://www.droidcon.com/2024/09/03/modular-flutter-app-architecture-answering-the-what-when-and-how/)
 
@@ -719,7 +719,7 @@ For Flutter applications, there are times to follow modular application architec
 
 ## Monitor your Flutter app and see every issue!
 
-Speakers: [Jonas Uekötter](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jonas-uekötter)
+Speakers: [Jonas Uekötter](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#jonas-uekötter)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/monitor-your-flutter-app-and-see-every-issue/)
 
@@ -735,7 +735,7 @@ Based on an example with Flutter for the app and dart_frog for the backend, we'l
 
 ## Motion Designer is your best friend for creating animations
 
-Speakers: [Mikhail Zotyev](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#mikhail-zotyev)
+Speakers: [Mikhail Zotyev](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#mikhail-zotyev)
 
 Resources: [Slides](https://docs.google.com/presentation/d/1u-cGtbCteO_6trOrCXjuuafxzOcJY0pxxn39scGd_28/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/motion-designer-is-your-best-friend-for-creating-animations/)
 
@@ -744,7 +744,7 @@ Animation is a powerful tool to convey messages, evoke emotions, and send feedba
 
 ## Native Background Processing with Flutter
 
-Speakers: [Dominik Roszkowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#dominik-roszkowski)
+Speakers: [Dominik Roszkowski](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#dominik-roszkowski)
 
 Resources: [Slides](https://roszkowski.dev/background), [Video](https://www.droidcon.com/2024/09/03/native-background-processing-with-flutter/)
 
@@ -753,7 +753,7 @@ Background processing tends to be one of the afterthoughts with Flutter apps, an
 
 ## Navigation in Flutter - the not-so-obvious parts
 
-Speakers: [Matej Rešetár](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matej-rešetár)
+Speakers: [Matej Rešetár](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#matej-rešetár)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/navigation-in-flutter-the-not-so-obvious-parts/)
 
@@ -762,7 +762,7 @@ Navigation between screens is an inseparable part of Flutter app development. Ho
 
 ## One Size Doesn't Fit All: Tailoring Flutter Architectures for Team and Business Success
 
-Speakers: [Jan Stępień](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#jan-stępień)
+Speakers: [Jan Stępień](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#jan-stępień)
 
 Resources: [Slides](https://github.com/Jan-Stepien/fluttercon-architecture-presentation/tree/main), [Video](https://www.droidcon.com/2024/09/03/one-size-doesnt-fit-all-tailoring-flutter-architectures-for-team-and-business-success/)
 
@@ -777,7 +777,7 @@ I would like to share with you the takeaways for the project and key concepts th
 
 ## Opening keynote
 
-Speakers: [Andrew Brogdon](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andrew-brogdon)
+Speakers: [Andrew Brogdon](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#andrew-brogdon)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/opening-keynote/)
 
@@ -789,7 +789,7 @@ Resources: [Video](https://www.droidcon.com/2024/09/03/opening-keynote/)
 
 ## Palette Panorama: Mastering the power of Advance theming in Flutter
 
-Speakers: [Shree Bhagwat](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#shree-bhagwat)
+Speakers: [Shree Bhagwat](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#shree-bhagwat)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/palette-panorama-mastering-the-power-of-advance-theming-in-flutter/)
 
@@ -806,7 +806,7 @@ Optimizing Performance and Flexibility: Uncover strategies for optimizing perfor
 
 ## Please wait... : The perception of time in user Interfaces
 
-Speakers: [André Schmidt Di Salvo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#andré-schmidt-di-salvo)
+Speakers: [André Schmidt Di Salvo](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#andré-schmidt-di-salvo)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/please-wait-the-perception-of-time-in-user-interfaces/)
 
@@ -815,7 +815,7 @@ Waiting is an essential part of everything: sometimes things just take a while. 
 
 ## Presentation events - a missing piece in BLoC
 
-Speakers: [Marcin Wojnarowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-wojnarowski)
+Speakers: [Marcin Wojnarowski](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#marcin-wojnarowski)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/presentation-events-a-missing-piece-in-bloc/)
 
@@ -828,7 +828,7 @@ In this talk, you will learn how to enhance your BLoCs with presentation events,
 
 ## Realtime Communications with Flutter
 
-Speakers: [Simon Lightfoot](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#simon-lightfoot)
+Speakers: [Simon Lightfoot](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#simon-lightfoot)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/realtime-communications-with-flutter/)
 
@@ -841,7 +841,7 @@ In this session learn how to write a backend in Dart and have it communicate in 
 
 ## Relaunching DW's Connected TV Experience with Flutter
 
-Speakers: [Olav Schettler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#olav-schettler), [Daniel Vechtel](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daniel-vechtel)
+Speakers: [Olav Schettler](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#olav-schettler), [Daniel Vechtel](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#daniel-vechtel)
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/relaunching-dws-connected-tv-experience-with-flutter/)
 
@@ -871,7 +871,7 @@ Key takeaways:
 
 ## Saving data before the app getting killed! Easy state restoration with Flutter
 
-Speakers: [Lucas Goldner](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-goldner)
+Speakers: [Lucas Goldner](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#lucas-goldner)
 
 Resources: [Slides](https://state-restoration-presentation.vercel.app/#/speaker), [Video](https://www.droidcon.com/2024/09/03/saving-data-before-the-app-getting-killed-easy-state-restoration-with-flutter/)
 
@@ -886,7 +886,7 @@ Imagine this scenario as a user: You are writing a long text in an app, keep swi
 
 ## Self-host private pub packages
 
-Speakers: [Pascal Welsch](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pascal-welsch)
+Speakers: [Pascal Welsch](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#pascal-welsch)
 
 Resources: [Slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSsMm1FLGlsga1ggXk4SGp7WAY/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/self-host-private-pub-packages/)
 
@@ -901,7 +901,7 @@ This talk is not sponsored by any provider, neither promotes our own solution un
 
 ## Showing that you care about security - OpenSSF Scorecards for Dart and Flutter projects
 
-Speakers: [Chris Swan](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#chris-swan)
+Speakers: [Chris Swan](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#chris-swan)
 
 Resources: [Slides](https://www.slideshare.net/slideshow/fluttercon-2024-showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/270042965), [Blog](https://blog.thestateofme.com/2022/12/02/implementing-ossf-scorecards-across-a-github-organisation/), [Video](https://www.droidcon.com/2024/09/03/showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/)
 
@@ -919,7 +919,7 @@ The session will provide a walkthrough of the steps involved in securing a first
 
 ## Simplify Design Systems and Designer/Developer Collaboration with Widgetbook
 
-Speakers: [Lucas Josefiak](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lucas-josefiak)
+Speakers: [Lucas Josefiak](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#lucas-josefiak)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/simplify-design-systems-and-designer-developer-collaboration-with-widgetbook/)
 
@@ -938,7 +938,7 @@ Key takeaways:
 
 ## Software correctness
 
-Speakers: [Marcin Wojnarowski](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#marcin-wojnarowski)
+Speakers: [Marcin Wojnarowski](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#marcin-wojnarowski)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/software-correctness/)
 
@@ -947,7 +947,7 @@ We take a break from Flutter and Dart by discussing what it means for software t
 
 ## Testing that your app is accessible to all
 
-Speakers: [Alexander Troshkov](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alexander-troshkov)
+Speakers: [Alexander Troshkov](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#alexander-troshkov)
 
 Resources: [Slides](https://github.com/aednlaxer/flutterconeurope2024), [Video](https://www.droidcon.com/2024/09/03/testing-that-your-app-is-accessible-to-all/)
 
@@ -956,7 +956,7 @@ Apps are great when they're accessible to all. But how can a developer make sure
 
 ## The Flutter POS: Use-cases on integrating POS Hardware on Android and Linux
 
-Speakers: [Alex Bordei](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#alex-bordei)
+Speakers: [Alex Bordei](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#alex-bordei)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/the-flutter-pos-use-cases-on-integrating-pos-hardware-on-android-and-linux/)
 
@@ -967,7 +967,7 @@ The aim of this presentation is to demonstrate how Flutter can be effectively ut
 
 ## The Unique Role of a Flutter Competence Lead in a Scaling Company
 
-Speakers: [Cagatay Ulusoy](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#cagatay-ulusoy)
+Speakers: [Cagatay Ulusoy](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#cagatay-ulusoy)
 
 Resources: [Slides](https://docs.google.com/presentation/d/1UXYbH7xqe-X1FgUREm5Uomaa4UpCyHz-A53I26FGV0Y/edit#slide=id.g2ca715091db_0_779), [Video](https://www.droidcon.com/2024/09/03/the-unique-role-of-a-flutter-competence-lead-in-a-scaling-company/)
 
@@ -978,7 +978,7 @@ In this talk, the participants will gain a holistic understanding of the Flutter
 
 ## The past, present, and future of native interop
 
-Speakers: [Daco Harkes](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daco-harkes), [Hossein Yousefi](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#hossein-yousefi)
+Speakers: [Daco Harkes](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#daco-harkes), [Hossein Yousefi](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#hossein-yousefi)
 
 Resources: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjBpbudeH5IVLpkVxCXldbzMsRcFrAqQUyzO-Pf80T4DBZmrcAHt7QX4I_w2PUN7ZNPabV/pub?start=false&loop=false&delayms=3000), [Video](https://www.droidcon.com/2024/09/02/the-past-present-and-future-of-native-interop/)
 
@@ -987,7 +987,7 @@ Join us as we share our vision for a more seamless and efficient way to bridge t
 
 ## The quest to display widget markers on a map
 
-Speakers: [Matthieu Pernelle](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#matthieu-pernelle)
+Speakers: [Matthieu Pernelle](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#matthieu-pernelle)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/the-quest-to-display-widget-markers-on-a-map/)
 
@@ -1004,7 +1004,7 @@ This presentation will offer a concise overview of a map rendering engine's oper
 
 ## Ubuntu: An OS experience built on Flutter
 
-Speakers: [Lukas Klingsbo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#lukas-klingsbo)
+Speakers: [Lukas Klingsbo](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#lukas-klingsbo)
 
 Resources: [Slides](https://docs.google.com/presentation/d/14eGAql_pLZehIfSUlEwB4umUoxtlxnlN826yFaLw9xA/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/ubuntu-an-os-experience-built-on-flutter/)
 
@@ -1019,7 +1019,7 @@ In this talk you'll learn about:
 
 ## Unconference discussion 1 - Past, Present and Future of Native Interop
 
-Speakers: [Ander Dobo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ander-dobo)
+Speakers: [Ander Dobo](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#ander-dobo)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/unconference-discussion-1-past-present-and-future-of-native-interop/)
 
@@ -1028,7 +1028,7 @@ Unconference style discussion of the  Flutter and Dart Package Ecosystem Summit.
 
 ## Unconference discussion 2 - Sustainable package maintenance models
 
-Speakers: [Ander Dobo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ander-dobo)
+Speakers: [Ander Dobo](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#ander-dobo)
 
 Resources: [Video](https://www.droidcon.com/2024/09/03/unconference-discussion-2-sustainable-package-maintenance-models/)
 
@@ -1037,7 +1037,7 @@ Unconference style discussion on sustainable models to keep important packages t
 
 ## Unconference discussion 3 - Addressing package ecosystem fragmentation
 
-Speakers: [Ander Dobo](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#ander-dobo)
+Speakers: [Ander Dobo](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#ander-dobo)
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/unconference-discussion-3-addressing-package-ecosystem-fragmentation/)
 
@@ -1046,7 +1046,7 @@ Unconference style discussion session on Addressing package ecosystem fragmentat
 
 ## Unleashing Flutter on embedded hardware with flutter-pi
 
-Speakers: [Pieter Scholtz](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#pieter-scholtz), [Hannes Winkler](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#hannes-winkler), [Werner Scholtz](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#werner-scholtz)
+Speakers: [Pieter Scholtz](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#pieter-scholtz), [Hannes Winkler](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#hannes-winkler), [Werner Scholtz](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#werner-scholtz)
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/unleashing-flutter-on-embedded-hardware-with-flutter-pi/)
 
@@ -1067,7 +1067,7 @@ CANbus )
 
 ## Using Rust in your next Flutter SDK
 
-Speakers: [Cameron Mcloughlin](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#cameron-mcloughlin)
+Speakers: [Cameron Mcloughlin](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#cameron-mcloughlin)
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/using-rust-in-your-next-flutter-sdk/)
 
@@ -1080,7 +1080,7 @@ No prior experience with Rust is necessary.
 
 ## White labelling apps - a year later
 
-Speakers: [Danielle Cox](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#danielle-cox)
+Speakers: [Danielle Cox](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#danielle-cox)
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/white-labelling-apps-a-year-later/)
 
@@ -1097,7 +1097,7 @@ For the past year, Danielle has been working towards a completely configurable v
 
 ## Working with forms as an ecosystem
 
-Speakers: [Vasyl Dytsiak](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#vasyl-dytsiak)
+Speakers: [Vasyl Dytsiak](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#vasyl-dytsiak)
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/working-with-forms-as-an-ecosystem/)
 
@@ -1113,7 +1113,7 @@ In my talk I would like to tell people how I'm helping to create an ecosystem fo
 
 ## Workshop: Flutter for Android TV and Apple TV
 
-Speakers: [Sasha Denisov](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#sasha-denisov)
+Speakers: [Sasha Denisov](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#sasha-denisov)
 
 Get ready to explore TV app development using Flutter. While Flutter officially supports various platforms, TV platforms like Android TV and Apple TV have been overlooked. But fear not! In this workshop, we'll show you how to bring your Flutter apps to the big screen.
 
@@ -1122,7 +1122,7 @@ In this workshop, we will go through all the steps of porting your mobile app to
 
 ## Your ultimate guide to code generation productivity for Dart and Flutter
 
-Speakers: [Anna Leushchenko](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#anna-leushchenko)
+Speakers: [Anna Leushchenko](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#anna-leushchenko)
 
 Resources: [Slides](https://bit.ly/45T84JB), [Video](https://www.droidcon.com/2024/09/02/your-ultimate-guide-to-code-generation-productivity-for-dart-and-flutter/)
 
@@ -1131,7 +1131,7 @@ Creating Dart and Flutter applications often includes typical tasks, such as imp
 
 ## Zero runtime errors: Exploring Static Code Analysis techniques in Flutter
 
-Speakers: [Daria Orlova](https://github.com/martin-bertele/ftcon24eu/blob/main/Speakers.md#daria-orlova)
+Speakers: [Daria Orlova](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#daria-orlova)
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/zero-runtime-errors-exploring-static-code-analysis-techniques-in-flutter/)
 

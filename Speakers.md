@@ -35,7 +35,7 @@ Resources: [Video](https://www.droidcon.com/2024/09/03/the-flutter-pos-use-cases
 
 
 ## Alexander Troshkov
-
+[GitHub](https://github.com/aednlaxer)
 
 
 **Testing that your app is accessible to all**
@@ -86,7 +86,9 @@ Resources: [Video](https://www.droidcon.com/2024/09/02/unconference-discussion-3
 
 
 ## Andrea Bizzotto
-[X](https://x.com/biz84)
+@ [Code With Andrea](https://codewithandrea.com/)
+
+[GitHub](https://github.com/bizz84) | [X](https://x.com/biz84)
 
 
 **Lessons Learned from Launching a Flutter app in Production**
@@ -113,7 +115,9 @@ Resources: [Video](https://www.droidcon.com/2024/09/03/please-wait-the-perceptio
 
 
 ## Anna Leushchenko
-[X](https://x.com/AnnaLeushchenko)
+@ [Tide](https://www.tide.co)
+
+[GitHub](https://github.com/foxanna) | [X](https://x.com/AnnaLeushchenko) | [LinkedIn](https://www.linkedin.com/in/annaleushchenko/)
 
 
 **Your ultimate guide to code generation productivity for Dart and Flutter**
@@ -245,7 +249,7 @@ Resources: [Video](https://www.droidcon.com/2024/09/02/zero-runtime-errors-explo
 
 
 ## Dominik Roszkowski
-[Web](https://roszkowski.dev) | [X](https://x.com/OrestesGaolin)
+[Web](https://roszkowski.dev) | [GitHub](https://github.com/orestesgaolin) | [X](https://x.com/https://twitter.com/OrestesGaolin)
 
 
 **Native Background Processing with Flutter**
@@ -414,7 +418,7 @@ Resources: [Video](https://www.droidcon.com/2024/09/03/migrating-2-million-daily
 
 
 ## Lucas Goldner
-[X](https://x.com/LucasGoldner)
+[GitHub](https://github.com/lucas-goldner) | [X](https://x.com/LucasGoldner)
 
 
 **Saving data before the app getting killed! Easy state restoration with Flutter**
@@ -432,7 +436,7 @@ Resources: [Video](https://www.droidcon.com/2024/09/03/simplify-design-systems-a
 
 
 ## Lukas Klingsbo
-
+[Web](https://lukas.fyi/) | [GitHub](https://github.com/spydon) | [LinkedIn](https://www.linkedin.com/in/https://linkedin.com/in/spydon)
 
 
 **Ubuntu: An OS experience built on Flutter**
@@ -448,7 +452,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/14eGAql_pLZehIfSUlEwB
 
 
 ## Mangirdas Kazlauskas
-[Web](https://kazlauskas.dev)
+[Web](https://kazlauskas.dev) | [GitHub](https://github.com/mkobuolys) | [X](https://x.com/mkobuolys) | [LinkedIn](https://www.linkedin.com/in/mangirdas-kazlauskas)
 
 
 **Cat-like Development: Flutter for Efficiency**
@@ -787,9 +791,9 @@ Resources: [Video](https://www.droidcon.com/2024/09/03/realtime-communications-w
 
 
 ## Sylvia Dieckmann
-@ [Rozendal Labs]()
+@ [Rozendal Labs](https://rozendallabs.org/authors/sylvia/)
 
-[GitHub](https://github.com/githubmonkey)
+[GitHub](https://github.com/githubmonkey) | [X](https://x.com/sylviedie) | [LinkedIn](https://www.linkedin.com/in/sylviadieckmann/)
 
 
 **Bringing Google Maps to Flutter: The Power of Plugins**

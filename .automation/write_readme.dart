@@ -16,8 +16,8 @@ void writeReadme(List<Talk> talks) async {
 
   readmeContent.writeln('### Contribution\n');
   readmeContent.writeln(
-      'Please add your info to the .json files inside the [talks/ directory](https://github.com/bizz84/ftcon24eu_talks/tree/main/talks). All .md-files will be generated via script `dart run .automation/generate_markdowns.dart` triggered by Github Action. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/bizz84/ftcon24eu_talks/tree/main/.automation) as a starting point to add yours.\n');
-  readmeContent.writeln('We are happy to recieve your PRs :)\n');
+      'Please add your info to the .json files inside the [talks/ directory](https://github.com/bizz84/ftcon24eu_talks/tree/main/talks). All .md files will be generated via script `dart run .automation/generate_markdowns.dart` triggered by Github Action. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/bizz84/ftcon24eu_talks/tree/main/.automation) as a starting point to add yours.\n');
+  readmeContent.writeln('We are happy to receive your PRs :)\n');
 
   readmeContent.writeln('## Lists\n');
 
@@ -41,6 +41,14 @@ void writeReadme(List<Talk> talks) async {
     readmeContent.writeln(
         '| ${talk.title} | ${talk.speakers.map((s) => s.xLink != null ? '[${s.name}](${s.xLink})' : s?.name)?.join(', ') ?? ''} | ${talk.day} | ${talk.time} | ${talk.resources?.where((r) => r.label != 'Slides/Blog/...').map((r) => '[${r.label}](${r.url})').join(', ')} |');
   }
+
+  readmeContent.writeln('## Credits\n');
+
+  readmeContent.writeln(
+      'Big thanks to all the FlutterCon speakers and their efforts in creating and delivering these amazing talks.\n');
+
+  readmeContent.writeln(
+      'Special thanks go to [Martin Bertele](https://github.com/martin-bertele) who created all the automations and [Andrii Matkivskyi](https://github.com/amatkivskiy) who helped with much of the data entry on this repo.\n');
 
   // Write the accumulated content to README.md
   await File('README.md').writeAsString(readmeContent.toString());

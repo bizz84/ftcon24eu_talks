@@ -461,6 +461,8 @@ Join this session and learn from a team leader's firsthand experience, empowerin
 
 Speakers: [Majid Hajian](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#majid-hajian)
 
+Resources: [Video](https://www.droidcon.com/2024/09/09/flutter-engineering-architectural-path/)
+
 This session will explore critical architectural decisions, the variables influencing these choices, and how to cultivate an architectural mindset. 
 
 We'll navigate various architectural styles, such as layered, event-driven, and microkernel architectures at the enterprise level. Additionally, you'll learn about prominent and custom UI architecture patterns for Flutter, including clean architecture and balancing trade-offs. 
@@ -471,6 +473,8 @@ This session is perfect for developers looking to deepen their understanding and
 ## Flutteristas panel
 
 Speakers: [Alicja Ogonowska](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#alicja-ogonowska), [Manuela Sakura Rommel](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#manuela-sakura-rommel), [Kendi J](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#kendi-j), [Danielle Cox](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#danielle-cox), [Elvira Leveque](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#elvira-leveque)
+
+Resources: [Video](https://www.droidcon.com/2024/09/09/flutteristas-panel-2/)
 
 TBD
 
@@ -625,7 +629,7 @@ This talk is for you if you're new to hackathons, have previously participated w
 
 Speakers: [Alicja Ogonowska](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#alicja-ogonowska)
 
-Resources: [Slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing), [Code](https://github.com/alicja-ogonowska/feedback-demo)
+Resources: [Video](https://www.droidcon.com/2024/09/09/listen-up-mastering-a-b-testing-and-feedback-techniques-in-your-mobile-apps/), [Slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing), [Code](https://github.com/alicja-ogonowska/feedback-demo)
 
 In the world of mobile app development, truly understanding and catering to your users' needs can be the difference between an app that thrives and one that just survives. In this talk, we'll focus on how to effectively gather and use feedback from users within Flutter apps, turning it from an overlooked aspect to a core part of your development process.\r\n\r\nWe'll start by exploring a variety of ways to ask for feedback. We'll look at gentle, almost unnoticed prompts within the app, as well as more straightforward methods.\r\n\r\nBut gathering feedback is just the beginning. Next, we'll take a deep dive into A/B testing. This is a powerful tool that can help you understand what your users prefer and how they behave. I will show you how to set up effective tests, interpret the results, and use this information to make decisions about your app.\r\n\r\nBy the end of this talk, you'll have a better understanding of how to listen to your users and use their feedback to improve your app. You'll learn how to build Flutter apps that are shaped by your users' needs and wants, rather than just your initial ideas. This user-focused approach will help you create apps that your users love and keep coming back to. So, let's start listening to our users and making apps that truly meet their needs!
 

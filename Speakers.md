@@ -63,9 +63,11 @@ Recommendations:
 
 **Flutteristas panel**
 
+Resources: [Video](https://www.droidcon.com/2024/09/09/flutteristas-panel-2/)
+
 **Listen up! Mastering A/B testing and feedback techniques in your mobile apps**
 
-Resources: [Slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing), [Code](https://github.com/alicja-ogonowska/feedback-demo)
+Resources: [Video](https://www.droidcon.com/2024/09/09/listen-up-mastering-a-b-testing-and-feedback-techniques-in-your-mobile-apps/), [Slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing), [Code](https://github.com/alicja-ogonowska/feedback-demo)
 
 
 ## Ander Dobo
@@ -234,6 +236,8 @@ Resources: [Video](https://www.droidcon.com/2024/09/02/relaunching-dws-connected
 
 **Flutteristas panel**
 
+Resources: [Video](https://www.droidcon.com/2024/09/09/flutteristas-panel-2/)
+
 **White labelling apps - a year later**
 
 Resources: [Video](https://www.droidcon.com/2024/09/02/white-labelling-apps-a-year-later/)
@@ -271,6 +275,8 @@ Resources: [Video](https://www.droidcon.com/2024/09/03/bluetooth-le-audio-broadc
 
 
 **Flutteristas panel**
+
+Resources: [Video](https://www.droidcon.com/2024/09/09/flutteristas-panel-2/)
 
 **Get the most out of Flutter theming with theme extensions**
 
@@ -370,6 +376,8 @@ Resources: [Video](https://www.droidcon.com/2024/09/03/monitor-your-flutter-app-
 
 **Flutteristas panel**
 
+Resources: [Video](https://www.droidcon.com/2024/09/09/flutteristas-panel-2/)
+
 
 ## Kilian Schulte
 Creator of Jaspr
@@ -445,10 +453,12 @@ Resources: [Slides](https://docs.google.com/presentation/d/14eGAql_pLZehIfSUlEwB
 
 
 ## Majid Hajian
-
+[X](https://x.com/mhadaily)
 
 
 **Flutter Engineering - Architectural path**
+
+Resources: [Video](https://www.droidcon.com/2024/09/09/flutter-engineering-architectural-path/)
 
 
 ## Mangirdas Kazlauskas
@@ -469,6 +479,8 @@ Resources: [Slides](https://kazlauskas.dev/ldd/), [Video](https://www.droidcon.c
 Resources: [Video](https://www.droidcon.com/2024/09/03/dashs-inclusive-adventure-experimenting-with-accessibility-in-flutter-games/)
 
 **Flutteristas panel**
+
+Resources: [Video](https://www.droidcon.com/2024/09/09/flutteristas-panel-2/)
 
 
 ## Marcin Chudy

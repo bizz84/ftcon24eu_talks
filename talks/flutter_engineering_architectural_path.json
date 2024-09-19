@@ -6,7 +6,7 @@
         "companyName": "",
         "companyUrl": "",
         "githubUrlOrHandle": "",
-        "xUrlOrHandle": "",
+        "xUrlOrHandle": "https://x.com/mhadaily",
         "linkedinUrlOrHandle": "",
         "webUrl": ""
       }
@@ -16,8 +16,8 @@
     "videoUrl": "",
     "resources": [
       {
-        "label": "Slides/Blog/...",
-        "url": ""
+        "label": "Video",
+        "url": "https://www.droidcon.com/2024/09/09/flutter-engineering-architectural-path/"
       }
     ],
     "recommendations": [

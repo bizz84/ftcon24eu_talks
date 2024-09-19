@@ -1,6 +1,7 @@
 name: Generate README
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'talks/**'

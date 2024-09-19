@@ -8,9 +8,9 @@ This repo is a collaborative collection from the Flutter talks at [FlutterCon 24
 
 ### Contribution
 
-Please add your info to the .json files inside the [talks/ directory](https://github.com/bizz84/ftcon24eu_talks/tree/main/talks). All .md-files will be generated via script `dart run .automation/generate_markdowns.dart` triggered by Github Action. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/bizz84/ftcon24eu_talks/tree/main/.automation) as a starting point to add yours.
+Please add your info to the .json files inside the [talks/ directory](https://github.com/bizz84/ftcon24eu_talks/tree/main/talks). All .md files will be generated via script `dart run .automation/generate_markdowns.dart` triggered by Github Action. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/bizz84/ftcon24eu_talks/tree/main/.automation) as a starting point to add yours.
 
-We are happy to recieve your PRs :)
+We are happy to receive your PRs :)
 
 ## Lists
 
@@ -109,3 +109,9 @@ Speakers: [list](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md
 | Handling Legacy APIs with Domain Driven Design and Reactivity | Sascha Ernst | Friday | 2:20 PM | [Video](https://www.droidcon.com/2024/09/03/handling-legacy-apis-with-domain-driven-design-and-reactivity/) |
 | Creating Figma plugins with Flutter | Bogdan Hobeanu | Friday | 2:20 PM | [Video](https://www.droidcon.com/2024/09/03/creating-figma-plugins-with-flutter/) |
 | Working with forms as an ecosystem | Vasyl Dytsiak | Friday | 2:20 PM | [Video](https://www.droidcon.com/2024/09/02/working-with-forms-as-an-ecosystem/) |
+## Credits
+
+Big thanks to all the FlutterCon speakers and their efforts in creating and delivering these amazing talks.
+
+Special thanks go to [Martin Bertele](https://github.com/martin-bertele) who created all the automations and [Andrii Matkivskyi](https://github.com/amatkivskiy) who helped with much of the data entry on this repo.
+

@@ -96,7 +96,7 @@
 
 | Title | Speakers | Resources |
 | ----- | -------- | --------- |
-| Live Coding Workshop | [Simon Lightfoot](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#simon-lightfoot) |  |
+| Live Coding Workshop | [Simon Lightfoot](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#simon-lightfoot) | [Video](https://www.droidcon.com/2024/09/02/live-coding-workshop/) |
 | Mastering Flutter + Firebase: Architecting for Scale, Security & Savings | [Tomas Piaggio](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#tomas-piaggio), [Bettina Carrizo](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#bettina-carrizo) | [Video](https://www.droidcon.com/2024/09/02/mastering-flutter-firebase-architecting-for-scale-security-savings/) |
 | Unleashing Flutter on embedded hardware with flutter-pi | [Pieter Scholtz](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#pieter-scholtz), [Hannes Winkler](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#hannes-winkler), [Werner Scholtz](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#werner-scholtz) | [Video](https://www.droidcon.com/2024/09/02/unleashing-flutter-on-embedded-hardware-with-flutter-pi/) |
 | Workshop: Flutter for Android TV and Apple TV | [Sasha Denisov](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#sasha-denisov) |  |

@@ -792,10 +792,12 @@ Resources: [Video](https://www.droidcon.com/2024/09/03/palette-panorama-masterin
 
 
 ## Simon Lightfoot
-
+[X](https://x.com/devangelslondon)
 
 
 **Live Coding Workshop**
+
+Resources: [Video](https://www.droidcon.com/2024/09/02/live-coding-workshop/)
 
 **Realtime Communications with Flutter**
 

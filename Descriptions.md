@@ -638,6 +638,8 @@ In the world of mobile app development, truly understanding and catering to your
 
 Speakers: [Simon Lightfoot](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#simon-lightfoot)
 
+Resources: [Video](https://www.droidcon.com/2024/09/02/live-coding-workshop/)
+
 Come watch Simon live code and get some great insights on how he solves challenges.
 
 
